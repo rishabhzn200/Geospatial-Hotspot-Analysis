@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven Bundle Plugin
+Built-By: simon
+Build-Jdk: 1.8.0_45
+Bundle-Description: Application Layer Protocol Negotiation API
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0, http://www
+ .eclipse.org/org/documents/epl-v10.php
+Bundle-SymbolicName: org.eclipse.jetty.alpn.api
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1432282097517
+Bundle-RequiredExecutionEnvironment: J2SE-1.7
+Bundle-Copyright: Copyright (c) 2008-2015 Mort Bay Consulting Pty. Ltd.
+Bundle-DocURL: http://www.eclipse.org/jetty/documentation/current/alpn
+ -chapter.html
+Bundle-Vendor: Eclipse Jetty Project
+Import-Package: javax.net.ssl
+Tool: Bnd-1.15.0
+Export-Package: org.eclipse.jetty.alpn;uses:="javax.net.ssl";version="
+ 1.1.2"
+Bundle-Version: 1.1.2.v20150522
+Bundle-Name: alpn-api
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: http4s-websocket
+Implementation-Version: 0.1.6
+Specification-Vendor: org.http4s
+Specification-Title: http4s-websocket
+Implementation-Vendor-Id: org.http4s
+Specification-Version: 0.1.6
+Implementation-URL: https://github.com/http4s/http4s-websocket
+Implementation-Vendor: org.http4s
+

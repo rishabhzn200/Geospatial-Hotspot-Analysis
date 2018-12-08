@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1477583006033
+Bundle-ManifestVersion: 2
+Bundle-Name: org.scalaz.concurrent
+Bundle-SymbolicName: org.scalaz.concurrent
+Bundle-Version: 7.1.11
+Created-By: 1.8.0_112 (Oracle Corporation)
+Export-Package: scalaz.concurrent;version="7.1.11";uses:="javax.swing,sc
+ ala,scala.collection,scala.collection.generic,scala.collection.immutabl
+ e,scala.concurrent,scala.concurrent.duration,scala.reflect,scala.runtim
+ e,scalaz,scalaz.effect,scalaz.syntax"
+Import-Package: javax.swing;resolution:=optional,scala;version="[2.11,3)
+ ",scala.collection;version="[2.11,3)",scala.collection.convert;version=
+ "[2.11,3)",scala.collection.generic;version="[2.11,3)",scala.collection
+ .immutable;version="[2.11,3)",scala.collection.mutable;version="[2.11,3
+ )",scala.concurrent;version="[2.11,3)",scala.concurrent.duration;versio
+ n="[2.11,3)",scala.math;version="[2.11,3)",scala.reflect;version="[2.11
+ ,3)",scala.runtime;version="[2.11,3)",scala.sys;version="[2.11,3)",scal
+ az,scalaz.effect,scalaz.std,scalaz.syntax
+Tool: Bnd-2.1.0.20130426-122213

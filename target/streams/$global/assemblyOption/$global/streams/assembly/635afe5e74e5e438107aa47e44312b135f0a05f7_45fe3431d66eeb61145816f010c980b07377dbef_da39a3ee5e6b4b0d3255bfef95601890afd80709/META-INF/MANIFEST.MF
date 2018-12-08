@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Log4s
+Implementation-Version: 1.3.3
+Specification-Vendor: Log4s
+Specification-Title: Log4s
+Implementation-Vendor-Id: org.log4s
+Specification-Version: 1.3.3
+Implementation-URL: http://log4s.org
+Vcs-Release-Tag: v1.3.3
+Implementation-Vendor: Log4s
+Vcs-Release-Hash: 42cae969262616bad35943f3a7ae9956d0c12001
+

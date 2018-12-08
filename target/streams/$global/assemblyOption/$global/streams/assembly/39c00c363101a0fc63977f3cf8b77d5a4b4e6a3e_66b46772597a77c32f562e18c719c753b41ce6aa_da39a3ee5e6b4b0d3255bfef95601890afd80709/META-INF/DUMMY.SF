@@ -1,0 +1,95 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 7fHiX1emzKZwcjc3UDwxStfP5ahxx
+ 1Y8E5mo/K74L1o=
+SHA-256-Digest-Manifest: Eh9arVHPzRZoahkw8bz6xc7pKGIRhecYjhMnwhiLngY=
+Created-By: 1.8.0_45 (Oracle Corporation)
+
+Name: org/codehaus/commons/compiler/package-info.class
+SHA-256-Digest: j8W71CWOpcwz9xaayCd8WmiZp47RZo011m6Xxnf193A=
+
+Name: org/codehaus/commons/compiler/ICookable.class
+SHA-256-Digest: NFsfNzBMdyn4YOjk9lQWx5txPycf7Nov4q8v9zjTVQo=
+
+Name: org/codehaus/commons/compiler/samples/ScriptDemo.class
+SHA-256-Digest: aKblTd576s7YnvYdxFTr4WGbXwqFw3ItVmUCJPgSQcY=
+
+Name: org/codehaus/commons/compiler/CompileException.class
+SHA-256-Digest: ztQNDi/lweYiV+cUXCPDuhpLLatg/e4x9iSFwbaeXL4=
+
+Name: org/codehaus/commons/compiler/WarningHandler.class
+SHA-256-Digest: 6lLeupgtL5MFM1QI4KSPbtKAHgB1+WR6PitdqvLRkXw=
+
+Name: org/codehaus/commons/compiler/CompilerFactoryFactory.class
+SHA-256-Digest: 04C0yOeEEv/YeQzwYdL1XOAij57n6bizDZuiIpPQW0o=
+
+Name: org/codehaus/commons/compiler/AbstractCompilerFactory.class
+SHA-256-Digest: +LPklojZTFcFSNhBxBjHfCl9jI6OC7KwdgnmiH1Sfag=
+
+Name: org/codehaus/commons/compiler/Cookable.class
+SHA-256-Digest: 4IqRW0EP1ewwQVkgnpz2eoL07Jua4l8HnbeoJxATzcY=
+
+Name: org/codehaus/commons/nullanalysis/NotNull.class
+SHA-256-Digest: msCKEWbpjZ64Rw1ZCT7UUdeVfIRyUSczQ5k24tvYvQ4=
+
+Name: org/codehaus/commons/compiler/AbstractJavaSourceClassLoader$Prot
+ ectionDomainFactory.class
+SHA-256-Digest: xDKBYrQ7u7dqYqZ5taK+655te96ckFLbAnaNtNKh8Zo=
+
+Name: org/codehaus/commons/compiler/samples/package-info.class
+SHA-256-Digest: rHs467AwcMhLKpw9Ey9KvmXk0Ddeq0dXp/1P1vnNt18=
+
+Name: org/codehaus/commons/compiler/ISimpleCompiler.class
+SHA-256-Digest: qx55mQGF9W6BBtili0B75qguoQJaHl7aBhopGxIuaHI=
+
+Name: org/codehaus/commons/nullanalysis/package-info.class
+SHA-256-Digest: V4JBk7NvY8Gd71yozEWwULU9FZrGrlivCkXs7LBV2mc=
+
+Name: org/codehaus/commons/compiler/IScriptEvaluator.class
+SHA-256-Digest: V/NYAUNJmtlvHlGa+C60vc+yodjSuqZqBYD1h6ksa5E=
+
+Name: org/codehaus/commons/compiler/IClassBodyEvaluator.class
+SHA-256-Digest: JxLNcazD/mePGcMebNaxAroka9VmhTLr7gWotUPBYao=
+
+Name: org/codehaus/commons/nullanalysis/NotNullByDefault.class
+SHA-256-Digest: VuGbT58HOgSIn/K0KB9P/IS2T3DxwQlEBwW0RTPbR2s=
+
+Name: org/codehaus/commons/compiler/LocatedException.class
+SHA-256-Digest: pomPvyMIpp5kA6ECOZjHc7cYme1UPNo/pJcDrs24+PM=
+
+Name: org/codehaus/commons/compiler/PrimitiveWrapper.class
+SHA-256-Digest: QsqpmJgaFg/8pj/ctjEEaHZJCIitRA/MT6Wanr0onnU=
+
+Name: org/codehaus/commons/compiler/Jsh.class
+SHA-256-Digest: hO3NNqkRLHKmHkOn8MO+8lvnoUsugROuspNQNhcbJ6g=
+
+Name: org/codehaus/commons/compiler/samples/ClassBodyDemo.class
+SHA-256-Digest: pGPLFvanYEfR67RrYT1DImTji6iVGZLTvFwTdlYBRJQ=
+
+Name: org/codehaus/commons/compiler/samples/DemoBase.class
+SHA-256-Digest: 8BPAi1KS5MnOSXt+ZofKRJ2UJYCECxemuyMLcikrjug=
+
+Name: org/codehaus/commons/compiler/ICompilerFactory.class
+SHA-256-Digest: kRB1N5i2de8FgL3XYECmDA9er4v/Z6p47nIjMv0fgZ4=
+
+Name: org/codehaus/commons/compiler/IExpressionEvaluator.class
+SHA-256-Digest: GRSsSF9Gcfv7BGFXIecbLle13Vs+QqjAsZGgw+SsCbQ=
+
+Name: org/codehaus/commons/compiler/Location.class
+SHA-256-Digest: fgTbwhQ3/uuKNYqPDt/pvW3FBrnLxQzJ6hmgOqJhTBI=
+
+Name: org/codehaus/commons/nullanalysis/Nullable.class
+SHA-256-Digest: Nn37EmRN9XRhOddLkyxLh4DwPhviMOPhd8x8q5Fdo8c=
+
+Name: org/codehaus/commons/compiler/AbstractJavaSourceClassLoader.clas
+ s
+SHA-256-Digest: o5SL/yJINXPO+QADYaBLvNQtkiVfMurnIAgfBuHLTfY=
+
+Name: org/codehaus/commons/compiler/samples/ExpressionDemo.class
+SHA-256-Digest: /IY9lc10Z/7n0/xnhfNW+qQSLIE9wj+hZ1+LOuLLlaw=
+
+Name: org/codehaus/commons/compiler/samples/ShippingCost.class
+SHA-256-Digest: 3tjXb0wpNl9TAQbiScR5IPRBX2nrBUlrleUeF3xGV+M=
+
+Name: org/codehaus/commons/compiler/ErrorHandler.class
+SHA-256-Digest: OqX1vJQyrVqDLvSenjm3K9DSdep/cWTOZaWCVtmkWA4=
+

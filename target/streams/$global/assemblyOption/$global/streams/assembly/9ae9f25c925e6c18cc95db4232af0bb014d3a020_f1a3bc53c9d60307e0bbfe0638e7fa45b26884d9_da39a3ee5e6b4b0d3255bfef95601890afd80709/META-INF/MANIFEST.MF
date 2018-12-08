@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Parquet Jackson
+git-SHA-1: c6522788629e590a53eb79874b95f6c3ff11f16c
+Implementation-Version: 1.8.2
+Implementation-Vendor-Id: org.apache.parquet
+Built-By: blue
+Build-Jdk: 1.7.0_80
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Parquet Jackson
+Created-By: Apache Maven 3.3.9
+Specification-Version: 1.8.2
+Archiver-Version: Plexus Archiver
+

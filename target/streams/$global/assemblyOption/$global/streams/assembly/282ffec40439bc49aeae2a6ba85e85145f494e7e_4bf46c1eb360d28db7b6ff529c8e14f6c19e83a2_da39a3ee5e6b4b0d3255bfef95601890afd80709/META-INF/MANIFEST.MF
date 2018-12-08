@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scala-optparse
+Implementation-Version: 1.1.2
+Specification-Vendor: com.frugalmechanic
+Specification-Title: scala-optparse
+Implementation-Vendor-Id: com.frugalmechanic
+Specification-Version: 1.1.2
+Implementation-URL: https://github.com/frugalmechanic/scala-optparse
+Implementation-Vendor: com.frugalmechanic
+

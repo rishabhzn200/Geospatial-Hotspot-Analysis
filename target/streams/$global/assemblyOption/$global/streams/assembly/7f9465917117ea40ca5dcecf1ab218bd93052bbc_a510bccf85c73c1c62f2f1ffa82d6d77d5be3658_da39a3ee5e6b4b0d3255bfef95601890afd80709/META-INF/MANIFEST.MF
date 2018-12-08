@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Spark Project Sketch
+Implementation-Version: 2.2.0
+Built-By: jenkins
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Spark Project Sketch
+Implementation-Vendor-Id: org.apache.spark
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_60
+Specification-Version: 2.2
+Implementation-URL: http://spark.apache.org/
+Implementation-Vendor: The Apache Software Foundation
+

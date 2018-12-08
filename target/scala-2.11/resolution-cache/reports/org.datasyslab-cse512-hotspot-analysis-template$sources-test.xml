@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="org.datasyslab"
+		module="cse512-hotspot-analysis-template$sources"
+		revision="0.1.0"
+		conf="test"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20181208121230"/>
+	<dependencies>
+		<module organisation="org.scala-lang" name="scala-reflect">
+			<revision name="2.11.11" status="release" pubdate="20170413125043" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2829" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang/scala-reflect/ivy-2.11.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.11/scala-reflect-2.11.11.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/"/>
+				<artifacts>
+					<artifact name="scala-reflect" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="565435" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.11-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.11/scala-reflect-2.11.11-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalatest" name="scalatest_2.11">
+			<revision name="2.2.4" status="release" pubdate="20150129001600" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scalatest.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="the Apache License, ASL Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="4971" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalatest/scalatest_2.11/ivy-2.2.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.2.4" rev-constraint-default="2.2.4" rev-constraint-dynamic="2.2.4" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scalatest_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1438876" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-2.2.4-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.specs2" name="specs2-junit_2.11">
+			<revision name="2.4.16" status="release" pubdate="20150129155108" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<license name="MIT-style" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3177" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-junit_2.11/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-junit_2.11/2.4.16/specs2-junit_2.11-2.4.16.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="specs2-junit_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13326" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-junit_2.11/srcs/specs2-junit_2.11-2.4.16-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-junit_2.11/2.4.16/specs2-junit_2.11-2.4.16-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.specs2" name="specs2-core_2.11">
+			<revision name="2.4.16" status="release" pubdate="20150129155106" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="13">
+				<license name="MIT-style" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3268" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-core_2.11/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-core_2.11/2.4.16/specs2-core_2.11-2.4.16.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="specs2-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="106657" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-core_2.11/srcs/specs2-core_2.11-2.4.16-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-core_2.11/2.4.16/specs2-core_2.11-2.4.16-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.specs2" name="specs2-matcher_2.11">
+			<revision name="2.4.16" status="release" pubdate="20150129155115" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="12">
+				<license name="MIT-style" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="2802" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-matcher_2.11/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-matcher_2.11/2.4.16/specs2-matcher_2.11-2.4.16.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="specs2-matcher_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="55395" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-matcher_2.11/srcs/specs2-matcher_2.11-2.4.16-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-matcher_2.11/2.4.16/specs2-matcher_2.11-2.4.16-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.specs2" name="specs2-common_2.11">
+			<revision name="2.4.16" status="release" pubdate="20150129155030" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://specs2.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="10">
+				<license name="MIT-style" url="http://www.opensource.org/licenses/mit-license.php"/>
+				<metadata-artifact status="no" details="" size="3220" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-common_2.11/ivy-2.4.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/specs2/specs2-common_2.11/2.4.16/specs2-common_2.11-2.4.16.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.4.16" rev-constraint-default="2.4.16" rev-constraint-dynamic="2.4.16" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="specs2-common_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="102986" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.specs2/specs2-common_2.11/srcs/specs2-common_2.11-2.4.16-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/specs2/specs2-common_2.11/2.4.16/specs2-common_2.11-2.4.16-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-concurrent_2.11">
+			<revision name="7.1.0" status="release" pubdate="20140801091531" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="8">
+				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="2956" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.1.0/scalaz-concurrent_2.11-7.1.0.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scalaz-concurrent_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="20892" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/srcs/scalaz-concurrent_2.11-7.1.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/7.1.0/scalaz-concurrent_2.11-7.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-effect_2.11">
+			<revision name="7.1.0" status="release" pubdate="20140801091522" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="2797" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-effect_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.1.0/scalaz-effect_2.11-7.1.0.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scalaz-effect_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="24031" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-effect_2.11/srcs/scalaz-effect_2.11-7.1.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.11/7.1.0/scalaz-effect_2.11-7.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scalaz" name="scalaz-core_2.11">
+			<revision name="7.1.0" status="release" pubdate="20140801091551" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://scalaz.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="1">
+				<license name="BSD-style" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="2971" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-core_2.11/ivy-7.1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.1.0/scalaz-core_2.11-7.1.0.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="7.1.0" rev-constraint-default="7.1.0" rev-constraint-dynamic="7.1.0" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scalaz-core_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="334686" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.11/7.1.0/scalaz-core_2.11-7.1.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-xml_2.11">
+			<revision name="1.0.2" status="release" pubdate="20140520011040" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="3137" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/ivy-1.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scala-xml_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="109171" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/srcs/scala-xml_2.11-1.0.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang.modules" name="scala-parser-combinators_2.11">
+			<revision name="1.0.2" status="release" pubdate="20140722234535" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="9">
+				<license name="BSD 3-clause" url="http://opensource.org/licenses/BSD-3-Clause"/>
+				<metadata-artifact status="no" details="" size="2929" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/ivy-1.0.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="1.0.2" rev-constraint-default="1.0.2" rev-constraint-dynamic="1.0.2" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="scala-parser-combinators_2.11" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="42219" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/srcs/scala-parser-combinators_2.11-1.0.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.2/scala-parser-combinators_2.11-1.0.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="junit" name="junit">
+			<revision name="4.11" status="release" pubdate="20121114122147" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://junit.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="Common Public License Version 1.0" url="http://www.opensource.org/licenses/cpl1.0.txt"/>
+				<metadata-artifact status="no" details="" size="2897" time="0" location="/Users/rishabhzn200/.ivy2/cache/junit/junit/ivy-4.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="4.11" rev-constraint-default="4.11" rev-constraint-dynamic="4.11" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="junit" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="151329" time="0" location="/Users/rishabhzn200/.ivy2/cache/junit/junit/srcs/junit-4.11-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/junit/junit/4.11/junit-4.11-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.hamcrest" name="hamcrest-core">
+			<revision name="1.3" status="release" pubdate="20120709140802" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="11">
+				<license name="New BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="2617" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.hamcrest/hamcrest-core/ivy-1.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="1.3" rev-constraint-default="1.3" rev-constraint-dynamic="1.3" callerrev="0.1.0"/>
+				<artifacts>
+					<artifact name="hamcrest-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="32624" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.hamcrest/hamcrest-core/srcs/hamcrest-core-1.3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.11" status="release" pubdate="20170413125031" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2656" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11.pom"/>
+				<caller organisation="org.datasyslab" name="cse512-hotspot-analysis-template$sources" conf="test, compile, runtime" rev="2.11.11" rev-constraint-default="2.11.11" rev-constraint-dynamic="2.11.11" callerrev="0.1.0" extra-info.apiURL="http://www.scala-lang.org/api/2.11.11/"/>
+				<artifacts>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="911961" time="0" location="/Users/rishabhzn200/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.11/scala-library-2.11.11-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: blaze-client
+Implementation-Version: 0.15.5
+Specification-Vendor: org.http4s
+Specification-Title: blaze-client
+Implementation-Vendor-Id: org.http4s
+Specification-Version: 0.15.5
+Implementation-URL: http://http4s.org/
+Implementation-Vendor: org.http4s
+

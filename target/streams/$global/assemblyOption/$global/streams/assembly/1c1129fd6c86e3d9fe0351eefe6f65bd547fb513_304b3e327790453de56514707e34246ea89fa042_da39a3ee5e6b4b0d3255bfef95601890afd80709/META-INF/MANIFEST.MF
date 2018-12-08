@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-Description: Header Compression for HTTP/2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: com.twitter.hpack
+Archiver-Version: Plexus Archiver
+Built-By: chrisa
+Bnd-LastModified: 1434046626781
+Bundle-ManifestVersion: 2
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Tool: Bnd-2.3.0.201405100607
+Export-Package: com.twitter.hpack;version="0.0.0"
+Bundle-Name: HPACK
+Bundle-Version: 0.0.0.v1_0_1
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_25
+

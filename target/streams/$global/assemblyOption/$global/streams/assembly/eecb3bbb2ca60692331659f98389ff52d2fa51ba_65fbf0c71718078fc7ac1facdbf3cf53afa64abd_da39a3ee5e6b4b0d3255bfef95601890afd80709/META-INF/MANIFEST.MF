@@ -1,0 +1,3402 @@
+Manifest-Version: 1.0
+Implementation-Title: JetS3t
+Implementation-Version: 0.9.3
+Archiver-Version: Plexus Archiver
+Built-By: jmurty
+Specification-Title: JetS3t
+Implementation-Vendor-Id: net.java.dev.jets3t
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_05
+Specification-Version: 0.9.3
+
+Name: org/jets3t/service/model/S3BucketLoggingStatus.class
+SHA-256-Digest: EbLgzsruOTUAy6zWnasOzd5mm6R5Ln0sN4i0/YxBu+o=
+
+Name: images/nuvola/32x32/actions/wizard.png
+SHA-256-Digest: Rsrci/62ObI9tKZKZPKR0/5Z2hplhFn0GIJBoA9/+Ac=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Cac
+ heBehaviorHandler.class
+SHA-256-Digest: /1yjCICyTmQbK6kFF+sNHjMAeIEkpYSKS92cig7CnZc=
+
+Name: images/nuvola/32x32/actions/bookmark_add.png
+SHA-256-Digest: Zp8iAj46Do7bUvj7pMwJcnzQs19fNKd77DgtF9Q1YCA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$27.class
+SHA-256-Digest: QrzeZJgu0fUT36ogdGhYMJ9BfgPA+a6YZa4mrQgJ0mc=
+
+Name: org/jets3t/service/model/S3DeleteMarker.class
+SHA-256-Digest: MN7uUqGrTMaHHJAn4/TaWV93XJLEDc9vnqtF/lAx6io=
+
+Name: images/nuvola/32x32/filesystems/folder_open.png
+SHA-256-Digest: NJ9Rql2w3eZBqgqr41g5rgUAv58X8ieGUHYli/MhzKo=
+
+Name: images/nuvola/16x16/actions/fileexport.png
+SHA-256-Digest: SLoPLN9rZQ9yyLkWWfjkvvPT1G/rFX0s7kNUswIqbHU=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$DistributionListTableMo
+ del$1.class
+SHA-256-Digest: yorkLDjV7WLYTReejcbCyQCfhJW61Z0FoH2SZVQrbYc=
+
+Name: org/jets3t/apps/cockpit/Cockpit$14.class
+SHA-256-Digest: yV5QqAKAv/vX8cId3Obuqd/OZb8tBTrosMjOJYo+FpE=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$3.class
+SHA-256-Digest: 69QBRpySoL9Pwag+XlPIX7CbGEtmtK8I/R8yLFU8jgk=
+
+Name: images/nuvola/32x32/actions/apply.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: org/jets3t/gui/ProgressDialog$2.class
+SHA-256-Digest: t/I4DBJC/S2HzZln+SyeZ2d9gkICcXkfLYynImAoM5M=
+
+Name: mime.types
+SHA-256-Digest: OPbr2Kpj3H1dvWGzu6XwTc+h519gdlRksygWsiRv6Ek=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$DeleteObjectRunnab
+ le.class
+SHA-256-Digest: vCmRh/ZwCu4mYmZGPlrPrf0REJzXCPF8llkHoGCNG/k=
+
+Name: org/jets3t/apps/cockpit/gui/LoginPassphrasePanel.class
+SHA-256-Digest: hZ3U9560bHjIgXCBI/ItGJTbiIXXtZ9JU3ljyBMZzjc=
+
+Name: images/nuvola/16x16/actions/view_nofullscreen.png
+SHA-256-Digest: izfdDGNxGieDcWiM21qqzzYQl520uOrNv1qUz0/O0Vw=
+
+Name: images/nuvola/32x32/actions/edit_remove.png
+SHA-256-Digest: VbgptUWVBCXItavq1SQg/r/FGgWL3LEpupJ+aGg5Ksc=
+
+Name: org/jets3t/apps/cockpit/Cockpit$14$1.class
+SHA-256-Digest: qRmPoaHYz+OglkVt7qVQsY3pRSvjY2GICXe4XOyeJuM=
+
+Name: images/nuvola/16x16/actions/cut.png
+SHA-256-Digest: ZAFssD3wjykaq8U8qiVoszNZYA9PVaG6w6Hr6Wu1d+4=
+
+Name: org/jets3t/service/multi/event/GetObjectsEvent.class
+SHA-256-Digest: rKjP6hNJ9gxCLOuKPE9GVqJupwI+SI09GwRf21Czesc=
+
+Name: org/jets3t/service/multi/event/UpdateACLEvent.class
+SHA-256-Digest: twiXLGW0XCQMYh0ApSFst8ipCkfbWwTMmgaCATUkT2k=
+
+Name: org/jets3t/service/acl/gs/GroupByIdGrantee.class
+SHA-256-Digest: k7OLkvwls471ax0CnUome32HgRmbLY+KgCWf4mj1Fok=
+
+Name: images/nuvola/16x16/actions/help.png
+SHA-256-Digest: ZcLCf+qpXLKD0sDTTvyexaXH2J2Y2ppQVZS7Y2lWtjc=
+
+Name: org/jets3t/service/model/S3Object.class
+SHA-256-Digest: ZXYlsavhINXYWks/uVK++QMi4l/kNSx5y+Czr69t10A=
+
+Name: images/nuvola/32x32/actions/fileopen.png
+SHA-256-Digest: BV5nq6K7Cu6C6Y+dxz0T/OSVpjihQkzrSIJHxzDIYQ8=
+
+Name: org/jets3t/service/utils/FileComparer$3.class
+SHA-256-Digest: tNMJfPdcKpHHwD8VyB5P+8KAZCbwFnNZZRxWbLaEZRI=
+
+Name: images/nuvola/32x32/filesystems/socket.png
+SHA-256-Digest: loGuilKAG5a9CFgRgi5dIl3pmRSd9fxbSB+uoG8uau4=
+
+Name: org/jets3t/apps/cockpit/gui/LoginCredentialsPanel.class
+SHA-256-Digest: j22VND4JBEJxTyxpFVFhKe/jA/BD/iDUYqDAbMtwUTg=
+
+Name: org/jets3t/apps/cockpit/gui/PreferencesDialog.class
+SHA-256-Digest: LXf5aaxyRzUOtIprRm0C03r8ORHGa4ctEDwTW7Gn/r8=
+
+Name: org/jets3t/service/model/ThrowableBearingStorageObject.class
+SHA-256-Digest: 5Hq6Es+S3CQX0vIGAoIfji3kc5hbs/o2+pr1hgBMWrg=
+
+Name: org/jets3t/samples/CodeSamples.class
+SHA-256-Digest: Tibcz3VUNi7Cv7uaMxfWi2Z6rPcyznHKliCvGajZciU=
+
+Name: images/nuvola/16x16/actions/irkickflash.png
+SHA-256-Digest: Ud1LmZew2CEIrbhsA3R0531Q7Mi15kf2KogZoMqKz28=
+
+Name: org/jets3t/apps/cockpit/Cockpit$5.class
+SHA-256-Digest: I5Hbw0DD9cbZ8GR6vV0nj+NihxV3H9ZnOfCmAdlX3uc=
+
+Name: images/nuvola/16x16/actions/news_unsubscribe.png
+SHA-256-Digest: 5xR6bpxNdIuq9JYBeh6SUhVtZJy0NXxVfoJgMOyPUAI=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$MultipartCompleteR
+ unnable.class
+SHA-256-Digest: tR9oqj2zNHGhKIBaO1GpdM3GOvTFSarqamCu0rw1IjY=
+
+Name: images/nuvola/32x32/actions/mail_replyall.png
+SHA-256-Digest: tXOmYgr0RRwaZkIvxaT5VA/XAwqMA/WzsaMeFfe4Gb0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$6$3.class
+SHA-256-Digest: SgsFNcg+gMZS5SfMFhFMHjO6yyny4N6uyzZTA1rxs+s=
+
+Name: org/jets3t/gui/skins/html/SkinnedJComboBox.class
+SHA-256-Digest: G/4tRIKMQn/vLPdVxOPZoR7X+lRxgu5MROEsoQP/dYI=
+
+Name: images/nuvola/16x16/actions/window_new.png
+SHA-256-Digest: 8CwJccpyr4b4wYIHVi/9lYumP7jAk63zsaP4l9FzhfA=
+
+Name: images/nuvola/32x32/actions/frameprint.png
+SHA-256-Digest: jS4nogoU7TOu0NplxSFQJDZaSyEqmICfcamwVF/dafo=
+
+Name: images/nuvola/16x16/actions/kaboodleloop.png
+SHA-256-Digest: Cgkf2YPAoYq2pBfNoi0QQPkswrFeVbADwh6fuPSlxgo=
+
+Name: org/jets3t/apps/cockpit/Cockpit$22.class
+SHA-256-Digest: BUBV2Zcz7J5jssv+JreX87JIpgHxmhyTTu88cYUdGnA=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$MultipartUplo
+ adResultHandler.class
+SHA-256-Digest: oL0M/O6uo+321SD0+ESSfh09TuayEepQ44EoUI2aoUY=
+
+Name: org/jets3t/service/model/S3BucketVersioningStatus.class
+SHA-256-Digest: xyxWyaHHosBOtpP6Bt59WYQl8/xHJjHCIrGQaJlghGQ=
+
+Name: images/nuvola/32x32/filesystems/folder_print2.png
+SHA-256-Digest: 71u2cAuuy+P9IzpSKWvGK5ENajyYDAkLhQM3nwqYSGk=
+
+Name: images/nuvola/32x32/actions/view_nofullscreen.png
+SHA-256-Digest: gFYYWyFM8/xOLl4zfUgBGzZKFLkYRrmzs+D9iAkhS7w=
+
+Name: org/jets3t/service/multi/s3/MultipartUploadsEvent.class
+SHA-256-Digest: eMtzXNDiNI4UzTLcpbgLvSrusYLGluafBpuvEYA8/1Q=
+
+Name: images/nuvola/16x16/actions/1rightarrow.png
+SHA-256-Digest: PEhKchEVSBzoDfQxUKg/818ZahC7oMJ7UaC+tbioM/A=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$GSBucketLoggi
+ ngStatusHandler.class
+SHA-256-Digest: FlaKZJWbA9PWFVr6bcbVrBxaL8IrC+y4wqJ15FCvaZw=
+
+Name: images/nuvola/16x16/actions/2rightarrow.png
+SHA-256-Digest: GczT9uDOGkzw3U2+ejYAhc6tfo43DKYwe4Q2dcE7Dp0=
+
+Name: images/nuvola/32x32/filesystems/folder_image.png
+SHA-256-Digest: L2dlNAR0nS6SpNte7NI4XnePu4gFmMt4LdDv/5k64Pc=
+
+Name: org/jets3t/service/model/S3Version.class
+SHA-256-Digest: efLCPnT5WeFyB9xRYjPlfSGYgPuw4OErIvVTMPCt7nY=
+
+Name: images/nuvola/32x32/filesystems/file_important.png
+SHA-256-Digest: fEAnI3LDdooSBKbXMaISUbegT21Koezd0n+VojjF65I=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$5$1.class
+SHA-256-Digest: E1e7JXg3+wW29PjxEW5tLOwXzAzBclTd85eh/p6KM+A=
+
+Name: org/jets3t/service/multithread/CancelEventTrigger.class
+SHA-256-Digest: LyjgK2nz1oXs3xtKi76S2RQGU8LeFdJFAz4tRUeC5q0=
+
+Name: images/nuvola/32x32/actions/about_kde.png
+SHA-256-Digest: ejvFh1kSfbrecrqo5PIJEwmo6MZ9KYS1eKQwvun23HY=
+
+Name: org/jets3t/service/multi/DownloadPackage.class
+SHA-256-Digest: s7h0DIgOKnWImL8+DOq6/Do+S7R6IhvDihWSzrNvb0I=
+
+Name: org/jets3t/apps/cockpit/Cockpit$19.class
+SHA-256-Digest: p8KtW8Vv9U0/8tGoZ4SbosCkz7xQFmstTu1r3Xi5dfg=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$3$2.class
+SHA-256-Digest: gYDfLYoeWOWIPILJrxdd6psRAGgjzBf36QSIQ/AIb30=
+
+Name: images/nuvola/16x16/actions/color_line.png
+SHA-256-Digest: SIFQJRRNhfGqEJb5uLUmmXjhme5C+pHI77hwRzHwpqk=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog$4.class
+SHA-256-Digest: ftEYL3zRXgVXhwoMigm610OgOVmClyKZovemY18Ehdc=
+
+Name: images/nuvola/16x16/actions/wizard.png
+SHA-256-Digest: WrRTMgk5ciNcTaYz53Z1qLtf0CCHOUkulRP7GnfFBAA=
+
+Name: images/nuvola/16x16/actions/kgpg_sign.png
+SHA-256-Digest: U5LSnN1rBgdUzn47At72WQ8fn2Hl6slvolfnAk4cF9I=
+
+Name: images/nuvola/32x32/actions/1downarrow.png
+SHA-256-Digest: iEsVFUtEJz8F7a6oTHAUEK7JlV0qKugOLbTCC77wgdo=
+
+Name: images/nuvola/32x32/filesystems/folder_red.png
+SHA-256-Digest: pOyfY7SLoJCRvay6e++nBGCbDvovLTnzEOTfcYVn0Lg=
+
+Name: org/jets3t/service/model/cloudfront/LoggingStatus.class
+SHA-256-Digest: qX2GVJJkekp5p/3Wnp9io59u5n/7dpJyf+2lRWNmaCk=
+
+Name: images/nuvola/32x32/actions/edittrash.png
+SHA-256-Digest: QXuBb9eL+uAR3Jdqb7njA4tDnLMUO4PnedD5JZItYCM=
+
+Name: images/nuvola/32x32/actions/kgpg_export.png
+SHA-256-Digest: JAqqSC9wXcM/KPuNg0D8Fx2IBDrY0HQGRDnKdXuPnXQ=
+
+Name: images/nuvola/16x16/actions/lock.png
+SHA-256-Digest: lWcI45doCg3zswTpmpP/isAaz61JVLqUSHijMYOBbUs=
+
+Name: images/nuvola/32x32/actions/tab_new_raised.png
+SHA-256-Digest: nVDSp/u4i4g8d5Y+B+0+dDMkzdVQKUug0v2ALMyPjRE=
+
+Name: images/nuvola/16x16/actions/view_icon.png
+SHA-256-Digest: qcEHOr90nrhIcFNM75Q+VYtEdvUXmMeUlx2L57uUd8g=
+
+Name: images/nuvola/32x32/actions/kgpg_key2.png
+SHA-256-Digest: qfw01axvwi/4QrOl1XSVc2d+9Aiw0on0Pb8s1wHj+Bs=
+
+Name: images/nuvola/32x32/actions/news_unsubscribe.png
+SHA-256-Digest: EE0W778wfp5aVgjTWcoUqMKeud26CA7TD0GRZhy3WaA=
+
+Name: org/jets3t/apps/cockpitlite/CLObjectTableModel$2.class
+SHA-256-Digest: g8ocOX9SDqRv5OG3Law4WkUkgpIX1+J/dClDYsKKo28=
+
+Name: org/jets3t/service/utils/SignatureUtils.class
+SHA-256-Digest: 7ZD8u2Q8nhUAcyRMXF8ZZf4+59sMdmFYvxnlb4E723w=
+
+Name: images/nuvola/16x16/actions/view_choose.png
+SHA-256-Digest: WfZ4K29JwN4L2b9VsEDvzuNZJS0Nrk1sL9u9UwU1Cxo=
+
+Name: images/nuvola/32x32/actions/fill.png
+SHA-256-Digest: qQ26WhF7zqfj9du8WuVjczK8Tac06jpOlau+lgrEwUg=
+
+Name: org/jets3t/apps/cockpit/gui/CredentialsDialog.class
+SHA-256-Digest: F49imN2JmU/wNIfG5aJ1r/nbD0z3fbj/fCrTeJhtRAk=
+
+Name: images/nuvola/32x32/actions/view_top_bottom.png
+SHA-256-Digest: sjsoGZWTbVWn7HXejt2ZK+ZfTceTKfqvqaRncIkeSYM=
+
+Name: images/nuvola/32x32/actions/folder_new.png
+SHA-256-Digest: 8CW2+X7xE4s+SpSMnECAAwstTDdp/ewTyyNl1GFvrds=
+
+Name: images/nuvola/32x32/actions/kgpg_edit.png
+SHA-256-Digest: 8Lmzg/t42+Y15J6IjASKkwVGnuLkWe89eGoq+W9dHWI=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$22$1.class
+SHA-256-Digest: zoeiiTyyayJmCzt9MirmFOiQznVU/RBfYYAHBuf76ZQ=
+
+Name: images/nuvola/32x32/filesystems/folder_favorite.png
+SHA-256-Digest: CvpxS6JXD++xVcE4mx3RMzxtWDywksYTVZklvVyDWQs=
+
+Name: org/jets3t/apps/uploader/Uploader$2.class
+SHA-256-Digest: cKPm+qM5Zw+jLjn2J1xaLmMe+BASXXy8YwwwYTPOSVg=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$CopyObjectRunnab
+ le.class
+SHA-256-Digest: ERAXkCv8+x/atZKf0WcP15j/+Im2Zv8XDch6vm+6YpE=
+
+Name: org/jets3t/apps/utils/FileCryptoTool$1.class
+SHA-256-Digest: bdLptly/z/Svj/kXWfGF0S8694yDI9RmoQIKJYNqnTE=
+
+Name: contribs/mx/LongCounter.class
+SHA-256-Digest: W/Za3g4TYu2hpzTdqqFEDEf8kp+ofz2Vp+RJBftQSDc=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti.class
+SHA-256-Digest: qXIYdigkdfBV5O23Gi+de24SQEnsUuVLRj8IlXmLxs4=
+
+Name: images/nuvola/32x32/actions/make_kdevelop.png
+SHA-256-Digest: 1Mug0nTaSRXfqETENS6w6wejywH+s7zAI2uk+8mItKc=
+
+Name: images/nuvola/32x32/actions/openterm.png
+SHA-256-Digest: QIdF6a51YObszZoDQWw+4/NvBUew2gqBFwgl8VoNuzM=
+
+Name: org/jets3t/service/CloudFrontServiceException.class
+SHA-256-Digest: t2RG3vGRBg1cCKiFfEaC7tuFX1WMgjcIqVjcbiav7Es=
+
+Name: images/nuvola/32x32/actions/ledlightgreen.png
+SHA-256-Digest: IgaOVPC0Uj+n7Imwr0jmqQ2q9v+Lo7QdTgNKRucKS8A=
+
+Name: images/nuvola/32x32/actions/mail_delete.png
+SHA-256-Digest: IvhXCY52Mbn6SNBDSJtfGGunsCwIWxnJk/m/YH/vT6E=
+
+Name: images/nuvola/32x32/actions/player_start.png
+SHA-256-Digest: M8hB0pvP0mYl0MqLY1rKp+JoLzYuSBFfbqZddNvGM04=
+
+Name: org/jets3t/apps/cockpit/gui/BucketTableModel.class
+SHA-256-Digest: VSaUqI+80zZ1sjK2rt8SkSS+pizcKGPjNWb2G8JjTrg=
+
+Name: org/jets3t/service/impl/rest/httpclient/RestStorageService.class
+SHA-256-Digest: iI3L/j2aUKvirlEjfOgZoQwkbQtLrVLKDtQmnrfJNF8=
+
+Name: images/nuvola/16x16/actions/piano.png
+SHA-256-Digest: u8HLRacAl9t0Iq0o0co1UEy11VumtirpS8NDL1lH0k8=
+
+Name: org/jets3t/apps/synchronize/Synchronize$1.class
+SHA-256-Digest: Hn3GZ3Fl66g4w4kJ+wj0bSwlDNJuaGCjZnof5gSPbrc=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4$5.class
+SHA-256-Digest: elCzF+bkZ+Itn0jF5UgHwJrr/OZGzd8CoThL3YFvcXo=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Ori
+ ginAccessIdentityHandler.class
+SHA-256-Digest: Wc1KoivgNaqSEEsjjn9uvGlau4ZwQ188S2P+pEjxbxw=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$3$3.class
+SHA-256-Digest: v8lxNWPwIMNqfYLgZf3aKEMHRf+qobHIptP0kQlzDzM=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2$5.class
+SHA-256-Digest: IzUH1iON6U374eNRPAakRc/s+QbROu+xThTgMlx/pvE=
+
+Name: org/jets3t/apps/utils/DeleteMultipartUploads.class
+SHA-256-Digest: ueCFSo2OiUlRI3DubXUd06465olDPHWOWQWzkxIQgGA=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog.class
+SHA-256-Digest: G6d8gSjAj6fVvJvhmDBrhGCal+4YJ2c76HMeaGiGWpY=
+
+Name: org/jets3t/service/multi/s3/S3ServiceEventListener.class
+SHA-256-Digest: aOzHo6065WIg5tT4KiZniEGmRvePJ20ARS7l+9rt5LE=
+
+Name: org/jets3t/service/io/InterruptableInputStream.class
+SHA-256-Digest: vsDG2Eb1/DmpZIHKOSLMwV1PnQSs3x6B4p1Fbj1lTVM=
+
+Name: images/nuvola/32x32/actions/reload_all_tabs.png
+SHA-256-Digest: seNBHWhQElnpzHiDdr3to2xm5Up3rEic26YVu41Z+do=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$3.class
+SHA-256-Digest: vavClSoo7Z2kUDWigIkFk0rX5Rd9CgRAr2aV5/7+NJA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$30.class
+SHA-256-Digest: MSi1Y5tKOaRU07WgoRAmZimfDNLTGNdesc1eFuvIdoc=
+
+Name: images/nuvola/16x16/actions/blend.png
+SHA-256-Digest: wZg90H1ZZ7mKHUdLg3IEhVXitBFE4ZVu/9RhHDfzRN4=
+
+Name: images/nuvola/16x16/actions/newfont.png
+SHA-256-Digest: b5yGgTaaEgM/jfh11S2kHFqEc5dU8fbUpr9mMQUAIF8=
+
+Name: images/nuvola/16x16/actions/connect_established.png
+SHA-256-Digest: UbGvYkYqYF4C1AIeF2S/+AInHecCwW6/uzvbNxFUFaM=
+
+Name: images/nuvola/32x32/actions/run.png
+SHA-256-Digest: VZeMPyUh5ne8vZO8Pa5PAmQRC71USqXygLP22+FnK9A=
+
+Name: org/jets3t/service/multi/StorageServiceEventAdaptor.class
+SHA-256-Digest: gOMZrw82z78xnv/eDXRrff+X76p9gGE38LirQZgK3bY=
+
+Name: images/nuvola/32x32/actions/kgpg_key3.png
+SHA-256-Digest: rjUzZvmrhYARTyqhaCg2h+bNFvkz/WRtRC+2CED14xg=
+
+Name: images/nuvola/16x16/actions/bookmark.png
+SHA-256-Digest: CGawydznqri8MXvJ+XIY2hRPQoDSgyiSgGA7NUm6zFc=
+
+Name: images/nuvola/16x16/actions/editpaste.png
+SHA-256-Digest: zoJ175mJVB1krVTj4UyUoEEw7FFxDYtj3jePczPpSsg=
+
+Name: images/nuvola/32x32/actions/view_left_right.png
+SHA-256-Digest: FCRZ53eczkzShOpPxpKotZpBJG8hWiuYFFSJidlqmaA=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$CreateBucketRunnab
+ le.class
+SHA-256-Digest: dILXkyGzn/jgDT9M+sAR4gItvk1mWVM5AG86Z8mWH1E=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$14.class
+SHA-256-Digest: D5wTuaOIhJz012eTvCxWUzUZW8Iz2wSsE//4ha/wSZE=
+
+Name: org/jets3t/service/utils/FileComparer.class
+SHA-256-Digest: 3yV37IstTsieetCOLV9zTD1Gv4zZM+Fto0saV8IGXac=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$15.class
+SHA-256-Digest: r1MAUCsFkX/Nwx7Mrgn+vuRS+dTIBgSWGEt7nTus1Tg=
+
+Name: org/jets3t/service/S3ServiceException.class
+SHA-256-Digest: 9/0agwsZnAJUOMEL19I3+Uwz8OkwQbFCbg2RaOkWOmM=
+
+Name: org/jets3t/gui/skins/html/SkinnedJHtmlLabel.class
+SHA-256-Digest: WJ7CaD0dce0pOsdOkXOR4wDvDBTLb5Ky/2hWT+hlhRM=
+
+Name: images/nuvola/32x32/actions/queue.png
+SHA-256-Digest: gCAZyq8vDsTacIpHOsoluajJ0Du2/8uysG5OjolMkX0=
+
+Name: images/nuvola/32x32/filesystems/www.png
+SHA-256-Digest: lWsECwcUWfHaeaqgn067DD6cqsxB/fzNMFR6k4a5RDI=
+
+Name: org/jets3t/gui/CopyObjectsDialog$1.class
+SHA-256-Digest: l6+s6icwLxBKy+YeUaa+6Y0Klu1pvalUylCTVvsCqck=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$4.class
+SHA-256-Digest: A/9HoCHGt1DI9iVCo/MGjFA37eaNnwKnG9v1NsQ1yuM=
+
+Name: images/nuvola/16x16/actions/kmixdocked_error.png
+SHA-256-Digest: EK4PSEwtKxox15/TeXEfpeu82v1zbFLXF0sL2T7koVo=
+
+Name: images/nuvola/32x32/filesystems/folder_orange_open.png
+SHA-256-Digest: v32q/Gn5jnV1Y2QpMjxud6NAx523chpDtSC5vZo8QhU=
+
+Name: org/jets3t/samples/ThreadedObjectListing$1.class
+SHA-256-Digest: JPoyS/f5vdtGLuXTEfLXMJ0n0jL3WX/eDZA1lJKeP98=
+
+Name: images/nuvola/16x16/actions/messagebox_warning.png
+SHA-256-Digest: +Z0aN5R8Us2+/qpKlqKYCLGfyjCUEHZ7K8E5QFHcBC0=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$3.class
+SHA-256-Digest: r87ePeHCGnfcupOmXpxU5Yt1VhdxxuehjfnypdP3Jv8=
+
+Name: images/nuvola/32x32/actions/forward.png
+SHA-256-Digest: 2UM0VWkvNvz8OLexe2loAi1ka9ka5uf8EST1hIb1rK0=
+
+Name: org/jets3t/service/model/NotificationConfig.class
+SHA-256-Digest: hlcj/V1V/MSOpylD8n7yGw89ABMaQoib8ZNHnB4XWy8=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog.class
+SHA-256-Digest: UyaMMRp+gueq3rh+TdzD2egcUL2KQ6ZLEaI/j7XpPBI=
+
+Name: images/nuvola/32x32/actions/viewmag1.png
+SHA-256-Digest: 138UV5Ghsdg9WjQEDY1Bc1/D7H21u8/pGuLlze1Et/E=
+
+Name: images/nuvola/thanks.to
+SHA-256-Digest: wsRAFGTaOobiRoUqLg/wQvi01IqXztCZJRtXAQVkDkc=
+
+Name: org/apache/commons/httpclient/contrib/proxy/PluginProxyTestApple
+ t.class
+SHA-256-Digest: haxOSlKRtaJWcucDUwkBrvwoU6Og/kx0badR0rOle08=
+
+Name: org/jets3t/service/multi/event/CreateBucketsEvent.class
+SHA-256-Digest: 95cDygiBMBmfTNou1EEi8rj1bpu/9/0cmfXerfQ4F8I=
+
+Name: images/nuvola/32x32/actions/misc.png
+SHA-256-Digest: jIFELgQF1KyTw6PJzdkUKhqBeXl+TCy6zUE5WRowGqs=
+
+Name: org/jets3t/service/model/cloudfront/InvalidationSummary.class
+SHA-256-Digest: E+jiuFDU+rbZVYE9aZ1Dk/FnAV3CR3DqcfkdeYDo0B4=
+
+Name: org/jets3t/service/utils/ByteFormatter.class
+SHA-256-Digest: hvCsDAaMz0ABQqhZvQHaKnsbUUlfFTP+fDq7sWZhhzo=
+
+Name: images/nuvola/32x32/filesystems/folder_tar.png
+SHA-256-Digest: RdYRx5AYQeB6vgV0Yb2VT3h+9ERG9oMaXAKzEyw5oqU=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Ori
+ ginAccessIdentityListHandler.class
+SHA-256-Digest: wZVxj59k1RzEILnSfNr+0lnwi7u8c9KpZ97pkxi0su0=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$2$1.class
+SHA-256-Digest: Y1CFWIKvHXzYnjBbMzw3FGU8p64qQVn8fapyXQOECeY=
+
+Name: images/nuvola/16x16/actions/view_bottom.png
+SHA-256-Digest: jTqLybC0+icw1ckVV3csQ3QBXJN69Gmy81G4nry2X2M=
+
+Name: images/nuvola/32x32/filesystems/pipe.png
+SHA-256-Digest: 2n4woWnD/x4sEIFy4sv1sFTZfFEw7lFixzWwVv+MjvE=
+
+Name: images/nuvola/32x32/actions/gohome.png
+SHA-256-Digest: /lqKKK1VGmFj4V9voQud3GB9giNOwF39rhleViVEaCQ=
+
+Name: org/jets3t/apps/synchronize/Synchronize$2.class
+SHA-256-Digest: c42TjMPEy3H87yZujdRlGXh1u+iNU6gFVRlm605/MWQ=
+
+Name: contribs/mx/S3ServiceExceptionMx.class
+SHA-256-Digest: EiXYebsvAK54YEIwRS3iVPojZOFeNBYRXAtmOhuGqgM=
+
+Name: images/nuvola/32x32/actions/quiz.png
+SHA-256-Digest: NPH0ZA7m20cN5mt3JQ5sKdNYVp8DdKG8RZKLmK2KjyQ=
+
+Name: org/jets3t/apps/cockpit/gui/ObjectTableModel.class
+SHA-256-Digest: B0VZvCu6GlikwMB7p9nVu43EkN5eOylbaTjiz1lUg3M=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$DownloadObjectRunn
+ able.class
+SHA-256-Digest: UjZqQZyMLvHzEaLaiUYrsU//B17gLAOh5bu+L/T0G44=
+
+Name: org/jets3t/service/model/cloudfront/DistributionConfig.class
+SHA-256-Digest: OeYVpJ7DkVciwRFOhyHYX+uLYMG7uVK5Egh1HolepX4=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$7.class
+SHA-256-Digest: Auh08KQGh4zTsRxs/9AJX9yb8xxi/1Dsl4eN/Vlrwzk=
+
+Name: images/nuvola/32x32/actions/kmixdocked_error.png
+SHA-256-Digest: pfijdVK5W6tmCGOSkv3iuS8fG6wKbIvkeoHX2Ez+4Rs=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Dis
+ tributionSummaryHandler.class
+SHA-256-Digest: QK2015NU4AA7Tfvm0oeNlAzxs0KkYfsCArrIbkB9R/M=
+
+Name: images/nuvola/16x16/actions/next.png
+SHA-256-Digest: PEhKchEVSBzoDfQxUKg/818ZahC7oMJ7UaC+tbioM/A=
+
+Name: images/nuvola/32x32/filesystems/folder_html.png
+SHA-256-Digest: 4XltHTyn7hBXbg01z1mObzcIC5Uxk6/br4rLqbgyZkM=
+
+Name: images/nuvola/32x32/actions/mix_midi.png
+SHA-256-Digest: D7zFpCmWDGxRDM0CIW3roDqr5dBZ3P4u+OQf0g+jjJw=
+
+Name: images/nuvola/32x32/filesystems/chardevice.png
+SHA-256-Digest: PUlH360o+KNLgSFK99F5NbEzVOtTPZ8sPw30T9pTWdI=
+
+Name: images/nuvola/32x32/actions/email.png
+SHA-256-Digest: 95NnuzjhMeZXc6FPw7w36yLk0JXZvFyATYhZoIYUaW4=
+
+Name: org/jets3t/service/utils/MultipartUtils.class
+SHA-256-Digest: ZCc+E53ciC/47tLTpcL1H8acdbUJWYCdbzND+PXnf3M=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4$1.class
+SHA-256-Digest: KC3DNvz8X6UxgOT0Yu4B7EbdvfJlFLOdKoWZ/9OmXbg=
+
+Name: org/jets3t/service/model/GSBucket.class
+SHA-256-Digest: DKzLKj0dBAzCeIg5Ja7OvYlVKqhmJMSNad767xA25vc=
+
+Name: images/nuvola/32x32/actions/player_eject.png
+SHA-256-Digest: TbOd277t9H7xA+BIJ5c4h9NSzSu3NoHTw0FLsmG4ehg=
+
+Name: org/jets3t/service/model/LifecycleConfig$Transition.class
+SHA-256-Digest: vSPJweqhrwrIyynQUHpUdYApt6Y8S7ko4a2kN8/2p08=
+
+Name: org/jets3t/gui/skins/html/SkinnedLookAndFeel$SkinnedMetalTheme.c
+ lass
+SHA-256-Digest: T/uIBXLzGeZ6Fld3tUWbGR1uvc7/2mgl4xT2VsSbV9g=
+
+Name: org/jets3t/service/model/cloudfront/Distribution.class
+SHA-256-Digest: eZKXak6pu6ri7KAAnXFdrq3T7QsOQz6Y2TM/u+7o844=
+
+Name: images/nuvola/16x16/actions/irkick.png
+SHA-256-Digest: VhtsUPRBEaTkfBf4DS7yGS3xft5zmTqrBhAjyKO/rJ0=
+
+Name: org/jets3t/service/io/ProgressMonitoredInputStream.class
+SHA-256-Digest: GsOzKxhDL/AYbbU1ZHq7lktNCW7zIUi8v4md2Fcz360=
+
+Name: org/jets3t/service/model/cloudfront/InvalidationList.class
+SHA-256-Digest: ulbBFeGEVt8OlXbG4f9UhZIKkOPtBa9y2nhLMaIfR9k=
+
+Name: images/nuvola/16x16/actions/editdelete.png
+SHA-256-Digest: xZ3RgYQxk1JVlByrIMcLRLJ+gJdQAfwbOY0UZLExaN0=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants$GSOAuth2_10$Respon
+ seTypes.class
+SHA-256-Digest: h2VG9BspeAkiXPjHBHsu98AstNujMv1YBlZOJH7qRUU=
+
+Name: images/nuvola/32x32/filesystems/folder_blue.png
+SHA-256-Digest: ohGmW0Z5miyOtf3ZmG5g0N/gU007ibABeptpyOy3DmQ=
+
+Name: images/nuvola/32x32/actions/lock.png
+SHA-256-Digest: Z+dEKGUDrNTYhE6EvPNLN8NW5vY4SQKFjaBEhbLk2ZY=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$3.class
+SHA-256-Digest: cHHzd83hL+gAI1rjvw+1eQUykONH2gYfjFf0UCbSZeg=
+
+Name: images/nuvola/16x16/actions/mix_volume.png
+SHA-256-Digest: DbHMnncB1uGZ+dQCffnQC4XJ51NjjVLd9wSPOHi1Upg=
+
+Name: images/nuvola/16x16/actions/save_all.png
+SHA-256-Digest: UJEd8CjYgXCqOZ+L989qJQUQjTo5rW0/iHBOiXagZ8M=
+
+Name: images/nuvola/32x32/actions/endturn.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: images/nuvola/16x16/actions/power.png
+SHA-256-Digest: AeQlbXBPHUZiF8cPwO006lywzG/3bJxij+Ufx7168gg=
+
+Name: images/nuvola/32x32/actions/player_fwd.png
+SHA-256-Digest: jPfxkVaZLlSYGKYc1xiv3JyEv+FRAue/ldIKDZjPHzo=
+
+Name: images/nuvola/16x16/actions/artsenvironment.png
+SHA-256-Digest: V758vgF2E/g5191qGN385RrBOdhaMRrYlq+ULOxeykw=
+
+Name: images/nuvola/32x32/actions/tab_new.png
+SHA-256-Digest: UqhA0twG9N2sU5aiMniunORnrxsnqYYxXEuJeacRjko=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$ListAllMyBuck
+ etsHandler.class
+SHA-256-Digest: T91h8G7R+jK7F01LYrwfP85uiGF09yEUbUXKjpVjB+Q=
+
+Name: images/nuvola/16x16/actions/color_fill.png
+SHA-256-Digest: IXKAtU99MgL5t8Vy2MRty9MsS15enCMkLOZWFzT6jI0=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$CompleteMulti
+ partUploadResultHandler.class
+SHA-256-Digest: 5pZPakTFLrQbUJukRD89kva0MUGeWBFNuvAM1x7pxc8=
+
+Name: images/nuvola/32x32/actions/irkick.png
+SHA-256-Digest: m0miR9hrkCjSr1ai+eJoYKoZknkDhlCosShtGGuEQgA=
+
+Name: org/jets3t/apps/cockpit/gui/LoginLocalFolderPanel.class
+SHA-256-Digest: eQazGcXwxVVIpUE6ZIjnobr8LZyijqozF6aH5XQvtmQ=
+
+Name: org/jets3t/service/multithread/ThreadWatcher.class
+SHA-256-Digest: +MtbHxaj88sbmbvxHbt7gZRb8SJujyRIeNlxODP3/0M=
+
+Name: org/jets3t/apps/utils/FileCryptoTool$2.class
+SHA-256-Digest: +A/6nuE6jUk23nTC5EmRLzCXl7K3SbM3L6tv1nAC1t0=
+
+Name: images/nuvola/16x16/actions/1uparrow.png
+SHA-256-Digest: d7EH3h5zrT6PHRb78S0qqWbojmIdt+w9w/tGHRhUUtM=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$10.class
+SHA-256-Digest: jDLSlJJrCkZ+VQ9PxO54NYpSI8loqU2JHs+Ji+oNP9I=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2.class
+SHA-256-Digest: NEJokAsTg/3KxVZvooynjl6kUD0okUxM828HxniE9lU=
+
+Name: org/jets3t/service/acl/gs/GroupByDomainGrantee.class
+SHA-256-Digest: eqyJnQ9xZK79E041NQ5HXUPnvsIO/o4GVtXMI/r5br4=
+
+Name: org/jets3t/service/utils/gatekeeper/SignatureRequest.class
+SHA-256-Digest: IAEUjEZ8T6652O+jVdadOtBOjpfi2U+PLkeeDcfbfJ8=
+
+Name: images/nuvola/32x32/actions/ledpurple.png
+SHA-256-Digest: YsLT7RMMsMUTlhrQjtKYiyrTTFUNweBl6KB9ZSh1pNs=
+
+Name: org/jets3t/gui/CopyObjectsDialog$5.class
+SHA-256-Digest: 4hjohOT/VmcscB60VXLIdAfr2/ISv1VSwx4nNE4ZJ38=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$ThreadGroupManag
+ er$1.class
+SHA-256-Digest: njJmz75WKgcGxa6lxgyyFKd9+713fncNuwL/kVIutyI=
+
+Name: images/nuvola/16x16/actions/2uparrow.png
+SHA-256-Digest: WPV3NTQ8eZdPUtleUYdQelV9EdypB4HOudF7vJ8wt3A=
+
+Name: org/apache/commons/httpclient/contrib/proxy/PluginProxyTestApple
+ t$1$1.class
+SHA-256-Digest: dxrR27k3i/E/1HGpePF6lzxVzJOMGUmamjtuSPhPGG4=
+
+Name: images/nuvola/32x32/actions/revert.png
+SHA-256-Digest: 5eY0jY5rO7wHQpkvwDfAeg1TkmFquesbO1sV7E4Y7Sc=
+
+Name: images/nuvola/32x32/actions/history.png
+SHA-256-Digest: ZH4thDRaM7+xS0Sv3McCkWV0LNBgBJwnmZ2eT+7QtkM=
+
+Name: images/nuvola/32x32/actions/view_remove.png
+SHA-256-Digest: tvMYXJFk69UWyB221jgzmtIkOwgbC3UhFCu3MsmrGyo=
+
+Name: images/nuvola/16x16/actions/endturn.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: META-INF/maven/net.java.dev.jets3t/jets3t/pom.xml
+SHA-256-Digest: guWgtg5HfXoKs6fnNuwlkpmYQrm3BxZ3qLWLp+G31CU=
+
+Name: images/nuvola/32x32/actions/ledorange.png
+SHA-256-Digest: kItu9ZjIryx0GGbyY9xjCErXhesynBTZFpPYnk6W2a4=
+
+Name: images/nuvola/32x32/actions/down.png
+SHA-256-Digest: 0uU1oav0bFbBdUb1DmXT39KD1I2YzU8fH4xdFasrFZ0=
+
+Name: images/nuvola/16x16/actions/tab_remove.png
+SHA-256-Digest: FDeU/GNWji9BAecud4xmSCFRPrX1/BZKs2h6q4lCqFg=
+
+Name: images/nuvola/32x32/actions/laptop_charge.png
+SHA-256-Digest: rv2lmnh6roaEyUmFXlsq+bsGP/gXU8pD4w8RRcDK0LM=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$GetObjectRunnable.
+ class
+SHA-256-Digest: //k1zC6mVA7m4a68UMl0AS7BrepgVd9cPtcmL6tYQpE=
+
+Name: org/jets3t/gui/UserInputFields.class
+SHA-256-Digest: OEC5U4PtHVFccdkx6VT/pGHIaNOcF1MEUm+imEb363w=
+
+Name: org/jets3t/gui/AuthenticationDialog$1.class
+SHA-256-Digest: bXZwf2+z3PqxEvMbYEr7zaUKO0Hm+xWUT14022hkHT8=
+
+Name: org/jets3t/service/acl/gs/UserByEmailAddressGrantee.class
+SHA-256-Digest: IUCC/NC2PUuz1NFxoKaFA7ZqdbDN1uuIsVU8tA4JLnY=
+
+Name: images/nuvola/32x32/filesystems/folder_download.png
+SHA-256-Digest: P5U/vafOQuwDblpjCToHVhCeEa7C8OJ2lzFxTznKv6g=
+
+Name: images/nuvola/32x32/filesystems/folder_font.png
+SHA-256-Digest: APthX/iPAljZ6KvQO5Ow/uioi8gaFP4lGR/b8SGqTRE=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$1.class
+SHA-256-Digest: oF1eGcNdDateCugwWkJz9v09OFYmHB1x5gpBIARixyI=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$2$2.class
+SHA-256-Digest: 9qI5v5Ta/3Ks0cxo/AB9EK5H48/HqxbmvVCeJ4eqi2s=
+
+Name: org/jets3t/service/model/MultipleDeleteResult$DeletedObjectResul
+ t.class
+SHA-256-Digest: x6P8QTxotdAgK1xrnt6ohZ+04+ddj/lV3U6G/oVquIg=
+
+Name: org/jets3t/service/impl/rest/httpclient/RegionEndpointCache.clas
+ s
+SHA-256-Digest: 2jWyFMbB5OszbYY749xR0c7meeHiuJY0XFTIjsOiGJE=
+
+Name: images/nuvola/16x16/actions/fileprint.png
+SHA-256-Digest: jsV1YrftmjnaLcx/F5EJE7GOaen1DKnv2MUyuL+Z/lc=
+
+Name: org/jets3t/service/acl/AccessControlList.class
+SHA-256-Digest: seP8cGKXOOVstV0FYA8Pf+Bav7yJh4YioTIMEJmouIk=
+
+Name: org/jets3t/apps/cockpit/Cockpit$22$1.class
+SHA-256-Digest: OPJyRuTdb+U5yEbPEGs55ruwaXa2HAOZzkiekpcvHR8=
+
+Name: images/nuvola/16x16/actions/bookmark_folder.png
+SHA-256-Digest: SJ8c2sRlMub182IaiFT8tNCn7+hgdj8RsKZoQertWvY=
+
+Name: org/jets3t/service/model/cloudfront/OriginAccessIdentity.class
+SHA-256-Digest: n0geuCVDLtZCiBzKZryK+4TJWGeRcQqRGyHQA5W0E9M=
+
+Name: images/nuvola/32x32/filesystems/folder_print.png
+SHA-256-Digest: 74IgehCdMfwdSFqf5w7nuqmm8PNhimrU256dM8lwX7s=
+
+Name: images/nuvola/16x16/actions/message.png
+SHA-256-Digest: mGWyrsxatJaGBv1Gp1uYAlkwWoPJK+hicyrJ/ngudyg=
+
+Name: images/nuvola/16x16/actions/button_cancel.png
+SHA-256-Digest: Ra3Nelzs4pqUac747Nx9K2K6/dTqoXc7CdS7hYi4V60=
+
+Name: org/jets3t/service/acl/CanonicalGrantee.class
+SHA-256-Digest: Wh8vTXc+T/DFwWfzqrOo+vMyHd44BXyhe1WDTfjNAjU=
+
+Name: org/jets3t/gui/TableSorter$2.class
+SHA-256-Digest: /spV99XqR/WkZJIdVxUyNj8tY7ATPUJ0ZWEb6TgvyA8=
+
+Name: images/nuvola/32x32/actions/stop.png
+SHA-256-Digest: B+SzOk5VFElSegLqUL3nEh0NVVXimpc/iZEmRPB77E4=
+
+Name: org/jets3t/service/security/AWSCredentials.class
+SHA-256-Digest: 9FF8wRhIS8JH7hyzQs9X9Nqe8jfzAH+Z9rV3mLSUPng=
+
+Name: images/nuvola/16x16/actions/fileclose.png
+SHA-256-Digest: xo95OTNxrcHJqPXtsMtE7Dtdc7RbEAmF5skTxuHKA2M=
+
+Name: org/jets3t/apps/cockpit/Cockpit$1.class
+SHA-256-Digest: NPWpG6KQmM05h8mESm4DovlxomWtmG2d8BEPjlgQvXM=
+
+Name: org/jets3t/service/io/UnrecoverableIOException.class
+SHA-256-Digest: JGiuO+1gLw4WZG0IKfmI0x1WYVyDzf9FK3fknxFUqFc=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$4.class
+SHA-256-Digest: f2RW9R4P0eWhVPbWPZ+KF0Tdk60tCr5F9saSAA/sbJ0=
+
+Name: org/jets3t/service/model/WebsiteConfig.class
+SHA-256-Digest: 2VblWupBEz29Vh5qbQGOnXiA9IGUfHavhxVyzP8AZAw=
+
+Name: images/nuvola/32x32/actions/noatunplaylist.png
+SHA-256-Digest: /tQPQNnBHwaOE6vx3SyPItiCXtapjJrJEUkbDe7F16A=
+
+Name: images/nuvola/16x16/actions/revert.png
+SHA-256-Digest: ec3IGOQmFVfR/JmXwjph2b9au+7+jN29AaIsTXONVe0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$3.class
+SHA-256-Digest: Ol4i9X83OwzhXmbPofVK7YcD9GGZHoxRUqWw8EqMeFw=
+
+Name: images/nuvola/32x32/actions/redo.png
+SHA-256-Digest: 18WnVmETaoOMBKbpJlH7rOWZ5ykzKfUbzoitl7D8nnM=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$6$2.class
+SHA-256-Digest: kBh+oNI1bX+GxZnkd8Lp35MhdZJsdg9lnt5AzhBy+nY=
+
+Name: images/nuvola/32x32/actions/ledlightblue.png
+SHA-256-Digest: SgYTXSigZiqbuSwq5ISs7jukmMSfy6eIeu2wlxvyziU=
+
+Name: images/nuvola/32x32/filesystems/folder_green_open.png
+SHA-256-Digest: L2A7dCfyIVOffdnzeIawrPO9p9bItcb16bIWcoMxn+s=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$ListMultipart
+ PartsResultHandler.class
+SHA-256-Digest: cqjgTIU+HRxOr6eWOxkN1p/CsJYEaBirlipJ9XaZsqo=
+
+Name: org/jets3t/service/model/GSBucketLoggingStatus.class
+SHA-256-Digest: 1JE9NHs93CI39jXHcpsiTqW0STOghdG0tW1cUz8KOr0=
+
+Name: images/nuvola/32x32/actions/tab_duplicate.png
+SHA-256-Digest: nRkK8pZiqIzIJKystD8cZpYIdBicSDN48AAlaq5GAb0=
+
+Name: org/jets3t/service/acl/gs/GroupByEmailAddressGrantee.class
+SHA-256-Digest: Mz93ej74glsA5ApWVhuqFS1RXmE8lf+ssrwL1dBfYXc=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$GetACLRunnable.c
+ lass
+SHA-256-Digest: yJMdYrRkpiGrP4wSLrrX424R7uT9dOgUJTHGBEZZ/ss=
+
+Name: org/jets3t/service/security/GSCredentials.class
+SHA-256-Digest: uN59DaLB04UEZvlakfzLwo71xvVtjqB0Nu38aY5sHBM=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$8.class
+SHA-256-Digest: BsWxplsM84y2uu+dGWjqaZwvJoROQMp5QPybHCRIED8=
+
+Name: images/nuvola/16x16/actions/start.png
+SHA-256-Digest: ZnCgDlgHV7wr4a+xp1RrA/X9aGZx7Wncw6JnikVUf/o=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$3$1.class
+SHA-256-Digest: TVvnvK9a9oFO5mnc3cvhcenr+14qVGXba42B3eipixQ=
+
+Name: org/jets3t/gui/CopyObjectsDialog$2.class
+SHA-256-Digest: eWo94A/JZEauzo60ml0lwV0eQvZXW2D/RR6yE8ef//U=
+
+Name: org/jets3t/gui/TableSorter$SortableHeaderRenderer.class
+SHA-256-Digest: PahrQGMegqxX/SLG7N2XLGT7bmfPwZgPaCCU4FvGqSM=
+
+Name: images/nuvola/32x32/actions/undo.png
+SHA-256-Digest: ambC83Yn4hT4wikLL+7uuHMmoLPd+6LYbOEckPIF/ms=
+
+Name: contribs/mx/S3BucketMx.class
+SHA-256-Digest: qPYzSNvJXdPeHRXhroR8UkLoJDYDDSny5QIXTbReLk0=
+
+Name: org/jets3t/service/model/BaseStorageItem.class
+SHA-256-Digest: pn8MjI11G3DOb4Lf8Us/D6hE1gukfylW/UpiawlWax8=
+
+Name: images/nuvola/32x32/actions/kdevelop_down.png
+SHA-256-Digest: iEsVFUtEJz8F7a6oTHAUEK7JlV0qKugOLbTCC77wgdo=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants$GSOAuth2_10$Endpoi
+ nts.class
+SHA-256-Digest: Ojfr4Z6t8mnKmOHKJn75rmpCe/3qzXF2tKrH8bXEA5U=
+
+Name: images/nuvola/16x16/actions/kgpg_identity.png
+SHA-256-Digest: r+8kNEcntbJVsKY0EfhVkPTo1oI6g44CntE8LJA0H4c=
+
+Name: org/jets3t/service/model/AWSDevPayProduct.class
+SHA-256-Digest: De+pP/YMAzT1jjWSJS4yH+rZ75PwlQI1cgOiGsIZkjk=
+
+Name: images/nuvola/16x16/actions/editshred.png
+SHA-256-Digest: n/YTGnBiBqtDsPp6ajqP7D0uFSyPFF/P7ZMUmdhUhOg=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$ThreadGroupManager
+ $ResultsTuple.class
+SHA-256-Digest: tOWQCT3hcK/FHLDvYDgmzgxhDwsKEWS04lbgBz6F0QQ=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$3.class
+SHA-256-Digest: gVqz6ePR0zlCAGulI28brWKhAHGz7oP4ZvyrPybMmPk=
+
+Name: contribs/mx/S3ObjectMx.class
+SHA-256-Digest: QRv5ZnAJet6/eqeFH4RaGMgJ0ua/jXl+TRndFI+C7SU=
+
+Name: images/nuvola/16x16/actions/configure.png
+SHA-256-Digest: DI/j1A0DHYYAic/7sNiG72LURn3tWXfgirPiX4LzyoA=
+
+Name: images/nuvola/32x32/actions/noatunpause.png
+SHA-256-Digest: HoezGZNNyKPljMLNgBjT/1NN+OM79LPyYvswMEm80oo=
+
+Name: org/jets3t/apps/cockpitlite/CLObjectTableModel$1.class
+SHA-256-Digest: +b8/Vmlpy7qjAhq63q/ApqDDWUxjBKfrQimQtHZ9WWI=
+
+Name: images/nuvola/32x32/actions/viewmag.png
+SHA-256-Digest: vyt8NXR5eJxptpQAqbB7EuqFew7ULtxS2J4TsWeWcpI=
+
+Name: org/jets3t/apps/cockpit/Cockpit$21.class
+SHA-256-Digest: yVDpSEYLd/A9iuegn5+d8q2CzH25bqL49zS74QMxmg0=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$11.class
+SHA-256-Digest: T6QPTD9j9yhXxP3vxbEiU0jNFFRo3t8rxdYPG2P6dQk=
+
+Name: org/jets3t/service/utils/oauth/OAuthUtils.class
+SHA-256-Digest: 9jT2TsR2tQRIQvFB08XOavANbZoy389Djh2xVKVAuzc=
+
+Name: org/jets3t/service/S3ObjectsChunk.class
+SHA-256-Digest: 4Y9qkk0tuyoI8z1YUWz5uYOzDC2Sd4nv+n0+9PjYnTo=
+
+Name: images/nuvola/16x16/actions/tab_new_raised.png
+SHA-256-Digest: 3M8WBtNWvhUmhVhieECcc/RCod7bmKAiX+n6PNnfid4=
+
+Name: org/jets3t/apps/cockpit/Cockpit$ContextMenuListener.class
+SHA-256-Digest: ZNdNwo1B4DFzX+lN4uVRxmMUBwWXGBGXhSR/zziNUvM=
+
+Name: org/jets3t/service/impl/rest/HttpException.class
+SHA-256-Digest: GAwUYlQ36/xLTyduZov2/naIGKXBp1Lo/OxVW1Zekw0=
+
+Name: images/nuvola/32x32/filesystems/folder_red_open.png
+SHA-256-Digest: EC4IY6w+aeeNADG+qS3T7U+uepTO3QeNeYMuQrT9vFY=
+
+Name: images/nuvola/32x32/actions/previous.png
+SHA-256-Digest: F9rYIfEyk2RMeXTd4hPAtXebLgod7SLKi/w/DWQ7Ndk=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$32.class
+SHA-256-Digest: rKCA/yHXXazDFHVyXH2kDZvrDimtqB6eReRnDXy30ok=
+
+Name: org/jets3t/service/utils/ObjectUtils.class
+SHA-256-Digest: divpW1mna3o9dZzQPpEFGZRU2Y7WJrVnys/swiv6wOM=
+
+Name: images/nuvola/16x16/actions/view_tree.png
+SHA-256-Digest: GDPtV8Eh9k/neBpo7QHXoY0gI3T6KQmPDisa6GEFQ0A=
+
+Name: images/nuvola/32x32/actions/toggle_log.png
+SHA-256-Digest: 1WTa2BWrQh3pL+yrLqwRRLt4y7zT+z29h4/LCWYvqwc=
+
+Name: org/jets3t/apps/cockpit/gui/BucketTableModel$S3BucketAndDistribu
+ tionFlag.class
+SHA-256-Digest: n82o40AB2fvPUmR7tJbKbEWnmH5XYiYagjvfcEEQNDY=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$S3WebsiteConf
+ igurationHandler.class
+SHA-256-Digest: 0XCDp15vYLA0lf9+2dScSeSC5ehy40sy43SteHqhhps=
+
+Name: images/nuvola/32x32/actions/klipper_dock.png
+SHA-256-Digest: 7P+e8KJavng070iAje1G4icRYBo4YNnoESEL2dBDVrU=
+
+Name: images/nuvola/32x32/filesystems/desktop.png
+SHA-256-Digest: VjDJQE8wXupB6GdYlyYziIISDRTsqLUqPJlCRxYegNA=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$8.class
+SHA-256-Digest: pJi0cKQcKmOVy1VlLJyx+JY+aqZCqN8dwUtXRzB/qXE=
+
+Name: images/nuvola/32x32/actions/start.png
+SHA-256-Digest: cv/0sUv3OSh6q5J4KRfm2GiezPoFRIIwaJql1w/k6j8=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4$4.class
+SHA-256-Digest: fqbz4fTJelACnAoh2Mvt+6DPRVFAHOrNM8Y3i1ji/3E=
+
+Name: images/nuvola/32x32/actions/bookmark.png
+SHA-256-Digest: Q3Rb3PTaCfYDx1UkcHDHzeiwDD5hN2TYfVoWTDlS9ak=
+
+Name: images/nuvola/32x32/actions/kmixdocked_mute.png
+SHA-256-Digest: o+7Gt/2DkVR9WxfVHOiHivbhcaFEbLfRW4jQDgBEheg=
+
+Name: images/nuvola/16x16/actions/project_open.png
+SHA-256-Digest: G99qQvUl6XjaQ6IojAY1BLCUmZjTSlE8ScRYjY73mlk=
+
+Name: images/nuvola/32x32/actions/player_end.png
+SHA-256-Digest: Nr6JoTu5PRy2Set14GyD3/LaDR89x7vw6NMBbbPHWJY=
+
+Name: org/jets3t/apps/cockpit/Cockpit$4.class
+SHA-256-Digest: CifI4pKHSifAJNkeEmu5x7HDH5ZJVdRJ4wlMDO+DlhU=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$11.class
+SHA-256-Digest: 42N3Gct5besMFq7/X2/d+snjeGVgPFNOriJz5/XWrKc=
+
+Name: images/nuvola/32x32/actions/window_new.png
+SHA-256-Digest: R0VPuAxJ6O4z48v3hfgOE7AcycYvdmiyYG87cy2maZo=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$4$3.class
+SHA-256-Digest: jYNK4Zs+wdnMq0wNr5+Hre1rqPWB7dub1WUVgHG5sb8=
+
+Name: images/nuvola/32x32/actions/colorize.png
+SHA-256-Digest: Q4qn5PyT0aXNV5wwgOSZUmJqcoNUY6/0l4jEl2RcaVA=
+
+Name: org/jets3t/apps/synchronize/CommandLineCredentialsProvider.class
+SHA-256-Digest: GMt/5kloyFzqHLJNiHI9DscU3dCc4yqKiO4IYyiEkGg=
+
+Name: images/nuvola/32x32/actions/color_fill.png
+SHA-256-Digest: iUT4D5nufuO/uDanfm+nWjIa/xypRHmro+z7jkmT+Vs=
+
+Name: org/apache/commons/httpclient/contrib/proxy/ProxyDetectionExcept
+ ion.class
+SHA-256-Digest: 7Uz3y6kC3YYXUHtlv1dW1YUOL6DT0WQdg7xDBK/oPKY=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$18.class
+SHA-256-Digest: fr/21M4EpIWBSBgn5tHQy6tY8aluho3qkcEHHnqAI0k=
+
+Name: org/jets3t/apps/uploader/Uploader$3.class
+SHA-256-Digest: 9EZhq4U9YaxdVeHb8i0FGjp3TlvOtPpeybjVdJtCOYI=
+
+Name: images/nuvola/32x32/actions/package_system.png
+SHA-256-Digest: Fyps8HfSd3eYij+a3D61lEnVsf81CqcgDVhJgMqm37E=
+
+Name: images/nuvola/32x32/actions/roll.png
+SHA-256-Digest: WgUx1Yh3l4EgE3eejTC4Gvq1PqkXFvIL7qY6QTYX1+s=
+
+Name: images/nuvola/32x32/actions/blend.png
+SHA-256-Digest: 9cWYOwxur/RTWQnqDr3lUYE3deyI67M5Sy86prLR98Q=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Ori
+ ginHandler.class
+SHA-256-Digest: hw/0OvXdjI+QLUg8MsK7h61Eqb51fSDiuGk9d5LYLVM=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog$3.class
+SHA-256-Digest: IBb+PlForfAEA9UeiwBKZLMfn//W2RIUD/zJfV8xAsU=
+
+Name: images/nuvola/16x16/actions/bookmark_toolbar.png
+SHA-256-Digest: DqKDNWGTwvSVLSKB3j73Cs4VMiCySHn/p44PWKFk9oU=
+
+Name: images/nuvola/16x16/actions/ok.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: images/nuvola/32x32/actions/fileexport.png
+SHA-256-Digest: pk73xcS+jnXWJxbfXSb+84T98NDliVBSJ58QpEodIp4=
+
+Name: images/nuvola/32x32/actions/tab_remove.png
+SHA-256-Digest: ucVyVLj53wFpJEiyKVlyL0RUb4byvJryUe/rV+NS2Wo=
+
+Name: images/nuvola/16x16/actions/fill.png
+SHA-256-Digest: boMtgixNcCINpbvly2Te3KEbPqO3oFnatZCr2tsFhCA=
+
+Name: org/jets3t/service/acl/gs/AllAuthenticatedUsersGrantee.class
+SHA-256-Digest: QHZoljq4efDTj6oap+NUZU/JQnNb9qwBkbd6zXvtxYs=
+
+Name: org/jets3t/service/model/S3Bucket.class
+SHA-256-Digest: 2J4wdJYVA6skzGt/Q1pPWypLHkAkDJ52ub9wIn8c8qg=
+
+Name: images/nuvola/32x32/actions/piano.png
+SHA-256-Digest: D7zFpCmWDGxRDM0CIW3roDqr5dBZ3P4u+OQf0g+jjJw=
+
+Name: images/nuvola/32x32/filesystems/folder_cyan.png
+SHA-256-Digest: NPfJDpYxYrUE7fX2jRCe1Rqoc9w89FFOl0ZyJhs4A70=
+
+Name: images/nuvola/16x16/actions/bookmarks_list_add.png
+SHA-256-Digest: pc45aKvMDKHLLZUmjMbo/WZYwWYqcSf1gKnHm1cTDpM=
+
+Name: org/jets3t/apps/cockpit/Cockpit$9.class
+SHA-256-Digest: Lw7aslj04mOcb+Q9Dezm+U0xJf/MmqBaODpFRtOlWjI=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$16.class
+SHA-256-Digest: S5zSG+dfvqKr2wC7I0wFe9/D/nsYSxjE2Blz3aer0fU=
+
+Name: org/jets3t/service/utils/FileComparer$2.class
+SHA-256-Digest: 83dnWM7EfD4EUnvLr6mBBL4Oo/VBBYRDyBId3mwlhMU=
+
+Name: images/nuvola/32x32/actions/editdelete.png
+SHA-256-Digest: UYDCes/PDcu/JpT6n7l/8dIPSTp2rT+cxTYcUZlXyGY=
+
+Name: images/nuvola/16x16/actions/cd.png
+SHA-256-Digest: rVuWlSjHON4+TuW89ldmOSJSHA3GNJPkaqghva0xwCY=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Dis
+ tributionConfigHandler.class
+SHA-256-Digest: fuUY21R3G5IQDEh8QRSL2YAjkWIZHKnphLLTDm01GXI=
+
+Name: org/jets3t/service/model/S3WebsiteConfig.class
+SHA-256-Digest: +9gd7vqRnDQj5kZESpAqtD2139t1Gwqjo41eOkewbts=
+
+Name: images/nuvola/32x32/actions/exit.png
+SHA-256-Digest: B7gTCVU/NyadZ/hq1kyEnb7CI8/hQ2558oi8jswY+K4=
+
+Name: org/jets3t/service/multithread/ServiceEvent.class
+SHA-256-Digest: b6Ax9gsmoDIZPzlv3n3EUo2jJ1CMGXblgDKSX5VhZ+I=
+
+Name: org/jets3t/gui/CopyObjectsDialog.class
+SHA-256-Digest: B0/QvxVhHcelB6Bjqx8VTKuefBjWL+VBB+f4JTFjJwY=
+
+Name: org/jets3t/servlets/gatekeeper/TransactionIdProvider.class
+SHA-256-Digest: xSwXr3ARMB3Usyc0bZt2JZ066Z209dNX/nPknZ8kAdU=
+
+Name: images/nuvola/author
+SHA-256-Digest: +xAZ7L6F1Ouk+syBv0crNtuk0dbUx54HxVJ9eI8GtX0=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$13.class
+SHA-256-Digest: /L83XNK9ztkpcdybgxvCfwjH/4xVKSMpepVF23dYeqE=
+
+Name: images/nuvola/16x16/actions/editcopy.png
+SHA-256-Digest: G197OU6SuAIk6HtDjDEfIESjYlwiruiyRunR9nsPgHg=
+
+Name: org/jets3t/apps/synchronize/SynchronizeException.class
+SHA-256-Digest: F5UzOeHqwaEf2TXTaM610EvbtcfuQU/b23qWspWFs+k=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$BucketLogging
+ StatusHandler.class
+SHA-256-Digest: nyjEz1fuhn4KJzfzO3cH5XPUssC/FPOE803EMzZkeJc=
+
+Name: images/nuvola/16x16/actions/2downarrow.png
+SHA-256-Digest: 1KXumR9fgO6/XOy92Kvjowerff3LojcLO01mG2o3Km4=
+
+Name: images/nuvola/16x16/actions/filequickprint.png
+SHA-256-Digest: camf3j2QHOVmCXGxNN7evxnAQULUnNaUP/4EkvUU/2E=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$13.class
+SHA-256-Digest: OUYUZnSI/9ge3lCe3KS3jfFxg7whwWqZyRZGIgV7rZA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$29$1.class
+SHA-256-Digest: xz5lG4ZR6qQk1iLQ1uDAKXhhTNlFP78eCcoyD1ARis0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$4$1.class
+SHA-256-Digest: O5CDY9B+qh4XmDMQMVAERy2B923yiEOfJFhrkUEAvIM=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$CopyObjectRes
+ ultHandler.class
+SHA-256-Digest: JqQsA4tunDAs4q5BKaFske90Vy/C6ESASr8yoIm0WRI=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$CNAMETableModel.class
+SHA-256-Digest: bUSDrwAL1LTkMonb5maWIQkMr5rrENzJif34ZUWhBwA=
+
+Name: images/nuvola/16x16/actions/connect_creating.png
+SHA-256-Digest: FXyvIYaItKKo05R4RtAt5EmQGGI7U9/GuiKg3Hxhbso=
+
+Name: images/nuvola/32x32/filesystems/folder_sound.png
+SHA-256-Digest: hpPw+SYBLsBE+Ski5olvACrzjdeSO9OKWoky1t52xjE=
+
+Name: org/jets3t/apps/cockpit/Cockpit$6.class
+SHA-256-Digest: Zgvz3gqGJK4QF6TCK8TEmnNG/SeK8/Hstaf533RozCw=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$4.class
+SHA-256-Digest: JUI49DCqHeh8UdLR3julqKP+VX9UvectW3UtG0fCUkM=
+
+Name: org/jets3t/samples/CloudFrontSamples.class
+SHA-256-Digest: +Vg/89foxM0B1AFMy9pxhSlhBiEbiVWK/M3wgmBn5KA=
+
+Name: org/jets3t/service/multithread/LookupACLEvent.class
+SHA-256-Digest: ljnMSI8CD9Uo6ZLl39+fWz+3JH82RQYYveGEgIjEsj8=
+
+Name: images/nuvola/16x16/actions/ledgreen.png
+SHA-256-Digest: Rdbo4CXn/cKagaP9BU3emVWZRsHZQ+17kgWdH7DugqI=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog$5.class
+SHA-256-Digest: RrVEHJRmQqnf+a+DsLxLwvJjgW/Av07dwa5803KxJdI=
+
+Name: images/nuvola/32x32/actions/ledgreen.png
+SHA-256-Digest: M1axBROHUfqGTkZqkmF6F2e3fSEQRTF2lAOr/z4p70U=
+
+Name: org/jets3t/apps/cockpit/Cockpit$28.class
+SHA-256-Digest: SoCnpHeACBsB/y+z6p8BrLFnv8CuHq7Vsk7QsaAKQWo=
+
+Name: org/jets3t/gui/ProgressDialog$1.class
+SHA-256-Digest: VaNUrxAAuUzt2/Az23YpzrXYol8bxZYAPrR3or7vHrw=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$PutACLRunnable.cla
+ ss
+SHA-256-Digest: gl9VCSY4rnTM9U1TNDdc3CYbqyAf1yuY10KBIfPKTi8=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants$GSOAuth2_10$Scopes
+ .class
+SHA-256-Digest: bYtZQUWSAhhbC8CIudkFG9pYdo/JWzjW6TuxGcGP6YQ=
+
+Name: org/jets3t/service/Constants.class
+SHA-256-Digest: YWoVQ6GTLjs8ig36FQPSrxBX0fOciTmT5V6btBpaaWo=
+
+Name: org/jets3t/apps/cockpitlite/CLObjectTableModel$3.class
+SHA-256-Digest: VTQT3cX7XGVYDGwGufm/iI+vDmP0YU440DD5BZHD9QQ=
+
+Name: org/jets3t/service/model/cloudfront/StreamingDistribution.class
+SHA-256-Digest: jhb1gDmQH436QIrCkX2DQ1gQbSqjHBzBsYf023WKr2I=
+
+Name: images/nuvola/16x16/actions/back.png
+SHA-256-Digest: TU4UJnAwIehhaF/zv56zAwIulHazc89GjnEvO504yQc=
+
+Name: images/nuvola/32x32/actions/view_bottom.png
+SHA-256-Digest: zOcE6tl/T8crrsuwGT9gtSkmfOXcgLHaZqvHr1U8HSU=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$10.class
+SHA-256-Digest: o+5eKaHwBvGknXJtOg5JUpngyCnAG6KNbWnOB9qcHqo=
+
+Name: org/jets3t/service/utils/signedurl/GatekeeperClientUtils.class
+SHA-256-Digest: qPZ6IWlcSDc/GceetCwdigbpz6CxE5OkLwM1tCrJUHg=
+
+Name: images/nuvola/16x16/actions/tab_duplicate.png
+SHA-256-Digest: Dt9LzugKQhVpz/8q2WoeWTI3xXzvDBDWQ3XbVQcW9xM=
+
+Name: images/nuvola/16x16/actions/player_rew.png
+SHA-256-Digest: AQTqzdZeolJjHVv9ry4LPzfvGQHhOYUpUSi64hmhTvQ=
+
+Name: org/jets3t/gui/TableSorter$TableModelHandler.class
+SHA-256-Digest: 7iE6f9ZOMkiMh+20tzGTpEGNcU1usU8om0QPuZAG288=
+
+Name: images/nuvola/16x16/actions/ledpurple.png
+SHA-256-Digest: 3Mm4XQvqAHeTLgudHTFpMHpV74yLKxZjBbxih3OKz1g=
+
+Name: images/nuvola/16x16/actions/ledblue.png
+SHA-256-Digest: NAYGrDEBdMPpfBs6PWv4xwkMiljc0kNTDIe840uh4FE=
+
+Name: org/jets3t/service/multi/event/LookupACLEvent.class
+SHA-256-Digest: S1xOPITQwZymkCiJBh4Cds1gMMYXliA+1Yv6ktjyMm4=
+
+Name: org/jets3t/service/utils/RestUtils$PreemptiveInterceptor.class
+SHA-256-Digest: fSre3fXeiKWQM8LWXVEuf9iU8NiWXN8SBPhLVoWZkV0=
+
+Name: images/nuvola/16x16/actions/view_sidetree.png
+SHA-256-Digest: myWrQ8QvVIPe+O4lM17Mkh72jxVj5F0dT2PiDZGcsdw=
+
+Name: images/nuvola/32x32/actions/artsmidimanager.png
+SHA-256-Digest: qAO35H1mUmKzj4Dh4Xkq3jZnVQwsFfuiT94x9lhbdA0=
+
+Name: org/jets3t/apps/cockpit/Cockpit.class
+SHA-256-Digest: p+AQ/1+YxDVUZCZJdKsnpkEbB1jlFIHNdyvQbaNNmx4=
+
+Name: org/jets3t/service/acl/gs/UserByIdGrantee.class
+SHA-256-Digest: nJykxpTlw882PUJ0bvdJPvWnUHHK1bsa1/lQDgbM7+o=
+
+Name: org/jets3t/service/io/InputStreamWrapper.class
+SHA-256-Digest: WnQ8UUn4xdT7I5jAmqeiIy9N91qjcK6Wkrtnwj5O9eE=
+
+Name: org/jets3t/service/multithread/DeleteVersionedObjectsEvent.class
+SHA-256-Digest: liONvuSPkZVwswXnTkETixpT/SPtJIlOPYBrPvp4HhI=
+
+Name: org/jets3t/samples/ThreadedObjectListing$2.class
+SHA-256-Digest: n2jjbFAJmDl4LExauOWdWLggDnKmNNltKfFeXB3Zl0U=
+
+Name: images/nuvola/16x16/actions/gohome.png
+SHA-256-Digest: B5Hew0jRCXuIWB61dR1+4wOVB7usNQ0hjqaN4f3SMXQ=
+
+Name: images/nuvola/16x16/actions/colorize.png
+SHA-256-Digest: xRMa7+hhNFUewlKMtaKMqmRT/78jdc4si82Xf8ESQSg=
+
+Name: contribs/mx/S3ServiceMx.class
+SHA-256-Digest: kFvXcv2eW661Wg6Y0LGszWf4Az2zfJHW+JTajNGhJE4=
+
+Name: images/nuvola/32x32/actions/noatunloopsong.png
+SHA-256-Digest: jXrZ5HLQevZb1k2jUPZhIp4HCalZ6JgvssMhI7z1Zsc=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$16.class
+SHA-256-Digest: plNMJtWpLK2+jhitLFfEgPRFWSH52SxDwCz/eQwHvh0=
+
+Name: org/jets3t/apps/cockpit/gui/LoginLocalFolderPanel$ProviderCreden
+ tialsFileTableModel$1.class
+SHA-256-Digest: a+V3wNyclJkmIz7/2MCZvwOr0S8eiZYEaHvUpI6aC6Y=
+
+Name: org/jets3t/gui/skins/html/SkinnedJRadioButton.class
+SHA-256-Digest: 0EVC1G5proLXCf+Qu2nQNTJQ1wnx/peNw0JyIFQz1YQ=
+
+Name: org/jets3t/apps/uploader/Uploader$1.class
+SHA-256-Digest: ca2bMcQzno7KZtz6/J2163TzUHFCzXTDlghK/8ysrZs=
+
+Name: org/jets3t/apps/uploader/Uploader.class
+SHA-256-Digest: 1RiMsqiCaDVH6VVLOGYUskR70QofLsZIRvoFphU3/14=
+
+Name: images/nuvola/16x16/actions/edit_add.png
+SHA-256-Digest: CWePfKQdgjvCF/vJr8n7OST6AhCX7lhSyVRIx99H6TQ=
+
+Name: org/jets3t/apps/cockpit/Cockpit$26.class
+SHA-256-Digest: rKwxVAmS/uhECBa643Aa/mjsrMa/bXhJtZxOmT5V/V8=
+
+Name: images/nuvola/16x16/actions/laptop_charge.png
+SHA-256-Digest: Lkqy0ivoFpAXIaeDMFDt40UPKY6g/MEhKbDPSuN1keg=
+
+Name: images/nuvola/32x32/actions/view_tree.png
+SHA-256-Digest: W/AMrmbXRDQ0S9O9Z7U3YhGWRZBZFMW9s/e8nIztKaY=
+
+Name: images/nuvola/32x32/filesystems/folder_txt.png
+SHA-256-Digest: sOuKNi3mWrc8uSLwa/M4y/ztftCG+xdSxkUyjpKYU2I=
+
+Name: images/nuvola/32x32/filesystems/network.png
+SHA-256-Digest: gnw4SUXSszZ/dfcZT3hXmbfRVoM1MSktR90Sfdo5ru4=
+
+Name: images/nuvola/32x32/actions/laptop_nocharge.png
+SHA-256-Digest: EFQsv4FQPBTP68/nNB1z9dMtYabqXai+FIjm6OEDRb0=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$AbstractRunnable
+ .class
+SHA-256-Digest: 85JecbZLO+a2YJEA1K+bsQf5BSM2r7fwzp67a9ev0sY=
+
+Name: images/nuvola/32x32/actions/1uparrow.png
+SHA-256-Digest: pgIk3aO1hitllr5cP+pN3QJizDQMouMep0d1BIVcUD0=
+
+Name: images/nuvola/16x16/actions/irkickoff.png
+SHA-256-Digest: wToA3qvdKuFFzSQDIWoPx3Vt1q5zYByp9Wi9szUAs3k=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$CompleteMulti
+ partUploadErrorHandler.class
+SHA-256-Digest: ax5wa4hYYUBTGv8TWpz4cE9Bre+Jm5IvbE3ig2iCLFU=
+
+Name: images/nuvola/32x32/filesystems/folder_important.png
+SHA-256-Digest: wD5HuddvKvafs829jh1wLcEXjCO9DJoTMRDRBFz7qJI=
+
+Name: org/jets3t/apps/cockpitlite/CLObjectTableModel$4.class
+SHA-256-Digest: sF6iERFw8zOs8TAmTTPyMV5vtuCwIGRCOgAO3SdyTAc=
+
+Name: org/jets3t/apps/cockpit/Cockpit$8$3.class
+SHA-256-Digest: iOq1aFitJTQwA66416EBFXADzhYvORLATLL+XvZfa2o=
+
+Name: org/jets3t/service/model/S3Owner.class
+SHA-256-Digest: oZv4pAfAqnKEsNe9kddOAXjaYiF4WxsnbR+fELiL/yY=
+
+Name: images/nuvola/16x16/actions/pencil.png
+SHA-256-Digest: RFzUR9cBqoZWeAW1HcjEcqmdybaMgMkAuph3w7HUAGc=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$6.class
+SHA-256-Digest: KhjSht5oy7aKwcxPLdRM+Rq/+ue7nnv7Pon4qZlADYA=
+
+Name: org/jets3t/service/security/EncryptionUtil.class
+SHA-256-Digest: ERLqKfQkFCu1pzIyBwm9+Ycj4646hYvV/O2NenAHNLI=
+
+Name: images/nuvola/16x16/actions/kgpg_photo.png
+SHA-256-Digest: g3HrdbI6y+7615gzJ0i5GRvb0t6cS7/aJoTCJgKmSCA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$24.class
+SHA-256-Digest: GsPynJeDYWjEhIcGWfG/TjSOmVklpti49BJRml2gS8g=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$CopyObjectRunnable
+ .class
+SHA-256-Digest: vmnjDtwV0YViTIHCOr7cZx+1ugBuaCDIiBK5RV7OQTE=
+
+Name: images/nuvola/32x32/actions/decrypted.png
+SHA-256-Digest: Dq6Ia2dDFDQxNX+ZqDyCp4Zub8/ReYlm53RPPC38ZIU=
+
+Name: images/nuvola/16x16/actions/finish.png
+SHA-256-Digest: MDs4SRylMv4PAAW6s40tpnXjpn+CafC31aNibOx6XZ4=
+
+Name: images/nuvola/32x32/filesystems/folder_home.png
+SHA-256-Digest: eiwOW1m9f61XyG2r1bY7qfHrs65Knr8aXH315bNZq7w=
+
+Name: images/nuvola/32x32/actions/history_clear.png
+SHA-256-Digest: pnAWun0fM8PQz+Qx4L/GvpsG4u8FxQeF8bgVuKZ/vAA=
+
+Name: org/jets3t/service/multi/event/GetObjectHeadsEvent.class
+SHA-256-Digest: lGHx852L9LHU3PDaub0VT5quwkMB/Kgzp0yJO7dwgzA=
+
+Name: org/jets3t/apps/uploader/Uploader$6.class
+SHA-256-Digest: dcOSVRVB/nZZLsVmLezef/YOTV0HY0FgT3VmGYstbxE=
+
+Name: org/jets3t/apps/uploader/Uploader$12.class
+SHA-256-Digest: DMLOzxDo4tUgBUkxYgT6KhPDgV2htYXQP40D8CaIEMw=
+
+Name: org/jets3t/gui/ErrorDialog.class
+SHA-256-Digest: Nc6ZlUxm4971d9DhgRFvKXZh2IK1Ct9cyo28K/rUnqM=
+
+Name: images/nuvola/16x16/actions/bookmark_add.png
+SHA-256-Digest: UB78OsJJukHi/Xm/PK6dOGXCcp9Id9+iQDMnwV2tiRQ=
+
+Name: images/nuvola/16x16/actions/fileopen.png
+SHA-256-Digest: g8riBVmxgFud31WySaCyIonr8ElsoIoNydcK26kUsvQ=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Inv
+ alidationHandler.class
+SHA-256-Digest: o+EKia7E52o49NgKh+I2RtRak2RG9ncvcTvH8wLZqKA=
+
+Name: images/nuvola/16x16/actions/forward.png
+SHA-256-Digest: FYawS5qLMn23DlRSG/PGMTd2C0vatsL0jbrkiGFGr0g=
+
+Name: contribs/mx/S3ServiceMxMBean.class
+SHA-256-Digest: 5heHj9xjDKDfzkFlkp4Rrj2Q5TIhSNtJPUsIaINTV6Y=
+
+Name: images/nuvola/32x32/actions/mouse.png
+SHA-256-Digest: iGuD7ARY9gJ2Z0vmPsWon766oSz8vr66Z+py94ji/LI=
+
+Name: images/nuvola/32x32/actions/messagebox_critical.png
+SHA-256-Digest: B+SzOk5VFElSegLqUL3nEh0NVVXimpc/iZEmRPB77E4=
+
+Name: images/nuvola/16x16/actions/player_rev.png
+SHA-256-Digest: rzYCwLyJlWXnFC0PW8CVbKtkEoJj3kPDUC+gv9WZ1Gg=
+
+Name: org/jets3t/apps/cockpit/Cockpit$8.class
+SHA-256-Digest: qhRn1Vsj2ETm1ECuAqEUUpjgU3DG2OLa0xn+SzKX9Js=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$15.class
+SHA-256-Digest: 681r9dbfcdXGGWNk2NBpc30AqXjVJ2ggBk2AfgOfljQ=
+
+Name: images/nuvola/16x16/actions/down.png
+SHA-256-Digest: BXJZ9NJiRmSztXAW8ta8fl33i20BpQn/H/Eh1NiKl20=
+
+Name: images/nuvola/16x16/actions/previous.png
+SHA-256-Digest: xA5sMq/nzcoKLm0x13Qiq7pNeCfOXLurd2yR5edUGzk=
+
+Name: images/nuvola/16x16/actions/view_multicolumn.png
+SHA-256-Digest: rg5GxX+R3cPjj6jzo949nuSQEEparfoqFzfBt9BeA5M=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService.class
+SHA-256-Digest: koYCt3U9+LTxItT387LkgK9TZ1plOWxvoGo1ouSl38c=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$14.class
+SHA-256-Digest: pZ+jVlU5l+HXS+ERAWzHMSZB4PL0ctYnJYl+rMCpV1M=
+
+Name: org/jets3t/service/utils/signedurl/SignedUrlHandler.class
+SHA-256-Digest: wN5L0zJ0N1LRxx8Iwu4epC49Syd7GIxUBlzEj6CDDZ8=
+
+Name: images/nuvola/32x32/actions/compfile.png
+SHA-256-Digest: kPKxDRxP89tH5+a2qk6b2PbZYEQJ3RqTarXOVu5NyIg=
+
+Name: images/nuvola/readme.txt
+SHA-256-Digest: Pne6qYF2DgmPxgy7xtGWBqKXp0t/DuHTw1DfkgQBSw8=
+
+Name: images/nuvola/16x16/actions/history_clear.png
+SHA-256-Digest: RZCAplsTRhgl+DiB/xRBu+uTx2nXqPbgsz9zbS782X4=
+
+Name: images/nuvola/32x32/actions/1rightarrow.png
+SHA-256-Digest: gP8zdy0sj+mKv4sIGSVjwZ1HCYrQHIKLbuYwyVgVpac=
+
+Name: images/nuvola/32x32/filesystems/folder_violet.png
+SHA-256-Digest: f5lhJX5TJoYMwkn32fsYF8Bga6gMyoin4FmWJQg0yhc=
+
+Name: images/nuvola/16x16/actions/player_fwd.png
+SHA-256-Digest: 8g/h9oZBeW+5jO5qRPUk5K1TLm5BIQbcBwAZf2rdI7k=
+
+Name: org/jets3t/servlets/gatekeeper/GatekeeperServlet.class
+SHA-256-Digest: UnUHQvLrjlC3vU2whUa0obkRCPPQWE4oIHE1A7TYuJA=
+
+Name: images/nuvola/16x16/actions/frameprint.png
+SHA-256-Digest: Tsc/DWLN/QSwzJIGTyL7CyUf494L7IAHQi+4kJvKfLg=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$34.class
+SHA-256-Digest: nhzvT8r58OKxkB2vUMkxqas/OZSf6CuWXcwYI/WmKng=
+
+Name: images/nuvola/32x32/actions/player_stop.png
+SHA-256-Digest: nIpwOKorE9g6QdL4pc1EIaiTN0JzUMuOa2Jcchozsec=
+
+Name: images/nuvola/16x16/actions/reload_all_tabs.png
+SHA-256-Digest: 1h0Gt5Z7UFbELsZzV3maJYtxZR76Dlo+H77BH8E+A0E=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$1.class
+SHA-256-Digest: nXBWEX6GjxQtcgcmS97Keabwh6yjWEiq06dP4DCo8f0=
+
+Name: images/nuvola/32x32/actions/configure.png
+SHA-256-Digest: 8t1wYmYv9K3lXVEG7EKQIH8ECT1VDiiJ1gtz6eZ1LiQ=
+
+Name: images/nuvola/32x32/actions/editshred.png
+SHA-256-Digest: X9NCOQ6bz1q1Jp3ss8RVqIOm60+j1lDvZa5jxBiZg/E=
+
+Name: org/jets3t/service/model/GSWebsiteConfig.class
+SHA-256-Digest: EBHvneX1PYVPPbFewkDcwyA6ftKYO37bc8Bu7g1Yn24=
+
+Name: org/jets3t/service/utils/FileComparer$PartialObjectListing.class
+SHA-256-Digest: JvrmFdPp8Mswuh4rfH/oE5qucF6kUTnFgChHh7HBcYA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$8$4.class
+SHA-256-Digest: U7TIsxdGfPTongpMfxb51Y4fgbNvpxBlJnhThZW1gF0=
+
+Name: images/nuvola/16x16/actions/viewmag.png
+SHA-256-Digest: LNS8zPIW+MqsuRrUG2HL3HO3l8ZqES7pqLOvUJclx/c=
+
+Name: images/nuvola/32x32/actions/edit_add.png
+SHA-256-Digest: 7oOfbQv5VsjwA7qUgR9qXQp5ZmRmJRc6iAKaVnH1yX0=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$ListBucketHan
+ dler.class
+SHA-256-Digest: KQRQpX5Ka9TaMMtVdNNSiFLdu62IWa0mV/qKa0/cG6k=
+
+Name: org/jets3t/apps/cockpit/Cockpit$23.class
+SHA-256-Digest: VuITA8Bi5w4lwqc8C+PsVzKOVhWYyaxPvdd5zuq9/vY=
+
+Name: org/jets3t/service/security/OAuth2Credentials.class
+SHA-256-Digest: KZMn3KBmqfLGmA6BLqUrrZgIhPPkwI8UEHIMCIt9Xs0=
+
+Name: images/nuvola/32x32/actions/top.png
+SHA-256-Digest: DqmJD+627WjVdQ3H/LHTcgSC7UBDgvmJd31dRGzO1aU=
+
+Name: org/jets3t/service/utils/FileComparerResults.class
+SHA-256-Digest: zcWkak0F//7JfhVKwpZK0jw2F5T3+SAlatpUpbF6eqc=
+
+Name: images/nuvola/32x32/actions/1leftarrow.png
+SHA-256-Digest: F9rYIfEyk2RMeXTd4hPAtXebLgod7SLKi/w/DWQ7Ndk=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Tru
+ stedSignersHandler.class
+SHA-256-Digest: 5RRYY2M2B3muzllOsUFOk6X5TlLlqGRcnDVm2OD+DtQ=
+
+Name: images/nuvola/16x16/actions/ledyellow.png
+SHA-256-Digest: s6CsKtaRiKb1q6sqwOX05jIs7QElofI+z87BFlLNWec=
+
+Name: images/nuvola/32x32/actions/ledblue.png
+SHA-256-Digest: AsYmimRiFhTWd0uWw8yWlfytSyESBQqxJkoyzJpckbY=
+
+Name: org/jets3t/apps/cockpit/gui/ObjectTableModel$1.class
+SHA-256-Digest: bAwowp6IGLdF3iYa4Rj8G4lDr/OVrTVaI8Aw1D4sNd8=
+
+Name: images/nuvola/16x16/actions/player_stop.png
+SHA-256-Digest: X1fsMR5WgBtKd4/YPisE73QLbC77rBhALpfhMbNM6O8=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$7.class
+SHA-256-Digest: q3yA2tbbXEVfewnBH0Xx/SDEBaRjyoXfLfPLDV1HEX4=
+
+Name: images/nuvola/16x16/actions/quiz.png
+SHA-256-Digest: 1urypovicrphl70+Y5ogAaF4yPtuhZWaL08N8dG6Ap8=
+
+Name: images/nuvola/16x16/actions/ledlightblue.png
+SHA-256-Digest: z9kjx5orzFEnwfgVncM8sj4pT0du4b3Oozz5/o09LWs=
+
+Name: images/nuvola/32x32/filesystems/folder_video.png
+SHA-256-Digest: IbYE8kxV3NzZcFzRn2J4ZQO5x3HYw0+F01FclZbk4Ls=
+
+Name: images/nuvola/32x32/actions/mix_unknown.png
+SHA-256-Digest: fPw/MQuN+XgGGvHnzQCs35+x4wWsmnTEFNzlTCFUtpE=
+
+Name: images/nuvola/32x32/filesystems/folder_games.png
+SHA-256-Digest: xBMII1mnWHJIp66iNs4XFiJzl9bEJJ9K9CMGYLv4W8g=
+
+Name: org/jets3t/service/impl/rest/httpclient/RestStorageService$HTTP_
+ METHOD.class
+SHA-256-Digest: zC/q988Qrlim+0wpk2kD9bJ7N5l6gRhxSwlMlFfPofA=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$10.class
+SHA-256-Digest: w9knBp5I80I0gO2B+6tpaWXVW2Y2GS7dIxQTnlnBdjY=
+
+Name: images/nuvola/32x32/actions/editcopy.png
+SHA-256-Digest: 6bW24IWwBt4JaT2r4bPq5y4vaIO4kAFldTcU/c1GWa8=
+
+Name: org/jets3t/apps/uploader/Uploader$13.class
+SHA-256-Digest: JQMWoimcfavHR3BJDY8zWJ7dQbKdLLk4YmPGy8F7T+I=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog$GranteeTable$1.c
+ lass
+SHA-256-Digest: aVFBrRH7fTFYW0gyFaPB1RN3pUrqI14pffPZAZjtK54=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog$2.class
+SHA-256-Digest: AE3eCNtHYzwhJm6C4+KvVq6smAchaxB6vgHgZWBe8tE=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$19.class
+SHA-256-Digest: haO8UHSYW2aNWPZ5X917CurxYTH6urUXuCuWY4WpqHY=
+
+Name: org/jets3t/service/impl/rest/httpclient/HttpResponseAndByteCount
+ .class
+SHA-256-Digest: tiClpdio/fg9UyL4kJuqPmC98gfZ6+1puE1fTRr4D5M=
+
+Name: org/jets3t/servlets/gatekeeper/impl/RenameToUuidUrlSigner.class
+SHA-256-Digest: YA0+J0PE9SaVGWUHe35uktevKYWMJrUm4+57w9/Sk4g=
+
+Name: org/jets3t/gui/ItemPropertiesDialog$1.class
+SHA-256-Digest: t2/WFX//pyjk3VZqL20WjV81DsS5rcIBarYZ+CJF/2U=
+
+Name: org/jets3t/apps/uploader/Uploader$5.class
+SHA-256-Digest: 3BtRTaNSf1k1df5TrTJcyuGDJig9qq2AUhS7eUTsYCw=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$33.class
+SHA-256-Digest: 4+7ibfi6W/Sitcu1nYJjvmsNHyl9CyasZ95gY0IjN4U=
+
+Name: org/jets3t/apps/uploader/Uploader$8.class
+SHA-256-Digest: mQPjVkbht/SZckRv6WQ1lWNOP4DMozthac/sc7Ay8c4=
+
+Name: org/jets3t/service/multithread/ListObjectsEvent.class
+SHA-256-Digest: yD5eUHNy80KDSkwY4rogFuOTa+8kpCopPDpg1+ygOPY=
+
+Name: images/nuvola/32x32/actions/reload.png
+SHA-256-Digest: RIgkhJYc4gO8C/CMMqMuroUYM8PbR7U5u+AalYX56os=
+
+Name: org/jets3t/apps/cockpit/Cockpit$8$2.class
+SHA-256-Digest: c4OrO6tmz5SmyT+h3AK0MaeyrTnWfnmaPkMkMCiKXtA=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$2.class
+SHA-256-Digest: TWKRItiV+AdMM0HGUGB3RYe4VKR4WztbwLOXplX1IrY=
+
+Name: org/apache/commons/httpclient/contrib/proxy/PluginProxyTestApple
+ t$1.class
+SHA-256-Digest: bfzkvVFoCljgaK0RVe9CnpZvX+3ZNZz5vURDL/81VOs=
+
+Name: images/nuvola/16x16/actions/messagebox_critical.png
+SHA-256-Digest: puL64RU88d5eT1qy4EreXS4uBlJN21QNKqAZ5cm5DB8=
+
+Name: org/jets3t/service/security/AWSDevPayCredentials.class
+SHA-256-Digest: iN7BRK3m6N1mvLoqFGTpKE2T6GXjGwp144FeKcMfUWo=
+
+Name: images/nuvola/16x16/actions/laptop_nobattery.png
+SHA-256-Digest: itBbNiiSBZqWp/8vtcti8DCVkr2PSfi8rdM5BYDp/kw=
+
+Name: org/jets3t/service/multithread/DownloadObjectsEvent.class
+SHA-256-Digest: l1rLNmh92X2SarDz13pao4uzjn6JJ0TdKCYZyTIyquI=
+
+Name: org/jets3t/service/model/CreateBucketConfiguration.class
+SHA-256-Digest: Q0IrIXiQYpRMZGCfRcYwnznY4p5X74Uf1RRg5BoFuuM=
+
+Name: images/nuvola/32x32/actions/kgpg_photo.png
+SHA-256-Digest: 05UsJiME1tOqnKv7K51zFKzvWcnsP/0a/Cw59+rn1Sw=
+
+Name: org/jets3t/service/model/StorageObject.class
+SHA-256-Digest: ah5doh9vQ+ZNR7yLUq/ins/jTdJjoNivIjc9ors1p0g=
+
+Name: images/nuvola/32x32/filesystems/folder_yellow_open.png
+SHA-256-Digest: fZR+tKA3SHjGgSnlRnNqD51/EY8+lmnTZgwDxCrHyVQ=
+
+Name: images/nuvola/16x16/actions/view_right.png
+SHA-256-Digest: h/L2bvNwaUdDCqJ6wN/3jOZQFxzjdaO1mEBoZO12mhw=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog$GranteeTableMode
+ l.class
+SHA-256-Digest: O+5xOLU4BZe9IqesCVOpeUuv2HKOP60JBxx83bWug6U=
+
+Name: org/jets3t/apps/cockpit/gui/CredentialsDialog$1.class
+SHA-256-Digest: gPhMYNHHmR894eX4dQfoCmCRz0w8PEHdBlqcVvfknnI=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$3$3.class
+SHA-256-Digest: 05oLW7A8wrVc5ve/9qJ4Y8nNBKgspOZHy29pvqUx9H8=
+
+Name: images/nuvola/32x32/filesystems/folder_midi.png
+SHA-256-Digest: AiqhogD6/u0OI90WmHEqJvHCGdWStyJ6HtRlFlX4RRw=
+
+Name: org/jets3t/service/utils/RestUtils$ThreadSafeConnManager.class
+SHA-256-Digest: nhP+ZXHo7EEY1MsPcXe2GTpAyFAT2XV5prImrsYc/Fw=
+
+Name: org/jets3t/apps/uploader/Uploader$11.class
+SHA-256-Digest: xvkHM5kTeB4Wl3FqrODfgFraX9Tx4D8cQ49yovhPj8U=
+
+Name: org/jets3t/gui/ItemPropertiesDialog$2.class
+SHA-256-Digest: GQThOPnhXe7vfC1s43ITR/Xsqm/WC9HJCfGAoDzEj+U=
+
+Name: org/jets3t/apps/uploader/Uploader$7.class
+SHA-256-Digest: mXDkT/QQ5T1VZ9WqxU+fMwKV6vFb4NNecAeuxeTzxjk=
+
+Name: org/jets3t/apps/cockpit/Cockpit$8$1.class
+SHA-256-Digest: nAj7aeheDPPBCBPaPeqfbqjJ/BTlATZWfI2R32Ikyf8=
+
+Name: images/nuvola/16x16/actions/kgpg_import.png
+SHA-256-Digest: GqIzKMILV5oyH4lF1USqmhRPjLAqPvA6oLl0gQAqAMc=
+
+Name: org/jets3t/apps/cockpit/CockpitPreferences.class
+SHA-256-Digest: E5REo4ngZUB3o+Cr9MZYO13nWzLyBbciRlVfuGl3R5s=
+
+Name: org/jets3t/gui/skins/html/SkinnedJPopupMenu.class
+SHA-256-Digest: tTi9YVH6seW+bIMBfhgfinOFsAFGUugrAy/Wq9xxp8E=
+
+Name: images/nuvola/16x16/actions/view_top_bottom.png
+SHA-256-Digest: aHH5zCOfgoERT2ie4CdRtAt7vGQWargzQiKUaCKkQMU=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser.cla
+ ss
+SHA-256-Digest: BtMU88g81xZZ/6OZ1w/g6kfINUkp1m+vNeITkpwn8Hg=
+
+Name: org/jets3t/gui/ObjectsAttributesDialog$1.class
+SHA-256-Digest: IA4WzwIlTva6ipljbfDfl3784quc1rX9w3ce2hVfQos=
+
+Name: images/nuvola/32x32/filesystems/folder_grey.png
+SHA-256-Digest: DQp4baJJVQLMSj26Th7AhZqNpKQB5NEO86IfZMfmfx8=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$5.class
+SHA-256-Digest: hfOV0/jvgBhtBLm1/WN8RevQDUzbDOWVFotsbl6eJjU=
+
+Name: images/nuvola/32x32/actions/kgpg_import.png
+SHA-256-Digest: 0dW+nEjskOTTvOI/l4G++bgQ/UspJXQkmQ5S54UhjVM=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$31.class
+SHA-256-Digest: D93z3SSppAYHfqWS9Me0fDtBxmr69eKzCo2UUoAiYTs=
+
+Name: org/jets3t/service/utils/RestUtils$JetS3tRetryHandler.class
+SHA-256-Digest: ZHwvrHCXu0zYr+3JjxJcOOJ7RujldvULUeYLvDLCxeI=
+
+Name: org/jets3t/apps/synchronize/PasswordInput.class
+SHA-256-Digest: AZ5JLouvsUkrdN1UJhN2UyIzpXQwZPDjG3A2W17KrXs=
+
+Name: org/jets3t/apps/cockpit/Cockpit$13$1.class
+SHA-256-Digest: g+G4+TponAR1fe48s0wj/d9h/bNZ0LOOWa+fIkqNOmw=
+
+Name: org/jets3t/gui/skins/html/SkinnedJPanel.class
+SHA-256-Digest: MwwUW9K6gucS2Q3b2C9AoMd7+zjfjh1ZgR3lG41PZFU=
+
+Name: images/nuvola/32x32/actions/2downarrow.png
+SHA-256-Digest: u/+3Y8JTlb13Rm4xaUGZpAeIJ5uQOWGJbwcNUI9NONg=
+
+Name: images/nuvola/32x32/filesystems/folder.png
+SHA-256-Digest: ohGmW0Z5miyOtf3ZmG5g0N/gU007ibABeptpyOy3DmQ=
+
+Name: images/nuvola/16x16/actions/run.png
+SHA-256-Digest: ykFj3TfbVi5s61JOHEBnQS6pWENpC4Texwy8C+ZSEMo=
+
+Name: org/jets3t/service/model/MultipartCompleted.class
+SHA-256-Digest: VXwD+jTLZjpshE+qCyrc9q9XsTHc59edUnE9jfx2uEU=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$ListObjectsRunnabl
+ e.class
+SHA-256-Digest: tLDQTicwpPCIUG0JgBSArl/OB27KCW9PJFtvg1Qn7IA=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$30.class
+SHA-256-Digest: cCG72hfQpe+/y/nmQxTpQJdWuuUL2bnlcNiGJVYa/Uk=
+
+Name: images/nuvola/32x32/actions/project_open.png
+SHA-256-Digest: stsMS8Mtujag+NfaK2kTFQv4X6njFa7/ZYh/x8zFmmY=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$WebsiteConfig
+ urationHandler.class
+SHA-256-Digest: y9aRzrnELCfwUonFiII0G+lGkNXP9VmF8yn40ueDeOA=
+
+Name: images/nuvola/32x32/actions/kgpg_gen.png
+SHA-256-Digest: /IY1avEgXblJsBdZhEvsYIg0VjEj7/Ixrle517y++Gw=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$AbstractRunnable.c
+ lass
+SHA-256-Digest: svyeoLdPxsCW79vAluAM22BDC2SCj0dvp9B/plH7JvU=
+
+Name: images/nuvola/16x16/actions/view_left_right.png
+SHA-256-Digest: l4zdiUdT66ZmdknqTkOxLtS6YjhnQMMGBBZBXaf/JIg=
+
+Name: images/nuvola/32x32/actions/rotate.png
+SHA-256-Digest: 0E5tgQ0LY702l9qcUbxYyyRvXG1Q9kzFF6K0htnhrfo=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$CreateObjectRunnab
+ le.class
+SHA-256-Digest: c1jT4WdvBOTti6cX+HFiTxRfZFQ7UZFoosPrU46V8Z0=
+
+Name: org/jets3t/service/S3Service.class
+SHA-256-Digest: fXNHJbSLu6q2WybCAI0wmFDQpwoeq5L2f5wfcPYUE5s=
+
+Name: org/jets3t/apps/uploader/Uploader$10.class
+SHA-256-Digest: isLQa9LYsHzjz1AEJb74+Fg9gpvlgSnZgHeSa+hMdu4=
+
+Name: images/nuvola/16x16/actions/artsaudiomanager.png
+SHA-256-Digest: JsMmQfniAjpimHW2+WQNK/rcj+AG8tmMt6tilbsgpm4=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$4.class
+SHA-256-Digest: K2GQoi1dNlaB6aWMxOePLhEGbTb4V+ZkpYsr7f3HPyg=
+
+Name: org/jets3t/apps/cockpit/Cockpit$20.class
+SHA-256-Digest: VkOmbHYdprTNLwlWjvq2n/TBDQ6m3NCxAbz2TT/BmPE=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$DeleteObjectRunn
+ able.class
+SHA-256-Digest: cDXzVdDVosWzYFpoTZX2Gf1lBmTn19eTt8ow23TTHpU=
+
+Name: images/nuvola/32x32/actions/mail_generic.png
+SHA-256-Digest: 95NnuzjhMeZXc6FPw7w36yLk0JXZvFyATYhZoIYUaW4=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog$1.class
+SHA-256-Digest: utmNKRdccEJ68na6X5+nbcbn7v1+OfAFSG6+CWdq+N4=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$MultipartStartRunn
+ able.class
+SHA-256-Digest: dQAHauQVp4XnTKupAVHDSBcGPCrpdNDJabD36iYGB+0=
+
+Name: images/nuvola/16x16/actions/kgpg_key3.png
+SHA-256-Digest: DXNDGHTRYXvVZsywyKHshDo1iF3XZkFzUEvwkT5Lvxo=
+
+Name: images/nuvola/32x32/actions/button_cancel.png
+SHA-256-Digest: urO4bGutiYdDgbwCDVEdC7/EhUF/5ZmesEQDoF6jfoY=
+
+Name: org/jets3t/service/acl/GroupGrantee.class
+SHA-256-Digest: SR2Zmrg77KUnKxllnbrbrwyRKqH3nBYTa5W6r3cWopE=
+
+Name: org/jets3t/service/multithread/CreateObjectsEvent.class
+SHA-256-Digest: LJmr61nHzhqw+mMLKqgEFQj/NDl0Tg28ZvKEIeAvqMU=
+
+Name: images/nuvola/32x32/actions/fileclose.png
+SHA-256-Digest: mIADl/9BGM/qqsWjGfXixEVbygXVnGVXB+fImInYRpc=
+
+Name: contribs/com/centerkey/utils/BareBonesBrowserLaunch.class
+SHA-256-Digest: +xS4p2a8A/d0huGFaOL+FvOVR3ei6QALflUYgPyRBpk=
+
+Name: org/jets3t/apps/uploader/XmlGenerator$ObjectAndSignatureRequestD
+ etails.class
+SHA-256-Digest: 8tqHwc3rN8AZ48QM6ESBkXPRESppEUnUhnFDzEdhafU=
+
+Name: org/jets3t/service/MultipartUploadChunk.class
+SHA-256-Digest: Godx0wt/3sfscw66MOuzAVrSPKOiMefCA83RLiulqlc=
+
+Name: images/nuvola/32x32/actions/homepage.png
+SHA-256-Digest: lWsECwcUWfHaeaqgn067DD6cqsxB/fzNMFR6k4a5RDI=
+
+Name: images/nuvola/32x32/actions/bottom.png
+SHA-256-Digest: iBSj2HvpXSqc32Uv995wENq/hpyVkZAHLk9Ym2j+nzs=
+
+Name: images/nuvola/32x32/filesystems/folder_cool.png
+SHA-256-Digest: CuPFE6wpV6DRtI4loP/9EvBlRRST8dmcnTHnlhZfywY=
+
+Name: org/jets3t/gui/TableSorter$Row.class
+SHA-256-Digest: iX/VRu2pLcNxuYMwUJ+t8FpfVDiIuxxXuYCG9z6rRbI=
+
+Name: images/nuvola/16x16/actions/mix_unknown.png
+SHA-256-Digest: uYeG4HLk6C5nGkqZox6mCbeGwVIu/o5piMHXnBuf0ro=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$1.class
+SHA-256-Digest: SkVTbYHiOKuAf1SJOaAfg1UGNrGueFrovwTDYqayFA8=
+
+Name: images/nuvola/32x32/actions/power.png
+SHA-256-Digest: HUN3od7kc9c+BR6MhJKQZ+Oor+kPIW52/zglqk4gO0Y=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$2.class
+SHA-256-Digest: oH173shMl6hYaV2dINiiPmoAEa4SgTtZ+w3FgEqYA2A=
+
+Name: images/nuvola/32x32/actions/cancel.png
+SHA-256-Digest: urO4bGutiYdDgbwCDVEdC7/EhUF/5ZmesEQDoF6jfoY=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$SignedPutRunnable.
+ class
+SHA-256-Digest: rYCdAKhCMZ3U5N35faOTF1Ly7ecn4Fs2HBBGDKyQ5tM=
+
+Name: images/nuvola/32x32/actions/mail_new.png
+SHA-256-Digest: nT3Pz2O+WphkFQHsa2OO5IPHhYMovRCoWD4WCzHz8C0=
+
+Name: images/nuvola/32x32/actions/player_rew.png
+SHA-256-Digest: KaFxjhoeSrVTcLoT8jI/b2enafR5V3aakSrf4/2Ew3Q=
+
+Name: images/nuvola/32x32/actions/ledyellow.png
+SHA-256-Digest: 1wVIFD8MFm7puhPlwP9/Im7mqs1yPKrbvHqfsH8ekqg=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$9.class
+SHA-256-Digest: jCgZQ3sIjqZZGbLV73rlSerT2ffSHoHHAh2zt1GZwq8=
+
+Name: org/jets3t/service/model/NotificationConfig$TopicConfig.class
+SHA-256-Digest: mkXKNsFWD225Ih0JeRuzDjFFAGyU/pQJaypseTGc4RQ=
+
+Name: org/jets3t/gui/TableSorter$Directive.class
+SHA-256-Digest: tW7f7Zh3YLadyU42vqE8PzGxyzzCUG3QHtMefA7oXMQ=
+
+Name: org/jets3t/service/io/RepeatableFileInputStream.class
+SHA-256-Digest: +h7aMNHuvMTLmxhga8KqUR8EMsXp269J7AEalAoBvKc=
+
+Name: org/jets3t/samples/S3PostFormBuilder.class
+SHA-256-Digest: l0s1q/UE+ieYpuZuAbG7z6knF3y5ZJADTu4/nrTAEoM=
+
+Name: org/jets3t/gui/skins/html/SkinnedJMenuItem.class
+SHA-256-Digest: xXiTiZXs38dPN9isGGgwSw0H/Mi/gPZfV/XKi6PXGjo=
+
+Name: org/jets3t/service/acl/GrantAndPermission.class
+SHA-256-Digest: rQyAxlCd/Nar0diwPAPp6tB4BkiIPQouVNxIrymKXXQ=
+
+Name: images/nuvola/32x32/actions/viewmag+.png
+SHA-256-Digest: 2QzDa7U/Bs3OqrRqQzDB0oNSeqLjUUnZxfDWkycf2i0=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Dis
+ tributionListHandler.class
+SHA-256-Digest: bc2ubTfjDl2KB/SxISf9mgqiYnvW2KaOlsRCgxRIYic=
+
+Name: images/nuvola/32x32/actions/artsmediatypes.png
+SHA-256-Digest: Lkfvb2zikZSMGELjYzzIE2XAPm2rUaw58qvJSvbpO1g=
+
+Name: org/jets3t/apps/cockpit/gui/SignedGetUrlDialog$1.class
+SHA-256-Digest: 3jhvzpYpQBOuMWmRU5WklG1BYft+QeFULlG0KKnXt/s=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$BucketLocatio
+ nHandler.class
+SHA-256-Digest: XHT4O7Wf9i1ObaLZby7NHJBP/AnJHoclCvEj7CJWlEA=
+
+Name: org/jets3t/apps/uploader/Uploader$9.class
+SHA-256-Digest: cBmVkL/rqIVFP86LtQBTN5OoaEAj5cnFdoVJvivFVn0=
+
+Name: images/nuvola/16x16/actions/compfile.png
+SHA-256-Digest: IoteJxtXJctSTnKl1glorxJXpG4L08dqEgURGUjV1Q0=
+
+Name: images/nuvola/16x16/actions/ledred.png
+SHA-256-Digest: WhPZfK1ApLbdzoLkByzvwgdCEDzdnxhiasNXiy2ZtX0=
+
+Name: images/nuvola/16x16/actions/find.png
+SHA-256-Digest: RM60NSo7rusFumC3lvqJ7srUtAWirrGJQFjoxVeTZV4=
+
+Name: contribs/mx/S3ObjectMxMBean.class
+SHA-256-Digest: YsHRDPLLLGDY//nitRL0wlNvOZEdk7H/b0OmPewlVcM=
+
+Name: images/nuvola/32x32/actions/back.png
+SHA-256-Digest: ZvpmgSyWAafvePsr/HGHQEunqZyZZSoOs4CPhWpgC84=
+
+Name: org/jets3t/gui/GuiUtils.class
+SHA-256-Digest: 9Sn0iCfa4tdKozw3pwv8I+GG1Jiwy800AiDcrAG3amA=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$12.class
+SHA-256-Digest: E1odRpB4LC0prjk5dVGRykMTfxvpcPfG+1+Bfu8+owM=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$17.class
+SHA-256-Digest: GT5VEBl6GN2gpwV9DNliUcqGex+BBnqgzOuUhRJ83t0=
+
+Name: org/jets3t/service/security/OAuth2Tokens.class
+SHA-256-Digest: OLKVLm+HZ11uOKq31RW2kSxe2zHWNZ/REn4ZAoT8GlQ=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$12.class
+SHA-256-Digest: dm1MteFHiKiOK9Ue96dq7rNTgXDS5SixmFmKB9EKGjE=
+
+Name: org/jets3t/gui/skins/html/SkinnedJTable.class
+SHA-256-Digest: etT9e/ijcUUGr4MOIm1QIgtuxZiAiUv+zEslibQ9ZMI=
+
+Name: images/nuvola/16x16/actions/ledorange.png
+SHA-256-Digest: d+dIvEJejqXfTVKZM6jXo/vyfJu0/nzZtVYmBjszMtA=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$5.class
+SHA-256-Digest: 6WD2KYD59FmdDS5LT+F9j7Z7BeYvDosZlDcXC/urB8U=
+
+Name: images/nuvola/16x16/actions/player_pause.png
+SHA-256-Digest: kDVDYZqlw8wyZJ2cExT5noyE2jKSKlvJ3jxetRzXvOE=
+
+Name: org/jets3t/service/multithread/UpdateACLEvent.class
+SHA-256-Digest: XXES/uP9bXNugRbxI+g+SiKFHHXnq5SRz2eIaYjVqc4=
+
+Name: org/jets3t/gui/AuthenticationDialog.class
+SHA-256-Digest: y07sMKb0uskhemGfnVmYUxlfGzY6cfKiphuL2JFEdpY=
+
+Name: images/nuvola/32x32/actions/view_fullscreen.png
+SHA-256-Digest: Ec+8nBJeNaoUWVyDX37QAI2DxuQ6qElTU5HwXqpD15o=
+
+Name: images/nuvola/16x16/actions/decrypted.png
+SHA-256-Digest: 3M33dAucuwwUooCtphiBz0R0kq/EleNza6nArL8lE0k=
+
+Name: images/nuvola/32x32/actions/ok.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog.class
+SHA-256-Digest: nHg79L3rIQh+IgceB0RRTnZvDqfkz8Fr3aARWqL4RnU=
+
+Name: images/nuvola/16x16/actions/mouse.png
+SHA-256-Digest: 9SD/y0fb+QMWVyWEhpb6GIVhLZ9YW5tNEWSJRjcHsWg=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$6.class
+SHA-256-Digest: W6jXL0DUrVOALLLdXYt0ilX2czQiRsJyoZmQbDNJ4lk=
+
+Name: images/nuvola/16x16/actions/mail_get.png
+SHA-256-Digest: 0NPYDsqTT8fKfBR6vEVTK7bqtVXSISnrxeEswkjPY+0=
+
+Name: images/nuvola/32x32/filesystems/lockoverlay.png
+SHA-256-Digest: 7jmUIOhu/16ZUvR8UYZq6h0ui5wz3avkfrZ6Gy0gMXk=
+
+Name: images/nuvola/16x16/actions/edit.png
+SHA-256-Digest: 7rbujUKeBi1aWff2N4h6iJjJD8TUykEY9rcfibRGewQ=
+
+Name: org/jets3t/service/acl/gs/AllUsersGrantee.class
+SHA-256-Digest: du1L/ikWPJNendIuUi7VXsVGjCbEQ68r8Kr7z94C1KQ=
+
+Name: org/jets3t/service/model/MultipleDeleteResult$ErrorResult.class
+SHA-256-Digest: mB6x75K7CA9EmvcVV0l7ZPB/bz2ZTd5WFG06kOfLECI=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$CreateBucketRunn
+ able.class
+SHA-256-Digest: 5OGu1Zw4yhPCUYJCqimGwMDrlmMVrD14Nbm4U5Nrqtw=
+
+Name: images/nuvola/16x16/actions/kgpg_gen.png
+SHA-256-Digest: 8CCTMJNeSCuigmbzeq58n+L19g0b/gRPu4wWRR2Bo/4=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$4$2.class
+SHA-256-Digest: 4uzlRM1o+ZkiwFultve05x77u9HePlq+QfqjIyJbkzo=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$GetACLRunnable.cla
+ ss
+SHA-256-Digest: M6GuuB8Jp+GZRIRLVSyfugDRrhgUgAqTMzrqqJTKjx0=
+
+Name: images/nuvola/16x16/actions/viewmag1.png
+SHA-256-Digest: Io/CToTwUpARDViiRuk1cyvXjjQw6HgU7smlvOv5eCY=
+
+Name: images/nuvola/16x16/actions/roll.png
+SHA-256-Digest: mt9Y5uIUpbuM9A9qnODEUkyzipbMWK4ISlSTh87RFhs=
+
+Name: images/nuvola/32x32/actions/attach.png
+SHA-256-Digest: 7sFHFlM7g7dt/n4lNZac2oBBtTlXQk+MBWjfMu+rG6M=
+
+Name: org/jets3t/apps/uploader/Uploader$4.class
+SHA-256-Digest: 0SNzl3AEwYD4UF3ctKXwhbWPkkx3jZm/wTTpCv3agJE=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2$3.class
+SHA-256-Digest: DsgiMA1k3GMZqM6XWKYrNoM2ZtmpHwR7yCJ4QH9gK6k=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$17.class
+SHA-256-Digest: Af7pn/pwTnCUL8aPbMkgxEVIlBISd3wAuvLRQcIbHoc=
+
+Name: images/nuvola/16x16/actions/kgpg.png
+SHA-256-Digest: WmMTlkinayLU/XGyChGiWEQRyYkSDK6Dqxhay835eBA=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4$3.class
+SHA-256-Digest: dUD3tmwazA7CXrOqdyXInhxjwiLsvTGGt+DbjctNlLk=
+
+Name: org/jets3t/gui/skins/html/SkinnedJScrollPane.class
+SHA-256-Digest: IpPB8ped2cYlE7WCqin2jtj1UWvaHeI7Pos2+HBNgVg=
+
+Name: images/nuvola/32x32/filesystems/trashcan_empty.png
+SHA-256-Digest: clBiVVSTwo7BUSeDOMpZlAqWXJZJpbeDQSTaDrClQBQ=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$6.class
+SHA-256-Digest: qkPUukIUyzAB3O+/SJ3groeSozPXEBOW5ELnGcBfOGw=
+
+Name: images/nuvola/16x16/actions/attach.png
+SHA-256-Digest: TjpgjvdzFgmUpCUh7ymKihidKVKqhAResogikPdDp3c=
+
+Name: org/jets3t/apps/cockpit/gui/RequesterPaysDialog$1.class
+SHA-256-Digest: W08rcIBZlPjmoynyOPq+RHRH+bOyB9v4g/pgBm/N2wo=
+
+Name: org/jets3t/service/multi/ThreadedStorageService.class
+SHA-256-Digest: mwwuy+pH5xcxvKRceAzzuqSl4zLfuGQ4GgiLEll/wKw=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$CreateObjectRunn
+ able.class
+SHA-256-Digest: MEplrJKYxjigu/qPy+y7+PSIqeDpOLU5EsFW53gO7dA=
+
+Name: images/nuvola/16x16/actions/no.png
+SHA-256-Digest: P5bQtB8T9WLccurWrBrpTg+Sq8QOaBTwaD946JTWDtw=
+
+Name: org/jets3t/gui/ManageDistributionsDialog.class
+SHA-256-Digest: PceYTpgYKYI5//nBzafsaMnWHwX2m3fe2vJUYaY1zdM=
+
+Name: images/nuvola/16x16/actions/noatunloopsong.png
+SHA-256-Digest: B6HZ5tKckmu9crAB1/JmMuJCEtRc6m2Qt0nPJDisDNA=
+
+Name: images/nuvola/16x16/actions/openterm.png
+SHA-256-Digest: lsh4NRQkzeLLEXvnHLmZ1qcByjC4/fmbhv5WjeDkTtY=
+
+Name: org/jets3t/service/model/cloudfront/OriginAccessIdentityConfig.c
+ lass
+SHA-256-Digest: 7sqrAZwKHqVczgeQr4JKFhljHsggHoa1SuFgW+1EC7w=
+
+Name: images/nuvola/16x16/actions/kgpg_key2.png
+SHA-256-Digest: 6gU3yVNyZKQm9O7MB9BMzDUvcriA2VaVFOaJGueUpM8=
+
+Name: images/nuvola/16x16/actions/mail_forward.png
+SHA-256-Digest: uH72UvY8HBQ0fC2oC7w1Yq73p+oi3Ww1AyUjUJNK4ws=
+
+Name: images/nuvola/32x32/actions/editpaste.png
+SHA-256-Digest: Cv8JPFMf0t22x7NHIhZeBKv7L1aflMSqvNDfqL5bvIY=
+
+Name: images/nuvola/32x32/filesystems/folder_mail.png
+SHA-256-Digest: sqYj+eGSwWmFQeKRzCF/RIDy1oBl7qPqyQtHAPqvIwY=
+
+Name: images/nuvola/32x32/filesystems/camera.png
+SHA-256-Digest: gByP+d+CLJMQARFJSuiSJUf2O9rgFvKYC2CeUex9TDI=
+
+Name: images/nuvola/16x16/actions/news_subscribe.png
+SHA-256-Digest: wFYYz5hBIAvp//Os4u8MoNzmhG2t7YN2PkPqRsEN3is=
+
+Name: images/nuvola/16x16/actions/view_detailed.png
+SHA-256-Digest: lFqWP3SbU9fdBXlMKT0aEEBE+YHHORp2FzsVUMesldc=
+
+Name: images/nuvola/16x16/actions/about_kde.png
+SHA-256-Digest: RxFRr9dEy8nDmxs4KVS8RBZujbuQMKJF05BFJqLU9bA=
+
+Name: images/nuvola/16x16/actions/thumbnail.png
+SHA-256-Digest: 7YmYLZCu7DUtAXmtSTHrd3sE3GX/QjIavQECpFwyYoM=
+
+Name: images/nuvola/32x32/actions/messagebox_info.png
+SHA-256-Digest: 0ifK8agy/IiY0Z5gaaLN9YMH9igbEQBztxtiz2hXnrE=
+
+Name: org/jets3t/service/security/AWSSessionCredentials.class
+SHA-256-Digest: vRMBXpHMmbOovTXgm0g2n0f2YdX9iNxbMs2rm7LxMEo=
+
+Name: images/nuvola/32x32/actions/noatunplay.png
+SHA-256-Digest: LYmFj0aGVQ3hl5GZ10a6pYwReV18v/ZpkdS3JCT97is=
+
+Name: org/jets3t/gui/CopyObjectsDialog$3.class
+SHA-256-Digest: 0RHX7HWy5IUyPjL1jEOIlQycbvRV+LRkmnAkCTVOQ1o=
+
+Name: images/nuvola/32x32/actions/contents.png
+SHA-256-Digest: 7kyVY+GTtpyKfz9bBtnsW9ubulOzCxmrveyfbSw0N/o=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$20.class
+SHA-256-Digest: uKK+mbCG5b5dqJJiHnhegfb0jLIiL1vyE5lqV0bch+c=
+
+Name: images/nuvola/16x16/actions/up.png
+SHA-256-Digest: MABC247t7BnHR0rGxNXdDWU73Xo+hQH7byui3RlNJf4=
+
+Name: org/jets3t/service/model/container/ObjectKeyAndVersion.class
+SHA-256-Digest: iKF1UHCZccQK6ofzuDsk5JISQRommfTQxvJNzXeSvUQ=
+
+Name: images/nuvola/16x16/actions/cancel.png
+SHA-256-Digest: Ra3Nelzs4pqUac747Nx9K2K6/dTqoXc7CdS7hYi4V60=
+
+Name: org/jets3t/gui/skins/SkinsFactory.class
+SHA-256-Digest: isZPdtsfbTZ+vnbflZgwtPyy7UC6LqzMwx7kvDE1b44=
+
+Name: org/jets3t/service/acl/EmailAddressGrantee.class
+SHA-256-Digest: nwKnGYp5VUXW3oysmOyqjKm/R1mPUhuA6+/GR5sQm5A=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$MultipartUploadObj
+ ectRunnable.class
+SHA-256-Digest: 4Nfl0Xk8hZNFFWkcd71ek1PH4MmPakKaZSJXUu9d2c4=
+
+Name: images/nuvola/32x32/filesystems/file_locked.png
+SHA-256-Digest: 1KS4sMGRdrjthQGxn5urnqq/ErXsidxXyISdrR4b5vI=
+
+Name: org/jets3t/service/io/BytesProgressWatcher.class
+SHA-256-Digest: 1qW/OhiQ/zF8cI+naFvG9BZq6Hqozv5uvZCrm1EfgN4=
+
+Name: images/nuvola/16x16/actions/rotate_cw.png
+SHA-256-Digest: R1r+oa9IIV1rcbBjNvOAQCAamBneoUXFL1fQr4hC+PM=
+
+Name: org/jets3t/service/utils/Mimetypes.class
+SHA-256-Digest: Bb6F2NzMjjHnivToMDvdeHWfOih0xT4srK7+Fe9Svkc=
+
+Name: org/jets3t/apps/uploader/Uploader$1$2.class
+SHA-256-Digest: EbK92UZumZ+TIGZJkSiPJX5llQsTwB8fEgZlZsohzRs=
+
+Name: org/jets3t/apps/cockpit/Cockpit$25.class
+SHA-256-Digest: aB8FA2sFKbjNfPpM2EC/XwWuttveKvL6hFH67g+lpZQ=
+
+Name: images/nuvola/16x16/actions/history.png
+SHA-256-Digest: Zk2eMy0qIGEblajVvvoCiv2y9lF4DUTkbuBw8wTEXzg=
+
+Name: org/jets3t/apps/cockpit/gui/SignedGetUrlDialog.class
+SHA-256-Digest: HnyG/wD/FXP+Bo2fdsWbwiivsuEFHbsfgBL5eAaGt+8=
+
+Name: images/nuvola/license.txt
+SHA-256-Digest: oZDcnIBDdV2Q+LCnX6ZrnkLUr0yYC/XdxjPwEk2zzuc=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$GetObjectRunnabl
+ e.class
+SHA-256-Digest: c7R/dVQQawGSZcO21CunSPORrgqt9F2Vql0ZTDWHrAY=
+
+Name: org/jets3t/service/io/TempFile.class
+SHA-256-Digest: 3fEZZA3N44wXtiA9AQgvko6wQCrKvXidZh99pKeYm3Y=
+
+Name: images/nuvola/32x32/actions/filesaveas.png
+SHA-256-Digest: PJkqwueezBQtE9j7DFMhs6pl0vTWP8RfDn6F2TdJKNU=
+
+Name: images/nuvola/16x16/actions/kmixdocked.png
+SHA-256-Digest: STsDQ2vUZSKzwmUSlQUR+x6mbAsvRrehUXzYstzQ99M=
+
+Name: images/nuvola/16x16/actions/connect_no.png
+SHA-256-Digest: ET1dvx7mot/HqP8kXX8gmcl/N6keFHk9shXOHshtmnc=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$3$1.class
+SHA-256-Digest: EAuVr+ID+/VoaMCsu8GYQJy41hu8u3miBCxs8n6cLog=
+
+Name: images/nuvola/32x32/actions/noatunstop.png
+SHA-256-Digest: nsTP9e9JSMQgdQUsIpUOq40B9uhW18yQGD4GEpoAO60=
+
+Name: images/nuvola/16x16/actions/spellcheck.png
+SHA-256-Digest: GOa1ZEjN3j+sJBGP3xS6EOk9gDWOed2cKILUDLMOwtY=
+
+Name: org/jets3t/service/model/MultipartPart$PartNumberComparator.clas
+ s
+SHA-256-Digest: dHqb5r39lfAFU+9eq/ZPWnktMkBvLNGLpeTPW16qABU=
+
+Name: org/jets3t/apps/cockpitlite/ToggleAclDialog.class
+SHA-256-Digest: WKiRTRN6etFjnbT41sE7O/FyETkB8LkMj9SLzxRoJFw=
+
+Name: images/nuvola/32x32/actions/bookmarks_list_add.png
+SHA-256-Digest: Wwn1Zufo0TpMncYutysTwneTtQXNAdGn+knQVaUrDMU=
+
+Name: org/jets3t/service/utils/FileComparer$1.class
+SHA-256-Digest: AzB91KUjI7o2KxUA3KZwLnL8ijy0OoQEYmOm7uwPO8s=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti.class
+SHA-256-Digest: I/A2kC2oWACEywD+d+EOaQRpuD12+NAQVgPkMKZ2BNY=
+
+Name: images/nuvola/16x16/actions/2leftarrow.png
+SHA-256-Digest: 4GOx7Xw3Tn1I7nctZDk90dESvZ4Jru2W73ALfxVmXzM=
+
+Name: org/jets3t/samples/UrlSigningExample.class
+SHA-256-Digest: GF2PSj80MKBcwRwLgYbNHdc3uzgd4IhPidIsN+id0F0=
+
+Name: org/jets3t/service/impl/rest/SimpleHandler.class
+SHA-256-Digest: /AEuxvbwfTwxO4eXmF7jXBPBmVRB83qXWX9A+nmfUsk=
+
+Name: images/nuvola/16x16/actions/bottom.png
+SHA-256-Digest: DWlG17HFdcBhxVS6VOcPwSAllykY7zr+Q1TwuaCKhvo=
+
+Name: org/jets3t/apps/cockpit/Cockpit$21$1.class
+SHA-256-Digest: X8YioVslYzKiDRzf+f+PbEq/p/+Aw2VHq4cxUtphqWQ=
+
+Name: org/jets3t/service/model/LifecycleConfig.class
+SHA-256-Digest: DjgBlCTu+g1ubCpSarau5pQ3wvVUP4yPtxnG4SEFLIY=
+
+Name: org/jets3t/service/multithread/S3ServiceEventListener.class
+SHA-256-Digest: 9tS43Pzwrlr1+gDKNHPKBRGPs/Yba4CeJNvTZCGbbI8=
+
+Name: org/jets3t/apps/cockpit/gui/CreateBucketDialog$2.class
+SHA-256-Digest: prC4fAjpozkZEX4aK05kl3feFj8+m5r9OZzJ0c3DA0Q=
+
+Name: images/nuvola/32x32/actions/ledred.png
+SHA-256-Digest: 2BjQGIxud2WLiXHK+7cHvinnQEolVGhbZCbypLlSC0o=
+
+Name: org/jets3t/service/impl/rest/GSAccessControlListHandler.class
+SHA-256-Digest: MktHfr5C6fV1xLnoCZAK09Ed562Qgtzb/+WpZ5swIdc=
+
+Name: org/jets3t/gui/skins/SkinUtils.class
+SHA-256-Digest: kUZHf8Bqdm7gNQbhrUp1rPbfrV5h0FjbUOZWYsMSolw=
+
+Name: org/jets3t/apps/cockpit/Cockpit$7.class
+SHA-256-Digest: WMQn0XrWAsvx0lIdUV2JVtFSwIhHaDUyXMhe2kW3T4k=
+
+Name: images/nuvola/32x32/actions/filequickprint.png
+SHA-256-Digest: TvJr2draUDSV6r2ZZcm1NqR6CmvSVzyluMTC1iIswZM=
+
+Name: org/jets3t/service/model/StorageBucketLoggingStatus.class
+SHA-256-Digest: 5p7h2E1epYl95sCP82L8JpJXeaKJEcKh4+JxnOdQrrI=
+
+Name: org/jets3t/service/utils/oauth/OAuthUtils$2.class
+SHA-256-Digest: zcdmg9Xu1jBEkG3epF3QOW5NS5NuroDUxtDn9VC5Ry4=
+
+Name: org/jets3t/gui/skins/html/SkinnedJPasswordField.class
+SHA-256-Digest: O5r4yhXGTtUrupOVNX1dE6TGsI4JdI/hgWDcuZAWnMw=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog.class
+SHA-256-Digest: EiWZm2tGl0BsbMYtxs3YcUPQdpA6RO3j/670FbpRwWM=
+
+Name: images/nuvola/16x16/actions/identity.png
+SHA-256-Digest: sJWCGo9ITFQuHFA/qPnaJUGKtgiP6xNpqgjSO0QHmnY=
+
+Name: org/jets3t/service/impl/rest/DefaultXmlHandler.class
+SHA-256-Digest: nMEZIKxEogH6aZYKIyaV6uHlfcTjOQALx8Uefpqbb5A=
+
+Name: images/nuvola/16x16/actions/view_fullscreen.png
+SHA-256-Digest: w6sh6O/W+Rt4odpuDRPte1Zr8p2lacjGocYhEwtxJus=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$5$3.class
+SHA-256-Digest: WQ5cqTGvecmrKj5Rjiof65SsuBTztfSr5AZEfRP9ziI=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$2.class
+SHA-256-Digest: ZhW2hR9p6PW6vNI/oaYf8lL46dpseeDwkZYIvIm0ioA=
+
+Name: images/nuvola/16x16/actions/exit.png
+SHA-256-Digest: mgjGmbM9j7oWbgfjQWTOKSrUuwx1ofQ5wwoWg/x0k0c=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog$GranteeTableMode
+ l$1.class
+SHA-256-Digest: L6lvBqwYeNmeo08cgLHim589gcfV6MofmbxYJv+MgiI=
+
+Name: images/nuvola/16x16/actions/folder_new.png
+SHA-256-Digest: INN3PwQU1WW0AGIT/pt7dTuJXuxkNOxlhxnvJoy9YOI=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$6$1.class
+SHA-256-Digest: 8y8pE7hEGkzLtlBfIRIZVrpO8LW/72oF4I4h114kpGs=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$VersioningCon
+ figurationHandler.class
+SHA-256-Digest: 5mhwneiYidSOuvEp5mqkl3iJZdYzRJ85nmdkiFYTJ1s=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$ThreadGroupManag
+ er.class
+SHA-256-Digest: s1bltAzXu9ACV/FXwrGVbUQMHSuagqTKKC2ha0wE+sg=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$GSWebsiteConf
+ igurationHandler.class
+SHA-256-Digest: DZutuoBMo2vP1HhUwc86uu4MqcVDkgrb06I5c4ip8lw=
+
+Name: org/jets3t/apps/synchronize/Synchronize.class
+SHA-256-Digest: 3C8txPOA2EVC/OBalON3j+rH8sa1mbJEq4Ln5r/W5TA=
+
+Name: org/jets3t/service/multi/s3/MultipartStartsEvent.class
+SHA-256-Digest: IXPlyLYcRWT4PULAJqMlit3LP6hUTKtdgjObE20/r28=
+
+Name: images/nuvola/16x16/actions/rotate_ccw.png
+SHA-256-Digest: iDuNhlyaANwM2HkY0BjNQIctH72kQQhkc4CDOESKicw=
+
+Name: images/nuvola/16x16/actions/klipper_dock.png
+SHA-256-Digest: i4eVwt0cYmERwjNRD2Erp+45uXT75N2veEm9SdG+azw=
+
+Name: images/nuvola/16x16/actions/editcut.png
+SHA-256-Digest: FTvdwm/QkNMZt/epu3t1nq4Yoz2tIzLHNtAPm0OO688=
+
+Name: images/nuvola/16x16/actions/edittrash.png
+SHA-256-Digest: 8ZvdyTy0VzjqJ+xdKhYCOC4LhG5shtYrTCGErILPvl0=
+
+Name: images/nuvola/32x32/filesystems/ftp.png
+SHA-256-Digest: kZNnvMdZVUQ7kU+35Se3L7gRJnEPl3qCw9P1FpeOGxA=
+
+Name: org/jets3t/service/io/ProgressMonitoredOutputStream.class
+SHA-256-Digest: jkZ0AIYghI5QRp0eM4JCwTXZ0DZiOLxFxJzGwZZ2CxE=
+
+Name: images/nuvola/16x16/actions/mail_post_to.png
+SHA-256-Digest: e/dnzImRJQIZUNW5eA5jFwj+DlpFh7io0CFUJrRMPzs=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$2.class
+SHA-256-Digest: oZNtyst6nn1s7BG5WvRyHMXX/iLTMWEp+K6mI3QB3m8=
+
+Name: images/nuvola/32x32/filesystems/folder_orange.png
+SHA-256-Digest: HhFdxWQtQRC8ZZmgAITVbf9CVM1XFjzK6mtUA9TY6oY=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$DistributionListTableMo
+ del.class
+SHA-256-Digest: aO5wSdsGSA7xj4cjasOFVpKnnW+JauP6TBhSMBqmbCg=
+
+Name: images/nuvola/16x16/actions/view_remove.png
+SHA-256-Digest: YtA2uHMiShbrqFgBS3Fbk94FfTk490zPH7TImgxcG7w=
+
+Name: org/jets3t/service/multithread/GetObjectHeadsEvent.class
+SHA-256-Digest: 0g9bRRS5FX8y4NZhHXpXyhoK4iOztA/Ca8L8B2npDDA=
+
+Name: images/nuvola/16x16/actions/apply.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: images/nuvola/32x32/actions/irkickoff.png
+SHA-256-Digest: 3OlsYIy7opapKaASfhijmezsh9a+l2IaYqbGZ0AsnVg=
+
+Name: images/nuvola/32x32/actions/messagebox_warning.png
+SHA-256-Digest: guBC71nhvTHy+M3/n1sfWMS8wyXYiLTbEtIG/O9oJMg=
+
+Name: org/jets3t/apps/cockpit/Cockpit$2.class
+SHA-256-Digest: i5+3CtAvoI36iw5ELE2p9Sn2g4/u3N7sS29qbP2jFQQ=
+
+Name: images/nuvola/32x32/actions/view_right.png
+SHA-256-Digest: sjKozN38afjb8OseixsZKv1ltvk5jA/qOkYTbKgAVeU=
+
+Name: images/nuvola/16x16/actions/top.png
+SHA-256-Digest: 6O/5GfGYm437p5bYRHZ1KDXYjveSqLWpIeyL+X5rras=
+
+Name: org/jets3t/gui/skins/html/SkinnedJProgressBar.class
+SHA-256-Digest: zbaWmMuvAESJfOvZNgkWmos2AMFnf+g7LuPDRiN9qzY=
+
+Name: images/nuvola/32x32/filesystems/file_temporary.png
+SHA-256-Digest: yJB8UXan4hZon3wKwk7EHaViBowNvJ2vkr+IwSR7DZI=
+
+Name: org/jets3t/gui/skins/html/SkinnedJButton.class
+SHA-256-Digest: VlnRS0eftOofU/6nXw7NDzx4RxJleWEQKn96QidChvs=
+
+Name: org/jets3t/service/utils/MultipartUtils$1.class
+SHA-256-Digest: Sb5J0x3rrM3dGxCw6rsm0Z205wym//tITjB4j9uTkF8=
+
+Name: images/nuvola/32x32/filesystems/folder_cyan_open.png
+SHA-256-Digest: vT7nOFq9qofxzxOEIPeE4vRzgq2NcJsyzfWa5qxALVs=
+
+Name: images/nuvola/32x32/actions/button_accept.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: org/jets3t/service/model/GSObject.class
+SHA-256-Digest: snUN16d4sQ5dezUhfX2oAXk5f3bLLM7PNFA9B/Lvppg=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$1.class
+SHA-256-Digest: pXB/S6jdMGjiankS7PZwRRS2DwteDEkPaIH4rHT/2t8=
+
+Name: images/nuvola/16x16/actions/player_end.png
+SHA-256-Digest: D8ZowPiA2ABNmHrN7WxF/6BI27Ke1OUApsKXsfyevuA=
+
+Name: org/jets3t/service/model/LifecycleConfig$Rule.class
+SHA-256-Digest: SLljJFS+SmeFosCgmYg6ObqJSg5yl+7nv5NAe89CEJU=
+
+Name: images/nuvola/32x32/actions/player_rev.png
+SHA-256-Digest: SX3EH6deJEWhKsUTdglaFviTzS32ArHuYj2pwICGNtE=
+
+Name: org/jets3t/gui/CopyObjectsDialog$4.class
+SHA-256-Digest: iMyW8B8onVXnNOYC5RXOpF/jolamEXroTk+DRuNP0/8=
+
+Name: images/nuvola/16x16/actions/ledlightgreen.png
+SHA-256-Digest: ZgxlGQ64G13wA3D3/EnAt/U9LL4vAIYL07955MO0MXA=
+
+Name: org/jets3t/apps/cockpit/Cockpit$29.class
+SHA-256-Digest: HaW0j8vviLH1/uOafdHBSh/FwyilsSia4JXbCjndVX0=
+
+Name: org/jets3t/gui/skins/html/SkinnedJCheckBox.class
+SHA-256-Digest: hVjqq0FXFNNXEk9kXRZZNghFpffoNaC6Q7GX2VJkNQo=
+
+Name: images/nuvola/16x16/actions/1downarrow.png
+SHA-256-Digest: vanu3d1xuTBN+FQ89D2Y7NQIb2JUDRFbicBHPbW6Pm8=
+
+Name: org/jets3t/apps/synchronize/Synchronize$LazyPreparedUploadObject
+ .class
+SHA-256-Digest: BMFn/mGKLbT5X4bLEZnuutbfBIAWV+Mst5XD7H4XzGo=
+
+Name: org/jets3t/apps/cockpit/Cockpit$3.class
+SHA-256-Digest: TlXoygrM1QNoraCtJzJjODxv7gj1gu2cP+2QD2M/i40=
+
+Name: images/nuvola/32x32/actions/laptop_power.png
+SHA-256-Digest: fmDy70yZvxvlgbSYK4I+8gl6XiTROlFQBRj1jCfT+7s=
+
+Name: org/jets3t/service/impl/rest/AccessControlListHandler.class
+SHA-256-Digest: fs5PsaK2xxJIZIyIFXhupPg64La8p+X8JnO2y7w2/ac=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$ListMultipart
+ UploadsResultHandler.class
+SHA-256-Digest: yfCj8Z09ORA5Aus2J1G2Ag7lkK/RdMNzVIhTi58aFZQ=
+
+Name: org/jets3t/service/multithread/CreateBucketsEvent.class
+SHA-256-Digest: 7igR26E1LdKVkbbpgnMokue9KAuF0+mzPW0rxaEEx4o=
+
+Name: images/nuvola/16x16/actions/queue.png
+SHA-256-Digest: 5oM/1brBjty2EYK95vVEktbDsinRG6gfuxfsWdC81Yo=
+
+Name: org/jets3t/servlets/gatekeeper/impl/DefaultTransactionIdProvider
+ .class
+SHA-256-Digest: jkP4N1f2jYZvvh4/HBENyj1Y5op7FrAkPUIDyO8YfcQ=
+
+Name: images/nuvola/16x16/actions/1leftarrow.png
+SHA-256-Digest: xA5sMq/nzcoKLm0x13Qiq7pNeCfOXLurd2yR5edUGzk=
+
+Name: org/jets3t/service/model/StorageBucket.class
+SHA-256-Digest: D2tfn5kTp+3AgeMlGmdowW9Jyr5pSyIu2CUvJcn0HRU=
+
+Name: org/jets3t/service/multi/ErrorPermitter.class
+SHA-256-Digest: hq5+KXtUzPOH2xN4XItmce27RlqGSToiA5+HncDsAos=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$ThreadGroupManager
+ .class
+SHA-256-Digest: KDLXf1i+LQrtHb2d+Fy0y90lS7zkQyTkvJCFkVs6pvY=
+
+Name: images/nuvola/32x32/actions/newfont.png
+SHA-256-Digest: whvNOBsHW19WnmGJJpkmJ+4ZofSkZv0oZvKOVsIpfbk=
+
+Name: images/nuvola/32x32/actions/cd.png
+SHA-256-Digest: n/qAK/cwpwQknd45d/AZebirBxqb5tMX/M9+sANn6Ro=
+
+Name: org/jets3t/apps/cockpit/Cockpit$16$1.class
+SHA-256-Digest: 6FZrIt4VImFjL13RPOhMQGPyqYEEKrCceSO6vC9MP7A=
+
+Name: org/jets3t/service/model/cloudfront/Invalidation.class
+SHA-256-Digest: W6X1L9zWO2TmrHvLAUZ1cbpKN5WZpfgkOBbhSRrLczM=
+
+Name: images/nuvola/16x16/actions/mail_generic.png
+SHA-256-Digest: eB/G/o4mtcyKqTsaXJ0Uc1gmjpicfiJHEvLcf/Ws17c=
+
+Name: images/nuvola/32x32/actions/view_sidetree.png
+SHA-256-Digest: YPxgiZKaxjH/gYZXrWoLlvQjAqT49e/HM0XsZ9D8qXY=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4$2.class
+SHA-256-Digest: qcNXpChlCpEGZdgD+n63baSm1ykgDsnMk3f55m3LZy8=
+
+Name: org/jets3t/service/model/MultipartPart.class
+SHA-256-Digest: oAP8Y2ccGoIhP4xjcYA5nNGolt5508b8JPApcYk43OA=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$ThreadGroupManag
+ er$ResultsTuple.class
+SHA-256-Digest: VDaSYd4vhjFSTi8IBGCqyOgZO8aZa/CAgNtoDx30WLw=
+
+Name: images/nuvola/32x32/actions/view_choose.png
+SHA-256-Digest: r9vZmL4ilCLei9cgnDauMnkB49GU6tL68fFzzxpY8+E=
+
+Name: org/jets3t/gui/TableSorter$1.class
+SHA-256-Digest: k0t6+67ocUCOWoiFm5dtm2g+dhNJLLYaQJebp4Bpn4c=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Dis
+ tributionHandler.class
+SHA-256-Digest: 094Vk83RXEBkWYA8xSSWL0rcrpEtQ58OA72xSGkNv04=
+
+Name: images/nuvola/16x16/actions/mail_find.png
+SHA-256-Digest: 0A0kVV1RWSimSGZNptTxkVoCXiGnqx5dE/hcbm4PmUQ=
+
+Name: org/jets3t/service/multi/event/ServiceEvent.class
+SHA-256-Digest: sD6XqosLFreUW89eiDVRmsBFq3vqnLF19H0s8IWNbOs=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$6.class
+SHA-256-Digest: xnqhy28OLu6yjKpEbTLKmoaHUmGFSmwCW4LzRKmBXEA=
+
+Name: org/jets3t/service/security/ProviderCredentials.class
+SHA-256-Digest: t7hdbAaQDhQxd/LhVdwoo3MNO7RUXTXMqr9aVF1GjBw=
+
+Name: org/jets3t/service/utils/signedurl/SignedUrlAndObject.class
+SHA-256-Digest: 1k84MAorG6Hn8T2KkCABJOJHrWtram4Yv1KqUbijW40=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$ContextMenuListener.clas
+ s
+SHA-256-Digest: v/stWYeH/ve1n57rMuNUn2I5buBQNOvZhI4fMe6vEew=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$NotificationC
+ onfigurationHandler.class
+SHA-256-Digest: 2NEjdIVj4XBzSHmPVPMWQK59hONmOyw9IGzxb6Qbh/k=
+
+Name: org/jets3t/service/io/RepeatableInputStream.class
+SHA-256-Digest: cFUCkpypioeLnYMCdPpUgcya9HMTwFhk45pDtVfoQt0=
+
+Name: org/jets3t/service/utils/oauth/OAuthScope.class
+SHA-256-Digest: W6fRF5Xp0cs/cNAV4lP7NB+SxxERXq0TMNyZBXosreY=
+
+Name: images/nuvola/16x16/actions/kgpg_export.png
+SHA-256-Digest: XIM6BWlJlP4UVtSRbLb+rluNB0p2cmwug9hj+h1piao=
+
+Name: org/jets3t/service/multi/CancelEventTrigger.class
+SHA-256-Digest: M3AywYeYDhnyGPoG9ois0SHLwTNp+dpclz7XqxfmUXs=
+
+Name: org/jets3t/servlets/gatekeeper/UrlSigner.class
+SHA-256-Digest: lRNgtuDUCYqbRE8veNm69bswR9560f0ZvhN16bf4KBY=
+
+Name: org/jets3t/service/multithread/CopyObjectsEvent.class
+SHA-256-Digest: INgcP+cyiQyyM2Tt+xL0FfkmS2obEzR+7w3Z8WigE6w=
+
+Name: org/jets3t/service/ServiceException.class
+SHA-256-Digest: Mx6WLfDM8R64DBsP8csTRIMsCg5GtkGh4jsxWpbLpv0=
+
+Name: org/jets3t/service/utils/TimeFormatter.class
+SHA-256-Digest: 1W6r0zw+QgZ4mN1jgrv5Rri8zMYU14zpSskR6KolRXA=
+
+Name: org/jets3t/service/multithread/DeleteObjectsEvent.class
+SHA-256-Digest: GrIZeRoiZD0+EkHszsyrp/ZFOko+Coe8LWqQuruvNSY=
+
+Name: org/jets3t/service/StorageService.class
+SHA-256-Digest: ane9eollyoGn7fYhAKnx7PYytUTbtD6eTmWJ5mByfCs=
+
+Name: images/nuvola/32x32/actions/kgpg_sign.png
+SHA-256-Digest: gTzOFTh/A/nSHGHRbTSM9Jo+ZxX3vhnv6iZDxvMdWo8=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$1.class
+SHA-256-Digest: c6sRbN6iuELbpaSm1UmA4Uh5yU0GRcgHnhUEKlhORKY=
+
+Name: images/nuvola/32x32/actions/find.png
+SHA-256-Digest: A6TbYa7T7paW2NVulZ98YGDvDlDbrE3kgMi8HFKbNZM=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$6.class
+SHA-256-Digest: trukgUINub/4Id0G0LTke61ioxTTVsfG8wYUEvGlAZc=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$1.class
+SHA-256-Digest: O4LeL5tREPLrXgjCXo7TD+OwfCeXf4VsRbX4s8s6A2g=
+
+Name: org/jets3t/service/impl/rest/httpclient/RestS3Service.class
+SHA-256-Digest: CrWwzXJITtSn+lN65q3jGJnoK3u9nBLZOlP9K7tWLDs=
+
+Name: images/nuvola/32x32/actions/noatunback.png
+SHA-256-Digest: lw4SbZVTUyNVFjtYr6LbInNbbbGxR2UZFIajhknKdh8=
+
+Name: org/jets3t/service/multi/event/CopyObjectsEvent.class
+SHA-256-Digest: ry7Zkmgf2YgAlcaA9sUGC6NyQCoMWpW5hjuHQSltvYE=
+
+Name: org/jets3t/apps/uploader/UploaderFileExtensionFilter.class
+SHA-256-Digest: dhhzZPsV7wG67dcWoAS1zSQ/6NHNg+AkpFPYdkaxCzI=
+
+Name: org/jets3t/apps/cockpitlite/CLObjectTableModel.class
+SHA-256-Digest: a9L+w/7Qa1ykBDNMnvg7UXTiNAGemzcDr5hzM35mUGo=
+
+Name: org/jets3t/service/multi/event/DeleteObjectsEvent.class
+SHA-256-Digest: pry9lD2K2hnnl0U5J1sN2pYTeNLoAndkq/VcGKTfYyM=
+
+Name: images/nuvola/16x16/actions/toggle_log.png
+SHA-256-Digest: gUsJB252tDgcCEoHeMnF3CtqKIosy5RCMAjuoaGyRHM=
+
+Name: org/jets3t/apps/utils/FileCryptoTool$3.class
+SHA-256-Digest: GVpARfD3AtO62xZiA53SdC+OW5bJQAfokjD9NS7RpZU=
+
+Name: images/nuvola/32x32/actions/kalarm_disabled.png
+SHA-256-Digest: qjVDwA19XKNCVBvENrZi1iryQNkLB7GzA9EI4Pz6pwI=
+
+Name: images/nuvola/32x32/actions/mail_find.png
+SHA-256-Digest: uTw3eXPuEoYmF7mrhEu6g37lJLVCtlooEx9Zqhyg78E=
+
+Name: org/jets3t/service/model/StorageOwner.class
+SHA-256-Digest: 6lRnW3YkMFaTVoMOqhRlV7he+3R3Pok/63nXjExlt24=
+
+Name: org/jets3t/samples/ThreadedObjectListing.class
+SHA-256-Digest: 1wak+itxtArLt5eBLaYZtvCtgkbNI/W6qy+jx8SH8NM=
+
+Name: org/jets3t/service/model/GSOwner.class
+SHA-256-Digest: PCs3c02qXVoJqGM0T27Eq/o6ex62IjHdRD2lUSqjO2M=
+
+Name: images/nuvola/16x16/actions/kdevelop_down.png
+SHA-256-Digest: vanu3d1xuTBN+FQ89D2Y7NQIb2JUDRFbicBHPbW6Pm8=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$2.class
+SHA-256-Digest: hgRPbx67ciLH1FlKKQL2A/wqKIj73Y+3Flhwpdj+u8Y=
+
+Name: images/nuvola/32x32/filesystems/folder_green.png
+SHA-256-Digest: r2jHZSQo+TKl4owd45C0es4djxLGDXxBfuwDYYcjsFo=
+
+Name: images/nuvola/16x16/actions/colorpicker.png
+SHA-256-Digest: 6vsBkZuHY00Idpb0rQjMqvxt6AfnRYHQEOCm7mHW4cc=
+
+Name: images/nuvola/32x32/actions/connect_no.png
+SHA-256-Digest: NeDL1JGQgiFwbDxFUCQWPy4xzcetIAUn+GUs+crEH1Q=
+
+Name: org/jets3t/service/utils/oauth/OAuthUtils$OAuthImplementation.cl
+ ass
+SHA-256-Digest: SyTzPY4ls17+UvAW+djiwFwOE6rjArdFdl40JtxKACs=
+
+Name: images/nuvola/16x16/actions/mail_reply.png
+SHA-256-Digest: sVDO8wfMrxBWz6MuLATiexRd9cBywok26Nl3cOPF4vc=
+
+Name: org/jets3t/service/utils/ServiceUtils.class
+SHA-256-Digest: dthaMd9cCBrMd/zgluuNuowRwDCzTLXjj1o6fxFp7Ug=
+
+Name: images/nuvola/32x32/actions/kalarm.png
+SHA-256-Digest: fSEYe+supj6/Mu8NKsxExt2NHdIftfXEy+U5GrlmL3Y=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$9.class
+SHA-256-Digest: PgJrJpW87L6f2obvhVDPSwzncsueiT5BePn0aWH+DE0=
+
+Name: images/nuvola/16x16/actions/kalarm.png
+SHA-256-Digest: Cb1uBqAtRPTxoINUCVAmBhmJLnTe/iaChCjwqlj2FK4=
+
+Name: images/nuvola/16x16/actions/filenew.png
+SHA-256-Digest: pWMVa4sOEoAszkl3kajxzLzFj3T8T7soXOvtwJYI840=
+
+Name: images/nuvola/32x32/actions/kgpg_identity.png
+SHA-256-Digest: 5SpnmQ0BQvew6aVyCbkeiU2ogI6rNwcPJ1mmV+wpl6E=
+
+Name: org/jets3t/apps/utils/FileCryptoTool$4.class
+SHA-256-Digest: lYbKKiyAg/+lOLNSyAhzFs/zZhFjldb+x8KrO1C7bYU=
+
+Name: images/nuvola/32x32/actions/cut.png
+SHA-256-Digest: nnJGBNSznkK1tUDb+20x1PaNW5RnTrJ0dogTZnCzLt8=
+
+Name: org/jets3t/service/model/cloudfront/CustomOrigin$OriginProtocolP
+ olicy.class
+SHA-256-Digest: zvQJOCS4ky9s5ZtR2akpo5s1L9jIUrPcP4K/JJZ1/Mo=
+
+Name: images/nuvola/16x16/actions/messagebox_info.png
+SHA-256-Digest: 3n1ZIidpEDTI2hjQa6fz9NVlJHBYiqtQh2EegEmbbOg=
+
+Name: org/jets3t/apps/cockpit/Cockpit$16$2.class
+SHA-256-Digest: oZDluZm6rG68BpcFCneULwEWB94gPNQ89vn/Qq9pdzI=
+
+Name: org/jets3t/servlets/gatekeeper/impl/DefaultBucketLister.class
+SHA-256-Digest: kw0/3Nh+KpM5nhLxwh8Ll3wFMdnBWYqV0T7hIFwSoVM=
+
+Name: images/nuvola/32x32/actions/fileprint.png
+SHA-256-Digest: GX0Px8HnUiwCil7E0xqksDyq4SVQNFVePm7+W0TZksw=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$2$3.class
+SHA-256-Digest: 012DneDYZ5Md8LNAdMYPS6GoA0BFf6vkweWa8wlIjhE=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$3.class
+SHA-256-Digest: KNXE7/0u2bMC+HFJSAebDrRCn+JKHqFaE0jrPzskwfU=
+
+Name: images/nuvola/16x16/actions/mail_replyall.png
+SHA-256-Digest: oSUj/xcz1VyiE8NWpCEjoH6ItZHtYv/HL8CBDfwepXo=
+
+Name: images/nuvola/32x32/actions/2uparrow.png
+SHA-256-Digest: ZLJdsr2vs064G6DXDeT/MDQiqzmcX/hpc0CPxDArbK4=
+
+Name: org/jets3t/service/utils/oauth/OAuthUtils$1.class
+SHA-256-Digest: RolxDaRMfmKTpf6j3oeD25cNHupz/DP4NKT9qdrXpWU=
+
+Name: images/nuvola/32x32/actions/artsenvironment.png
+SHA-256-Digest: BFvp0NtDOrWYlmkIzvOsDfi8lGSiTXjU6Dvn8J7CE34=
+
+Name: images/nuvola/32x32/actions/kgpg_info.png
+SHA-256-Digest: 2w4g48mF8FdVTLMNktZIXzwwHs1CXunlhF2G6NoBbN4=
+
+Name: org/jets3t/service/mx/MxDelegate.class
+SHA-256-Digest: rNowaqd8vrq7wItaREgItHAaxa4WfmNlJaG7G+j90QY=
+
+Name: org/jets3t/service/model/LifecycleConfig$TimeEvent.class
+SHA-256-Digest: 49PRaw55e4f4ejRATHJWrq8vlD1HimjCqVRspcKeWLE=
+
+Name: images/nuvola/16x16/actions/player_eject.png
+SHA-256-Digest: zFKTbkWhJNQJO3z+dqB5rja3Rad0zDeeN3RwNPjttC8=
+
+Name: images/nuvola/32x32/filesystems/folder_grey_open.png
+SHA-256-Digest: P8lbA3QYlqpAR25MnkbLx58NnCZFmFDnFmr0JrIovjY=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service.class
+SHA-256-Digest: AXMMuIVai7WkD85sN+tWaCqrVja6SaRVdMHrCsdIUEg=
+
+Name: org/jets3t/gui/ProgressPanel.class
+SHA-256-Digest: lR2Ltj0RylqexNONmDk1+Nkg0rA5xAXKSBkTCzgi1dY=
+
+Name: images/nuvola/16x16/actions/tab_new.png
+SHA-256-Digest: 0K60CTt7Uwq30SDupjm4iVULgGU6ZXk+ysZf8QWOwjA=
+
+Name: org/apache/commons/httpclient/contrib/proxy/PluginProxyUtil.clas
+ s
+SHA-256-Digest: Llc8HMrJNPt8/h0FsisLgqsi81vIu3gPp7G3Jtl5aAs=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser.class
+SHA-256-Digest: FnGM+Mrq1NM8SKBhiNnE0z4T29Q9+dp09YV/mqQdqdo=
+
+Name: images/nuvola/32x32/filesystems/link.png
+SHA-256-Digest: Vg0Q2ac1doRfAj73aWy0A8889Zunv8fQpFvVI9T6VAk=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$5.class
+SHA-256-Digest: PhgvoNMG57ndtjYMVOFDDjbq8LWpm/sCGFaPJXJibFY=
+
+Name: org/jets3t/apps/cockpit/gui/RequesterPaysDialog.class
+SHA-256-Digest: 9DdhUAjqAkgQLfbIPv6Nj3Pfqs/1A8FVGIU2ze3nA4k=
+
+Name: images/nuvola/32x32/actions/bookmark_toolbar.png
+SHA-256-Digest: hryCFbSb4y+lLqQF3/BwwdN9Opfq1v74f+cnxPaC2fI=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$5.class
+SHA-256-Digest: R9cgRKpwPWfWsfZY4NXAo7w8vOMDrCo1LV+NZKOjbao=
+
+Name: org/jets3t/apps/cockpit/Cockpit$20$1.class
+SHA-256-Digest: l147p/rsiVVW3bvIkHcm38WkKECqv0O3grY2ceyudP0=
+
+Name: images/nuvola/32x32/filesystems/zip.png
+SHA-256-Digest: YJufWcY6CCJs2EZtFtaVLYUOcKXUf+qQKHq848lWkWc=
+
+Name: images/nuvola/16x16/actions/mail_send.png
+SHA-256-Digest: o1yHAcd36dFahjmfugoEvtNAsC5cVW69cKQMWZHi670=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$OwnerHandler.
+ class
+SHA-256-Digest: 0H/GhzD8/a/7tA/mxtWtfb0ZjJQ+2H8BaEJGsopO/RI=
+
+Name: images/nuvola/32x32/actions/kmixdocked.png
+SHA-256-Digest: XSLRXV9C9nPGTg869D+dBhUb2yermTabd6N6y1wwuRk=
+
+Name: images/nuvola/16x16/actions/krec_record.png
+SHA-256-Digest: amd9M463lFi+iHgNMcNJQkWEUkT1RJs4QN63+pv4Qb0=
+
+Name: org/jets3t/service/multi/event/CreateObjectsEvent.class
+SHA-256-Digest: bs4HEWss7fb0S0RqL+WCaKA6lZEWpZSKh0ViWcLpCbI=
+
+Name: images/nuvola/16x16/actions/mix_midi.png
+SHA-256-Digest: u8HLRacAl9t0Iq0o0co1UEy11VumtirpS8NDL1lH0k8=
+
+Name: images/nuvola/16x16/actions/kalarm_disabled.png
+SHA-256-Digest: IUjzE8cldb2bYp8UnjtQQd44tPH5rDN1JfTOi/rqv3Y=
+
+Name: org/jets3t/service/Jets3tProperties.class
+SHA-256-Digest: Z4boka9wyiP9IKIBqdlSrCKCcxoDz5tnOg/LZorNMJY=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Ori
+ ginAccessIdentityConfigHandler.class
+SHA-256-Digest: qm+0oIrn0DWzB4xzAp9shHQCwuU5tpa1gHXitFVG9gs=
+
+Name: org/jets3t/servlets/gatekeeper/ClientInformation.class
+SHA-256-Digest: 5G4kO0Xf1HGeqsJkxZSLWqpmPy+w72oiAvMdrhPeIJM=
+
+Name: images/nuvola/16x16/actions/viewmag-.png
+SHA-256-Digest: +8Z3MhwXXDsXNVJ5Md/N9XtO8pTIv+FM3MU8KDEHPEE=
+
+Name: images/nuvola/32x32/actions/mix_volume.png
+SHA-256-Digest: fJNq31iIMex1XmYa8Fb1XKm5ywnsiw/uQwXjPC2F+Ho=
+
+Name: org/jets3t/service/impl/rest/httpclient/JetS3tRequestAuthorizer.
+ class
+SHA-256-Digest: TZxVORpDq1twMm67u7Qdt/bdmN4Z6/h4LHIrBC3ijn4=
+
+Name: images/nuvola/32x32/actions/button_ok.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: org/jets3t/service/acl/GranteeInterface.class
+SHA-256-Digest: 4oV8hTtY26yJcSG2DtW6k7CaAanxrF4hEUUsKzpo0SA=
+
+Name: org/jets3t/service/utils/RestUtils$1.class
+SHA-256-Digest: EeoQ7ephbvXWohbgzFlgNj/ux8RKI9HhYUc/lBmEnZw=
+
+Name: org/jets3t/service/multi/s3/MultipartUploadAndParts.class
+SHA-256-Digest: ndGvsK9Morr/c7wrEqQbOniB/vavmowq4YfrsV00QeA=
+
+Name: images/nuvola/32x32/actions/color_line.png
+SHA-256-Digest: dP6X2Zbb7sdhG6R4XDagFeouJUz9Zkz/bbk5dVjxhg0=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2$4.class
+SHA-256-Digest: opih+eUl0zaxL62eXD9c6WSOGQqW3eUxj6C2li8nSHI=
+
+Name: images/nuvola/16x16/actions/view_text.png
+SHA-256-Digest: UvT+IMqE2pHURvfcwCDggUIVLCGbtOIZcfoecOTIYaM=
+
+Name: images/nuvola/32x32/actions/view_detailed.png
+SHA-256-Digest: nJiaO2BfhVZ0UizmSjnWMKVE4/yrxX1f9V4NNGdyYWg=
+
+Name: org/jets3t/apps/cockpit/Cockpit$14$2.class
+SHA-256-Digest: cndF6AoukFzF56clKbObtWJSmYc+Dmq3d/uCPfGMBLM=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$4.class
+SHA-256-Digest: ZIvdPcI5nXpD44ltq45aut6aToEuTCv7jSU6tgFF6AM=
+
+Name: org/jets3t/service/utils/RestUtils$ConnManagerFactory.class
+SHA-256-Digest: q4pM9JREmFNvsdVA+Dnp9L3YasSbsG+yCMCkVnX5wtQ=
+
+Name: org/jets3t/service/model/cloudfront/Origin.class
+SHA-256-Digest: dsvIUpwXLQDyZr8opnK2+86CSxT6ZJv/ZL4tFzORBo0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$3$4.class
+SHA-256-Digest: kFQJ9yDAeGbO9NtqwGjDqlgpce0/5oq4+2bSIGTWh+w=
+
+Name: org/jets3t/service/io/GZipDeflatingInputStream.class
+SHA-256-Digest: ND5ESs3yCs7XP7gqY6lidncpjWb6QL2kq3iJYLwwyTE=
+
+Name: images/nuvola/32x32/actions/view_text.png
+SHA-256-Digest: 6YxHcF40IROndkVLVNyEN/rB+GEdf5/IrQv9JcRr/y8=
+
+Name: images/nuvola/16x16/actions/artsmediatypes.png
+SHA-256-Digest: mNexh7nDIvjOLeMHVGf0HFDDJESZ8aIaOTx+kPyMglM=
+
+Name: images/nuvola/32x32/actions/editcut.png
+SHA-256-Digest: Cz5oogPGFCLkDwBJpsH2Xd6rikGyIX2v5uosVvPy908=
+
+Name: org/jets3t/service/io/OutputStreamWrapper.class
+SHA-256-Digest: pNm3zBjPRLegFc1ZsSq6EAcYmx4aW1Jl66vI5PEULDs=
+
+Name: org/jets3t/gui/TableSorter$MouseHandler.class
+SHA-256-Digest: ulsEiYzjgosr16mMiYo85+jck4L4kNqSL1ZeJdUH7ns=
+
+Name: org/jets3t/samples/GSCodeSamples.class
+SHA-256-Digest: d68VmrHvMsKXWpjoesbrPRs3pwGDmmkx0/jTz8+smek=
+
+Name: images/nuvola/32x32/actions/encrypted.png
+SHA-256-Digest: p/9jE8KjTVU/ZNzqNQA1R8nwBfoflXZVsa8z3LOYaVI=
+
+Name: images/nuvola/16x16/actions/reload.png
+SHA-256-Digest: x0Xa5/a7D+GfZj0ABYGiLEtsGkzBpqVi5Kk2rw+1uiw=
+
+Name: images/nuvola/32x32/actions/edit.png
+SHA-256-Digest: U5Zr33qeOIsInZ6CzbqQr/7oRWnZeOMTjCyOOU76Xrw=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$7.class
+SHA-256-Digest: RssoZV3Bw/eBsS9g5Dgaqn8xbUXoKBKM+Vg/NKXarkY=
+
+Name: images/nuvola/16x16/actions/player_play.png
+SHA-256-Digest: bRw0e0LdAAdD9Kef8smL4gUHSgqMjpAe0rILNipQOg0=
+
+Name: images/nuvola/32x32/actions/kcmpci.png
+SHA-256-Digest: Hew5RuB03NMh8ktbb4CbQsmplUf5JX2dk/cohZQlB4w=
+
+Name: org/jets3t/service/acl/gs/GSAccessControlList.class
+SHA-256-Digest: /nNuZcBoaep8kwcB5oc4/g1n8CRD97kS58vPZZGmKx8=
+
+Name: images/nuvola/32x32/actions/bookmark_folder.png
+SHA-256-Digest: VNyj2nrCclLQKBBwu2GG8/Lh7gAYvnkhd32854r1Kw8=
+
+Name: org/jets3t/service/model/BaseVersionOrDeleteMarker.class
+SHA-256-Digest: 7KnO6FEemqGGg6sRoMvJZ2EmjyWguQHaE0aAcm/ED+I=
+
+Name: org/jets3t/apps/cockpit/gui/CreateBucketDialog$3.class
+SHA-256-Digest: 9qDcrL/2ykHFr45dZGdpUa5ZOuJfUIStx1Zaer0Vv8o=
+
+Name: images/nuvola/32x32/actions/hwinfo.png
+SHA-256-Digest: AkrSb2eAKFPTKVCbn+Wi6sPkXVts3hnQRHeM8rU2M6I=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$29.class
+SHA-256-Digest: viFoE2G7PPxUue3LcGQkhYtaqilKEJt1GP8t1e/ZIig=
+
+Name: contribs/mx/MxImpl.class
+SHA-256-Digest: NSB6KzqGEXmGXrgZEWxSIEHjCSgnaD7lXDaAUOmAxPc=
+
+Name: org/jets3t/apps/cockpit/Cockpit$12$1.class
+SHA-256-Digest: zCvkfQvULBAb8/S3mbiDq9xr1J/hZiz8+pmJy6g7OmU=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$ListVersionsR
+ esultsHandler.class
+SHA-256-Digest: FuueGFtjlaNEjhPpN18+eOTTlTzYDm6Il/uy7P4uSmw=
+
+Name: org/jets3t/gui/ProgressDialog.class
+SHA-256-Digest: QWia8yxPG3Xv4B5sVviEynNBj3gSmrNDw4apw/rszq8=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$ListObjectsRunna
+ ble.class
+SHA-256-Digest: gpdJk7GwbaRDfbpVojtW9bN7erCH6WuneCZx48ekAzA=
+
+Name: images/nuvola/16x16/actions/rebuild.png
+SHA-256-Digest: 5FbR0y2WYps6GFmlsw6aMhRz9cNB3ef0q4gpgbGssPE=
+
+Name: contribs/mx/S3BucketMxMBean.class
+SHA-256-Digest: cIOWt1rimutTGylBXkTYb5oueaCmEkwoBss4Udv0d9U=
+
+Name: org/jets3t/apps/uploader/Uploader$3$1.class
+SHA-256-Digest: 8aWPxe+SRAQBIuuGL15f+wyeqnafzjXvPw501F+jJDk=
+
+Name: org/jets3t/service/impl/rest/httpclient/RepeatableRequestEntity.
+ class
+SHA-256-Digest: TnXJsVA+xIQYiY93/tInICUQ6YpfvT315BtLgefqhzk=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$PutACLRunnable.c
+ lass
+SHA-256-Digest: jhoUOI27wMSmMbEQicJblfVkqoWViBd6Dzb+GxD5otg=
+
+Name: org/jets3t/service/multi/ThreadWatcher.class
+SHA-256-Digest: EgOpbRV6di8JVcJpjc6q0gTxf6OpavNtmuLc7Eocl6k=
+
+Name: images/nuvola/32x32/actions/filenew.png
+SHA-256-Digest: blsqUzUxFjkbw2EPfqxVneqhVWlJXLHyjWZW3Tb7DW0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$5$2.class
+SHA-256-Digest: gj3ftrYvWzWVqPp3RxujJHMchPAxSUxZ+AdUm2rIUqs=
+
+Name: images/nuvola/32x32/actions/krec_record.png
+SHA-256-Digest: c0FWrkv0Gvded+meWabzbSgh4nGzQedQZSp2uYa9w5o=
+
+Name: images/nuvola/32x32/filesystems/server.png
+SHA-256-Digest: Z9c1zFVL9vMNfZY8p2ynLayM/+KGC29SLUrr+FeE7hM=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$3.class
+SHA-256-Digest: H6c+Toi1znpZARF2GGjPrMYs/N21PCgVduXQXOalI48=
+
+Name: images/nuvola/32x32/actions/player_pause.png
+SHA-256-Digest: wRNKjsnP0a/sTVvxKTbSI7Y37VtZ/yFBbKrR7QFmeXo=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants$GSOAuth2_10$GrantT
+ ypes.class
+SHA-256-Digest: vYPrkBPhitx3ORJE2EwZ77JzpG4I83fbnCnNDdnnKwM=
+
+Name: images/nuvola/32x32/actions/next.png
+SHA-256-Digest: gP8zdy0sj+mKv4sIGSVjwZ1HCYrQHIKLbuYwyVgVpac=
+
+Name: org/jets3t/samples/SamplesUtils.class
+SHA-256-Digest: YZ1IYZNIIbS8rIkNqDw7mMOUYK7bgSOwb8cQA8PjDzw=
+
+Name: org/jets3t/service/CloudFrontService.class
+SHA-256-Digest: +o6I6lL1hPHvSAst0B+IrkU3lawF/WESZ3d6D8t61Ws=
+
+Name: org/jets3t/apps/utils/FileCryptoTool.class
+SHA-256-Digest: 7h2Uu6X7undJypmj0dE4SOglJHhWc6+bYcQUlMr3lzU=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$5.class
+SHA-256-Digest: 9fuvOyFmrPcTerBQTsOimfurZyZYDPVN7iPGrT9rOPE=
+
+Name: images/nuvola/16x16/actions/button_ok.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: org/jets3t/apps/cockpit/Cockpit$10.class
+SHA-256-Digest: yP2ZFZnEraUi4zvX9k0r2y9884ppT8bbDhLD+dFOUxM=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$2.class
+SHA-256-Digest: 3wPByDZms86Pb3Hy2tpxH3tw2Q4ezO1IZo0qFe07iAw=
+
+Name: org/jets3t/service/io/SegmentedRepeatableFileInputStream.class
+SHA-256-Digest: 0bUqVxxH5SAz7Dgo8aPS0ogi++I7IB4llScC5uhbA2c=
+
+Name: images/nuvola/32x32/actions/noatunforward.png
+SHA-256-Digest: QAAOGbdvz7+ePy4dgeuwB4Q7cmC+c6VfRuOEWzryzTg=
+
+Name: images/nuvola/32x32/actions/viewmag-.png
+SHA-256-Digest: CrG7Dhf2TB3KOVD6mC/8z/PVsUjV3WMOyPaTWETYmXE=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Inv
+ alidationListHandler.class
+SHA-256-Digest: 8OKL6QhfgSit/KcaAuPMuKZL0HwsjacO2Og8dnj/o88=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$1.class
+SHA-256-Digest: axDaPRuCYpqilVuV3Yt1rquXFSqTeCPqu0xOIqYnPyI=
+
+Name: org/jets3t/apps/cockpit/gui/CreateBucketDialog$1.class
+SHA-256-Digest: smQg/5jprFJZyH3AUP2L49ojvFDvHdIjHdK8lEUIKX4=
+
+Name: org/jets3t/gui/TableSorter.class
+SHA-256-Digest: vAlcGABKSI5JreO43auZEcnxFRPCUVjq5/J24d+TNIU=
+
+Name: org/jets3t/apps/cockpit/Cockpit$32.class
+SHA-256-Digest: 00d6JZg3goVdQfqnNIM6+IA180Nhg/vwXCa+eW8td8g=
+
+Name: org/jets3t/gui/skins/html/SkinnedJTextField.class
+SHA-256-Digest: VCjzpLcNBto9xw0Fg76K2L33trDdWkAPIcaPuMBStUk=
+
+Name: images/nuvola/32x32/actions/save_all.png
+SHA-256-Digest: SX9SfTDHJaI7yHpdLCls8cACK7uQEkxfYJujSSD+WCg=
+
+Name: images/nuvola/32x32/actions/connect_creating.png
+SHA-256-Digest: aaFC3qW21YY7fH+f59OV3DwOCINdVCfoU87b7la5yiw=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$1.class
+SHA-256-Digest: T5TgTcAy1EioZL/dpNrqrHSQBAKD3CoYWA781hxiJnE=
+
+Name: org/jets3t/service/utils/oauth/OAuthUtils$3.class
+SHA-256-Digest: 1yuI+FO5jMCW387kW/UD79cwucu/qaq9uLHdOp/B3Vk=
+
+Name: images/nuvola/32x32/filesystems/folder_man.png
+SHA-256-Digest: eGtK/OnayoOgp3ToxhzHmQAZaqeO1T4dhQievgW3t+s=
+
+Name: images/nuvola/32x32/actions/mail_reply.png
+SHA-256-Digest: 4J1zUZczE9Ohjsw34W5dmQJOOFv6GqwzhIT76IMMvDM=
+
+Name: images/nuvola/32x32/actions/camera_test.png
+SHA-256-Digest: W0TjuoOyuTmwkGZ5xb9xLertcUs0IIY0Z5qfCVIfcdk=
+
+Name: images/nuvola/32x32/filesystems/network_local.png
+SHA-256-Digest: sw6ZrjxoJ2fqQqC7OTOGoks8MawtU2/qxijQ8ljF3sc=
+
+Name: images/nuvola/16x16/actions/camera_test.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: org/jets3t/apps/cockpit/Cockpit$31.class
+SHA-256-Digest: Fx63vy2keLlHOQp5LfBkPfeLtz9VTc5WgqwaibEZXPg=
+
+Name: org/jets3t/apps/uploader/Uploader$1$3.class
+SHA-256-Digest: So6se2Tqbtia9EEm+UZXQ98/VEuz+GXGcBCrAYMy1/c=
+
+Name: org/jets3t/service/multi/s3/S3ServiceEventAdaptor.class
+SHA-256-Digest: 7xBf9kYB18A3CAXkWBUPZscj/Zrq8116EaGM/WB0cyo=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants.class
+SHA-256-Digest: jKtFelGVBcjXZNXI8/NupV4nlJZ1EZksqwiGH3nPpBg=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$ThreadGroupManager
+ $1.class
+SHA-256-Digest: jc3th+uqNvJwTmx7YkacewCX+Yr11YGgzaFhqHiuDMk=
+
+Name: images/nuvola/32x32/actions/thumbnail.png
+SHA-256-Digest: xTyLmFKr+AXffGX/QR4Obn8EisT+RluDiT5b0XdwjU4=
+
+Name: images/nuvola/16x16/actions/misc.png
+SHA-256-Digest: zP5FmYe7O7RbP7ffFE/GkEruhfqf+TdSNeV8+7IA2OY=
+
+Name: org/jets3t/apps/cockpit/gui/BucketLoggingDialog$3$2.class
+SHA-256-Digest: ZdGQRzgCj9OAsR/SIFRoX4ZTNCB8EM/v+DCRS2IJHog=
+
+Name: org/jets3t/service/multi/StorageServiceEventListener.class
+SHA-256-Digest: fhhILb29OjFhxJIifQQ24f5eu0PcW8AdR9Y0DR24hBs=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$2.class
+SHA-256-Digest: zRaPFqshP4j+Uy3DI/Fj+BMOqDYItDNr4ANlwHUCX88=
+
+Name: org/jets3t/service/mx/MxInterface.class
+SHA-256-Digest: Y0+ScagM8zkDmj/fDHAglvRMCkXavrYR1fvcy2gcGM4=
+
+Name: images/nuvola/32x32/actions/rotate_cw.png
+SHA-256-Digest: beuRkTPcQS2NtxhtjZEHesR9gs44IKSYngo0vZ6kiEA=
+
+Name: images/nuvola/32x32/actions/mail_forward.png
+SHA-256-Digest: GMKfQ3EOVwIw5AC9tglHTe9FKyijE1P3MENnNjSz2YU=
+
+Name: images/nuvola/32x32/filesystems/folder_blue_open.png
+SHA-256-Digest: NJ9Rql2w3eZBqgqr41g5rgUAv58X8ieGUHYli/MhzKo=
+
+Name: images/nuvola/32x32/actions/news_subscribe.png
+SHA-256-Digest: gP+7RKiDvOo6GPLjHnzecYPq8ILY3ySPFj0vv8GJkUY=
+
+Name: org/jets3t/apps/cockpit/gui/PreferencesDialog$1.class
+SHA-256-Digest: +XeJKH1qb5Fi86Nfk5OVbqee1ow8C9JZuEQb3OwlHcY=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$3.class
+SHA-256-Digest: ByFbhgE1jUSl34wsk/qWwo4zuU5LbTEp1sjrIeaSyeQ=
+
+Name: images/nuvola/32x32/actions/mail_send.png
+SHA-256-Digest: cZwhjBTEfqlheZE6d/46oK7k53llb4zbblcEShCuD1A=
+
+Name: org/jets3t/samples/StorePassphraseBasedLogin.class
+SHA-256-Digest: xTtaO+Gpnk1RpqT/Hz2RTbp3SiDTKPqGW0KzHraoAPs=
+
+Name: org/jets3t/service/VersionOrDeleteMarkersChunk.class
+SHA-256-Digest: qpwYIgAZQ1hzsJx5TQ0dd7gd22uXV9MaL7d7i7MgFTw=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$MultipartPart
+ ResultHandler.class
+SHA-256-Digest: I0j7o1FOzeY/xYSu+CJHVwWAsXM//XRaw5oDtpNQ2e0=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$4.class
+SHA-256-Digest: QIdXdU+rI5bhHEzMOPodTmxQ9UXMKSlyGeCKmLShUJE=
+
+Name: images/nuvola/16x16/actions/button_accept.png
+SHA-256-Digest: aTd5Ye+6NppICeeIYOdspyhOIumvUWYiHJalVmeP+yY=
+
+Name: org/jets3t/service/multithread/DownloadPackage.class
+SHA-256-Digest: DhxL6ra7udQicyLfrVH/TQjp7aQ24qyrjncUtTy3I7E=
+
+Name: org/jets3t/service/model/cloudfront/CacheBehavior.class
+SHA-256-Digest: 6OWuXghtCZu0sdU0qUTgeatbKmmZmhu08zchgchqDEE=
+
+Name: org/jets3t/apps/cockpit/Cockpit$17.class
+SHA-256-Digest: 1n9RgtMtOd0GDUc+x6QOZfEe6L0VHCDFdnDiuQahF/c=
+
+Name: images/nuvola/16x16/actions/mail_delete.png
+SHA-256-Digest: hxPNFd+5ZiiwGAedP00tB46oF/tNWElZ1PUPYWIkN10=
+
+Name: images/nuvola/32x32/filesystems/folder_violet_open.png
+SHA-256-Digest: s2Gv+V+QoihNrk63csm5H+lfl7QgcXHOBTekfWSnjNY=
+
+Name: images/nuvola/32x32/actions/up.png
+SHA-256-Digest: DqjGfqTK/zpNcN6kOo/n2ryqaZTwj+FFuIPstZ4DYQk=
+
+Name: org/jets3t/apps/cockpit/Cockpit$11.class
+SHA-256-Digest: Ee6DLY1om7P6GAvd5MXd8yvC5Hjr0x0RnlcYXsQi0LE=
+
+Name: images/nuvola/16x16/actions/reload_page.png
+SHA-256-Digest: 1h0Gt5Z7UFbELsZzV3maJYtxZR76Dlo+H77BH8E+A0E=
+
+Name: images/nuvola/16x16/actions/mail_new.png
+SHA-256-Digest: e/dnzImRJQIZUNW5eA5jFwj+DlpFh7io0CFUJrRMPzs=
+
+Name: org/jets3t/service/model/MissingStorageObject.class
+SHA-256-Digest: QDcLToOO9K6waBD6RLpVX4bxc8zrbZyL6qhUzynWbGA=
+
+Name: org/jets3t/service/utils/oauth/OAuthConstants$GSOAuth2_10.class
+SHA-256-Digest: wqwv5mbEvdtyLFF7qOsSMtERbExhtSLwV3LmciF45uI=
+
+Name: images/nuvola/16x16/actions/mix_recmon.png
+SHA-256-Digest: G6Lm88u2DmpfFAQj1XZRF6lrkVJGnqG6voz51rE7OyQ=
+
+Name: images/nuvola/16x16/actions/stop.png
+SHA-256-Digest: puL64RU88d5eT1qy4EreXS4uBlJN21QNKqAZ5cm5DB8=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Err
+ orHandler.class
+SHA-256-Digest: uKTf/XfZ2QFBfUedJW6seY9Bw8s0KlaPWFp5gbT+bCc=
+
+Name: org/jets3t/service/multi/event/ListObjectsEvent.class
+SHA-256-Digest: YWDPvr2IFmgQRRACO3FXYT3wkhbF8X9yCVlTFbn5t+4=
+
+Name: org/jets3t/apps/cockpit/gui/LoginLocalFolderPanel$ProviderCreden
+ tialsFileTableModel.class
+SHA-256-Digest: hNIayHb0ReCCjmFJfLg8US2fPF1isFmETvY2NCVFjSE=
+
+Name: images/nuvola/16x16/actions/viewmag+.png
+SHA-256-Digest: IHrjpp/F4KeJUQV5EDuKnSyGxvnSP7RNgpH+8u8gpBk=
+
+Name: images/nuvola/32x32/actions/kaboodleloop.png
+SHA-256-Digest: HHMg2YTEF79qpRFr9QnqRpz5qoX4z5ITIqTPa85rxUI=
+
+Name: images/nuvola/32x32/actions/view_icon.png
+SHA-256-Digest: XKo48hr4EGInOCsgHC57h5U3qRQnxptVUFNrDFMP+ks=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$3$2.class
+SHA-256-Digest: Oj8w3xslIp4xrA5RSsZcg0mHA+edJxSah+SQvw8sQ10=
+
+Name: org/jets3t/gui/JHtmlLabel.class
+SHA-256-Digest: rQOfoLyQ14RSC4zcBEn6Aefls7fLO5e2pbdY/XI2lEA=
+
+Name: images/nuvola/32x32/filesystems/services.png
+SHA-256-Digest: CiLpZINGPTy7wzDdTL1MlkAAVGIvHwTHYfBYeNvI3pU=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$27.class
+SHA-256-Digest: HhWJSso4jx9XJl+ahC47F63vWQ/b9IPMS4HxxCODc4A=
+
+Name: org/jets3t/apps/cockpit/gui/AccessControlDialog$GranteeTable.cla
+ ss
+SHA-256-Digest: zcIt3LUwXz112DNqvDyjaBbZa2CPuKGz9tG+4C+jzMg=
+
+Name: images/nuvola/32x32/actions/no.png
+SHA-256-Digest: 8vfqprJphULlsOD4yDKoy6ZtxZIkMmN08o3nJAoaZsc=
+
+Name: images/nuvola/16x16/actions/kgpg_key1.png
+SHA-256-Digest: aZ6EaOcmAhsLXMzWTUgBYrECH4Rh95NXa2qZO1e/Msg=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$8.class
+SHA-256-Digest: pf6aE5SBU1Genf9B9d9GCMPiOp92Eg6rNzKTnYfL9S8=
+
+Name: images/nuvola/16x16/actions/encrypted.png
+SHA-256-Digest: /rhRi5ohGTr6UqBODtGZHPDTn6cvwYUAmfobm6bO5Es=
+
+Name: org/jets3t/apps/cockpit/Cockpit$12.class
+SHA-256-Digest: gQpLHlMQJLsnkFIJiFaWYzuuX6kVMHfzr87AN7X0nWo=
+
+Name: images/nuvola/16x16/actions/playsound.png
+SHA-256-Digest: MqATXUd6h0tpyNDabe0sf0cpzlOzJnkayWnlJTYWWSI=
+
+Name: images/nuvola/32x32/actions/player_play.png
+SHA-256-Digest: qntzolQ5XbILdRzhabVUcUacLWPqGhZiV47FtapcgL8=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$21.class
+SHA-256-Digest: jXzShcl7dInKnVCTzmC7xahHdRX9yarxvyUeyE5BJ7Y=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$4.class
+SHA-256-Digest: VyrnGqD6xbmul/pZDnPoWkFjOFeAweUp7E4hfFjeYxU=
+
+Name: META-INF/maven/net.java.dev.jets3t/jets3t/pom.properties
+SHA-256-Digest: lhYm1yBxOqxNic2/z8MJboWR5AsPUCq1FzbwU9zwHUw=
+
+Name: images/nuvola/16x16/actions/kgpg_edit.png
+SHA-256-Digest: 53EHTuRFEknrRVpg9pK0LX0AwzMX3pmAmME2z0RWFBo=
+
+Name: images/nuvola/16x16/actions/viewmagfit.png
+SHA-256-Digest: c7FF73R/+GGZjODOEm8jHwXqrm+1ufftAwq3lYx2Z0Y=
+
+Name: images/nuvola/32x32/filesystems/folder_yellow.png
+SHA-256-Digest: jqMegnPsIO7DJBrHjvBLlxftSirOoRn5vY0bxq7m8IQ=
+
+Name: org/jets3t/servlets/gatekeeper/impl/ExternalUuidProvider.class
+SHA-256-Digest: yupedIVSqOn68hwWkxNsZoQ7eOE8/kMGMtEZGbWkgbU=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$28.class
+SHA-256-Digest: DEWXpRAK7sMmyJv0Oh15i/W3vHUyj8F5+QPeSHzAssc=
+
+Name: images/nuvola/32x32/actions/mix_recmon.png
+SHA-256-Digest: Kl5pwuspApphSpRXehqnPFKuwfw2iNz8YS7+MvE1/Y4=
+
+Name: org/jets3t/service/impl/rest/httpclient/GoogleStorageService.cla
+ ss
+SHA-256-Digest: rbzaPan5+i+av/sD6ZfxrhSnhj7sBmvXQ+nu6lHDBbY=
+
+Name: images/nuvola/32x32/actions/help.png
+SHA-256-Digest: yr6GLc9xn7J0AcVFZO1UgSmnHHQgvsih0/ssh0DkIng=
+
+Name: org/jets3t/service/multithread/S3ServiceMulti$DeleteVersionedObj
+ ectRunnable.class
+SHA-256-Digest: JSCoYqUlHGekQdoFHqbh+GQHaucBOsuQRI1KLhfDl2w=
+
+Name: org/jets3t/apps/cockpit/Cockpit$18.class
+SHA-256-Digest: ye03byWmoXcclQYylduGfqkGqN0eJ3SAW4zWjbs5DIQ=
+
+Name: org/jets3t/service/utils/gatekeeper/GatekeeperMessage.class
+SHA-256-Digest: m2tTT23x9huYXit9sD0DeIn3isQzKv/MXCEiwewaq20=
+
+Name: images/nuvola/32x32/actions/rotate_ccw.png
+SHA-256-Digest: 0E5tgQ0LY702l9qcUbxYyyRvXG1Q9kzFF6K0htnhrfo=
+
+Name: org/jets3t/apps/uploader/Uploader$1$1.class
+SHA-256-Digest: JWgg8iHk0/xFgS+Qpsu1JPnWge6FY9KC9l8CFxZ3NC0=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$7.class
+SHA-256-Digest: dfgHjfxz4ZQTBz1OMhzto8SIYr9pSDccFTLoT7Tc4t8=
+
+Name: images/nuvola/32x32/filesystems/file_broken.png
+SHA-256-Digest: 1+7EHMyLR8oBuwbBhPVxq3sW2d8tb7H/o003U2qlTDI=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$5.class
+SHA-256-Digest: T36gGvujMXO8IUjeH2+mq3Bt1RIuzhUic2dgdakbsxM=
+
+Name: org/jets3t/service/acl/Permission.class
+SHA-256-Digest: aI310LEX3ASFDSMPAs9fgPH1+Ysd7hMFF4pev20JyQI=
+
+Name: images/nuvola/32x32/actions/pencil.png
+SHA-256-Digest: 1JHE2Za4ipYlc/j8LZxLwdHnC6bd7AIWM1+JO2nqIXw=
+
+Name: images/nuvola/32x32/actions/filesave.png
+SHA-256-Digest: NVk9Db4RGqfMRIVDN0doAL9ykhmgwyUXbKgLQui6dLA=
+
+Name: images/nuvola/32x32/actions/finish.png
+SHA-256-Digest: zrpggezOAaSoAcxjwgst3eyYjE4TH9k7gSlmZcI9ywQ=
+
+Name: org/jets3t/gui/ItemPropertiesDialog.class
+SHA-256-Digest: Woo0jlL5x8W+wBnd6Q3eSaFw8Xw2VsOYQDJFNqdQDF0=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$22.class
+SHA-256-Digest: TFJ+9F8Or8fg5wXEE40xLD/yNLEYL/dPqZ0XLpO0HcE=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite.class
+SHA-256-Digest: GUt8koTzE+ZG3zkBhE+jK+3CAdzzAScFKGg60WcaUt8=
+
+Name: org/jets3t/apps/cockpit/gui/AWSDevPayProductPanel.class
+SHA-256-Digest: 0D/Sw1okbqC1plIGsCVB3myCkuFYvRdKVG4ee3fPSpg=
+
+Name: images/nuvola/32x32/actions/viewmagfit.png
+SHA-256-Digest: WVvgQ8PRlNofssJoCvfUsglf47z00SgVVdZJVC+ueZg=
+
+Name: images/nuvola/16x16/actions/kmixdocked_mute.png
+SHA-256-Digest: tVMVHQXnKxQn2+zyzcpFb2sPXgqzcgERGxan/T82bD0=
+
+Name: images/nuvola/32x32/actions/identity.png
+SHA-256-Digest: 3/5G1zrZnW8PkzCCV1s7M+TLIUeJNN1g/YfFQYBZaB0=
+
+Name: org/jets3t/service/impl/rest/httpclient/HttpMethodReleaseInputSt
+ ream.class
+SHA-256-Digest: J3MqnJmGkteFS9IqlXQ5fXVSP9+e6mgV7XEviO+mSzU=
+
+Name: images/nuvola/16x16/actions/edit_remove.png
+SHA-256-Digest: 4w+wS3Px+tRkTgm8XehrxzYRMgp4YiBHK4fD4ERViac=
+
+Name: org/jets3t/apps/uploader/XmlGenerator.class
+SHA-256-Digest: xKh12b2UinzbkdDCL/zkpaTltczm9RMA8+GqPWQLexU=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$6.class
+SHA-256-Digest: RRDeoYpX4mCQVgFK3h4d5a8u/abIsVA57qnwI56H5dE=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$26.class
+SHA-256-Digest: 5TyO26jZn5iS0wKUqoTlsDa6/1YSaN3gG91MywT7ctI=
+
+Name: images/nuvola/16x16/actions/artsmidimanager.png
+SHA-256-Digest: +jUNVlgjhsOpKA0rl9/HSc0sBol5UEYbo4J3BYEN11s=
+
+Name: images/nuvola/16x16/actions/signature.png
+SHA-256-Digest: w6rPm9Di4H9nbw9jWIrSqN91jjXsWngdHjDi1ETVOBQ=
+
+Name: images/nuvola/32x32/filesystems/exec.png
+SHA-256-Digest: Y//rxAlRHAQWNK/NeiwkCGk6EyFS4rFgoWkccFH6U1Q=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$9.class
+SHA-256-Digest: 2PC+BAwEjjyIS+vLSflr8kWFXvatipPnZ06+b6kW7wU=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$3$3.class
+SHA-256-Digest: 9IVhpYSjKXnZ34vE5AX8FryH+JO6AiTFQu6Ibb5qo98=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$23.class
+SHA-256-Digest: 8yk0KS51yF//ZJmeh/UF8n1E14jmKEnaq7NPX3GffnU=
+
+Name: images/nuvola/16x16/actions/laptop_nocharge.png
+SHA-256-Digest: kUbwFAoVizXq6SkWPkIfqTEvh+BAfX1RgvjHRHiiCPM=
+
+Name: org/jets3t/servlets/gatekeeper/impl/DefaultAuthorizer.class
+SHA-256-Digest: acRckR8p5KvBAw3RE+JTXmMeMsCq18SZEQE5KiInBZU=
+
+Name: images/nuvola/16x16/actions/undo.png
+SHA-256-Digest: K/Afm91twMmCJwul5fAgx0WLceZZQqqi8xXuCrHVK5I=
+
+Name: org/jets3t/servlets/gatekeeper/impl/DefaultUrlSigner.class
+SHA-256-Digest: ufVDCg2Au5BEtjg4AOECVNDuDHQhfUduAZ9s5KO2R8A=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$MultipleDelet
+ eResultHandler.class
+SHA-256-Digest: XdwLUxvT6wisVGPZNCl0hd+/ogQAFCvdi3JPB1cskFo=
+
+Name: images/nuvola/32x32/actions/irkickflash.png
+SHA-256-Digest: pLVa/l2clMg9HfTRW9V1KJLkeXAF9zH42zyKtkz5p0w=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2$2.class
+SHA-256-Digest: L5/3KG6in10yDRJNz4aGhL55kpQcOObnX9ukOyFR+v4=
+
+Name: org/jets3t/service/model/MultipleDeleteResult.class
+SHA-256-Digest: OVeyGU8pVViLeZf+SfHrXpix0+eiTYVKWlKQInmHq/4=
+
+Name: org/jets3t/service/utils/RestUtils.class
+SHA-256-Digest: CzQgA2rWgnAiv133+W9pMB6y71r4AnSQubVv1EwCW6w=
+
+Name: images/nuvola/32x32/actions/reload_page.png
+SHA-256-Digest: seNBHWhQElnpzHiDdr3to2xm5Up3rEic26YVu41Z+do=
+
+Name: images/nuvola/32x32/actions/2rightarrow.png
+SHA-256-Digest: AXiWKdVSVR3+3qKUgeSGrljuLHFGeNv9Yvc7sbPxUbY=
+
+Name: org/jets3t/gui/skins/html/SkinnedLookAndFeel.class
+SHA-256-Digest: eje6fAiPg4otXgVwZJb9pvlVuMgZ7tE9MaSZbrq+wP0=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$S3BucketLoggi
+ ngStatusHandler.class
+SHA-256-Digest: UxUoV02cQsbBSiJTOaTijyXvHCOevN8fjHndSvsTSdo=
+
+Name: org/jets3t/service/multi/s3/MultipartCompletesEvent.class
+SHA-256-Digest: lSSHh8MOsxhDpjkdC/Ue5yCE9r+9mlZfiMuc7uEAitU=
+
+Name: org/jets3t/service/multithread/S3ServiceEventAdaptor.class
+SHA-256-Digest: x8Sw0HYGOYsuNxDEWw/PRAVm7sNDIl73wm77adI07ZY=
+
+Name: org/jets3t/apps/cockpit/Cockpit$13.class
+SHA-256-Digest: /oo+6gUwRi+leMwJcq9yqeNYGViZ159iix3HGLj8dPg=
+
+Name: org/jets3t/apps/cockpit/gui/BucketTableModel$1.class
+SHA-256-Digest: esbgY12d/G0LclF1Hpp2gFZqAdIf9ftYrKUnBQNL8zU=
+
+Name: org/jets3t/apps/synchronize/Synchronize$ComparisonResult.class
+SHA-256-Digest: my3u5H0cIbGrQMi3vwKgfQ3NXRwfoZwSNzq+7EsjHB8=
+
+Name: images/nuvola/32x32/actions/kgpg_show.png
+SHA-256-Digest: aJnMp4qHv5P4+tGh6IeeKnQlfgRi/hczXMu0f+D85gc=
+
+Name: org/jets3t/service/multi/SimpleThreadedStorageService$8.class
+SHA-256-Digest: wWrjhupPCcbK4Rf81NI/xyb6Qw5Df+Li74r8L+Nie5I=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$RequestPaymen
+ tConfigurationHandler.class
+SHA-256-Digest: Z1lNemJVJk2ReykZXmjUW3SSLy1oWdRMj3gA2isycuw=
+
+Name: images/nuvola/32x32/filesystems/trashcan_full.png
+SHA-256-Digest: EAEqeZYqrKMTEr0EkyKJvDJqDRnXl613yfUNrVwirKE=
+
+Name: org/jets3t/gui/HyperlinkActivatedListener.class
+SHA-256-Digest: 6HhYaTMHEjShTw5HGZTVSYy8I7LQ+urZiCoo5ZOF6QI=
+
+Name: images/nuvola/16x16/actions/player_start.png
+SHA-256-Digest: PVSybhC+GEnZwGE3A2L9VkVkuAIRQxMIIA2PP0ga1+I=
+
+Name: org/jets3t/service/model/cloudfront/StreamingDistributionConfig.
+ class
+SHA-256-Digest: tbX0867fFSWYRyya38jBZdqglnM031VnGz6ervZFETw=
+
+Name: org/jets3t/service/model/LifecycleConfig$Expiration.class
+SHA-256-Digest: tYiWpdXuGUbufqJ/bNoX3LOG5b+n4hx18syi8zj/TKc=
+
+Name: org/jets3t/service/multi/ThreadedStorageService$DownloadObjectRu
+ nnable.class
+SHA-256-Digest: geDk+vyrpnZmsgrng4h3pHASETwDDudGRXC9XyrReJU=
+
+Name: images/nuvola/32x32/filesystems/folder_photo.png
+SHA-256-Digest: k2Rti2KPtwmlqnzmoKUVpZ++BlOd0Mf3BnyJhxp6m6s=
+
+Name: images/nuvola/32x32/actions/artsaudiomanager.png
+SHA-256-Digest: WVfs3Oy2Et132jD7DiPIcsQRleotBexW3jOaMR8embw=
+
+Name: images/nuvola/16x16/actions/kgpg_term.png
+SHA-256-Digest: 0HvPuMbsRuyKDRY6ZBCgQ7eWNNdmgurqa+ZY3ICeRC4=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$1.class
+SHA-256-Digest: EZZwbP2SgdnRiQMmUEPhcjsXAlRPxR2Ombs1xTRIUso=
+
+Name: org/jets3t/service/io/GZipInflatingOutputStream.class
+SHA-256-Digest: eSR12UZ0OKr52luiAhbNVrSRCHEOrUhB0EExCR6CHlM=
+
+Name: images/nuvola/32x32/actions/signature.png
+SHA-256-Digest: AFYOJ24wZcX33l3sBMEaRU9haDClKFf7JGhugeU270M=
+
+Name: images/nuvola/32x32/actions/spellcheck.png
+SHA-256-Digest: FPh/LcwZ7Hc+KJ0qz3aE49f2CaIiZSMj3XwkbHXB8Cc=
+
+Name: org/jets3t/service/model/cloudfront/CacheBehavior$ViewerProtocol
+ Policy.class
+SHA-256-Digest: XVwkcosnXzdTVl9M2GWwDW+z4h8KtpOosVKRB1xFz6M=
+
+Name: org/jets3t/service/model/cloudfront/CustomOrigin.class
+SHA-256-Digest: AKiA7Vx5QqK8pCTY8AHme851tAPyoJ8jEwNrDccEnqw=
+
+Name: org/jets3t/service/impl/rest/XmlResponsesSaxParser$LifecycleConf
+ igurationHandler.class
+SHA-256-Digest: 14K2TCFTFcjU/Mqk692hAj7Z7g27r7b00d6zx40u7r4=
+
+Name: org/jets3t/service/multi/event/DownloadObjectsEvent.class
+SHA-256-Digest: wuMObMMQefg5F3hokV11lrJkWFVH8IvUXm8efMVF+0A=
+
+Name: images/nuvola/32x32/actions/mail_post_to.png
+SHA-256-Digest: nT3Pz2O+WphkFQHsa2OO5IPHhYMovRCoWD4WCzHz8C0=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$24.class
+SHA-256-Digest: Lxm7HvN74Bt+PAZbtAzrg1jAAgw0jm0hWsi2HEYTIIc=
+
+Name: images/nuvola/16x16/actions/laptop_power.png
+SHA-256-Digest: y00UMVFM+vVXaYrM0b30PaiuYrCdr7s1eMU6hMlhdvQ=
+
+Name: images/nuvola/16x16/actions/rotate.png
+SHA-256-Digest: iDuNhlyaANwM2HkY0BjNQIctH72kQQhkc4CDOESKicw=
+
+Name: org/jets3t/service/StorageObjectsChunk.class
+SHA-256-Digest: J7skyWPA2vg0q3j4nQALdMtY77XdvIHmVKH65zy7HQI=
+
+Name: images/nuvola/16x16/actions/filesaveas.png
+SHA-256-Digest: 8g4wZ/IlpiALx7TbOCHkJfnBSAu1S8g0Z7vJjWTdAdY=
+
+Name: images/nuvola/16x16/actions/kgpg_info.png
+SHA-256-Digest: DEWt/fmt3Gault2dUtUVI6EMzoUYNOGq5Hkynh7Edtk=
+
+Name: org/jets3t/apps/cockpit/gui/StartupDialog$2$1.class
+SHA-256-Digest: M+Fek8Qqp9283vELoONncR23zZC4AcsPgJn9Oorrm1Q=
+
+Name: images/nuvola/32x32/actions/rebuild.png
+SHA-256-Digest: /ORyhgJDXfaBDQFgmkvXFvvAJqhNZC4ITvJqxfYSrhI=
+
+Name: images/nuvola/32x32/actions/connect_established.png
+SHA-256-Digest: C7zaimxqaaJGSuhOlb0fTuWikR2y5b5wORo0m17st3M=
+
+Name: images/nuvola/16x16/actions/make_kdevelop.png
+SHA-256-Digest: MEglqhPMQRo3aPdT6kPoFEgsnR6UE4iPhcO9duiX/bw=
+
+Name: org/jets3t/apps/cockpit/Cockpit$16.class
+SHA-256-Digest: ofz+JfVJcVIIZABZcG+/vXNNLroH14Qj0Hatv68F8Ck=
+
+Name: org/jets3t/servlets/gatekeeper/BucketLister.class
+SHA-256-Digest: n1+QXAWAo7HdSZCTomJul2+EkJWjD33SlFl+1s8MSC0=
+
+Name: org/jets3t/gui/ManageDistributionsDialog$3$1.class
+SHA-256-Digest: WAzVct6D6PSFtLVW+SGTJC3ORkbf+CnnfwHUfJ4Twwo=
+
+Name: org/jets3t/gui/TableSorter$Arrow.class
+SHA-256-Digest: buDIcLZcYAaAnU03HQMaOxtWFoqLSKrBPsHDhQjOfKI=
+
+Name: contribs/mx/S3ServiceErrorCodeTable.class
+SHA-256-Digest: RB8h9ppG2gPp/TcYx/INZ+P3QTGQfmSTar3jxvqNHiE=
+
+Name: images/nuvola/32x32/actions/mail_get.png
+SHA-256-Digest: Gqge7qi5FL9cnb6uSweu4AHtVR8DCFJXNe2Gmd9tT7k=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$7.class
+SHA-256-Digest: x+NdhLUtde+9YTkTHbcBLKV8xCl2dUNIEW9HIMjaBkE=
+
+Name: images/nuvola/32x32/actions/kgpg_key1.png
+SHA-256-Digest: bHGAZyXkWIq1NicC0tsWJ0i9H7+USxJpIIloA84QSPM=
+
+Name: org/jets3t/gui/skins/html/SkinnedJTextArea.class
+SHA-256-Digest: cJDG557rkgCENeQddRHl9TFwN+oG49BMNp8lPFo8qxc=
+
+Name: images/nuvola/16x16/actions/kgpg_show.png
+SHA-256-Digest: pVlja5N/emNy4GBu24mK8fmlqVPYdB6m9rdzoQ3puMU=
+
+Name: org/jets3t/apps/cockpitlite/CockpitLite$25.class
+SHA-256-Digest: QLpmp2i4AwyJL5nuJo1EFTFfMiQwDACvVmRP5AK2kT4=
+
+Name: images/nuvola/32x32/filesystems/folder_locked.png
+SHA-256-Digest: 7dOxqqBRktil4lQRyEQlcDzEDFLuaKaKNYNigY0fSO0=
+
+Name: images/nuvola/32x32/actions/laptop_nobattery.png
+SHA-256-Digest: 11dvcFVpRhZrgav9Kqr8UnQv7g2jmt7Bh7bZ2SHP8/g=
+
+Name: org/jets3t/service/multithread/GetObjectsEvent.class
+SHA-256-Digest: E6iZsVaXzCtHSNCsmHHut9rzkicIAoXSSlqNAwLYNCs=
+
+Name: org/jets3t/service/model/MultipartUpload.class
+SHA-256-Digest: D2btXzkoPBP/I6cPbrPL3NgUHf6QHzWtrbYdD8bpCs8=
+
+Name: images/nuvola/32x32/actions/view_multicolumn.png
+SHA-256-Digest: 2rXFev1Vu8vT4uQ9kieskgokTcZHWtdm49UyjQl8D3I=
+
+Name: images/nuvola/16x16/actions/filesave.png
+SHA-256-Digest: rkEcqSNvm01/JZOKf53DJnTJjFqiPbrLJAca+3/RdEo=
+
+Name: images/nuvola/32x32/actions/kgpg_term.png
+SHA-256-Digest: 5nzMXGE1IONH3ZN76/43gpp7AeiilfgRqrEai+cWKWE=
+
+Name: org/jets3t/service/multithread/S3ServiceSimpleMulti$8.class
+SHA-256-Digest: Pm9hjrPhAqQEICrBtkLsZsvWtbL5b3BTkQIpxVOQZWo=
+
+Name: org/jets3t/servlets/gatekeeper/Authorizer.class
+SHA-256-Digest: Jy7JYwrZSghlqcX9RcbkGXzv8L42/Y7Jc6A48oYJqRk=
+
+Name: org/jets3t/service/impl/rest/CloudFrontXmlResponsesSaxParser$Log
+ gingStatusHandler.class
+SHA-256-Digest: NDWARH+xPcAYRXfj3i8eKc6tiNrzQWT10vIPARFFV9w=
+
+Name: org/jets3t/service/model/cloudfront/S3Origin.class
+SHA-256-Digest: HS59nzX6hdyxTpnIAG5Qk1iZa/pauSeh4Kg7MwOIzJM=
+
+Name: images/nuvola/32x32/actions/2leftarrow.png
+SHA-256-Digest: XoTwMvN8uFp4JuJ4KqzfupxUFit6GELFEqYJo58tZYg=
+
+Name: org/jets3t/service/multi/s3/ThreadedS3Service$2.class
+SHA-256-Digest: hUnCnQz5368EN1q1yjVTPOad5cShdoXNqMJUX90bdUY=
+
+Name: images/nuvola/16x16/actions/redo.png
+SHA-256-Digest: hG3IP65j0WbKySl4zcAmJUHyPzK15kDnqZEnumV6cu8=
+
+Name: org/jets3t/apps/cockpit/Cockpit$15.class
+SHA-256-Digest: wZNrGuIjWyAQRVRbAs+H60Ic/Tli8xWgLZVUC8IRQVs=
+
+Name: org/jets3t/apps/cockpit/gui/CreateBucketDialog.class
+SHA-256-Digest: KOd7AkzuMpifPGxi3tq3wNiW6h8HGZSG7GwdtBrZiaw=
+

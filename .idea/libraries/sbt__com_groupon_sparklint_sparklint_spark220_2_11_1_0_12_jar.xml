@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.groupon.sparklint:sparklint-spark220_2.11:1.0.12:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.groupon.sparklint/sparklint-spark220_2.11/jars/sparklint-spark220_2.11-1.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.groupon.sparklint/sparklint-spark220_2.11/srcs/sparklint-spark220_2.11-1.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

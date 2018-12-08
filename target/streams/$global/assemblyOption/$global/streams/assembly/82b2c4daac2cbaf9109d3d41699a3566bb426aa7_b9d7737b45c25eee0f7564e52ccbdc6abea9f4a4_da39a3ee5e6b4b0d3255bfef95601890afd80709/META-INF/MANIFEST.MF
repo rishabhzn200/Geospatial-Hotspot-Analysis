@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: jawn-streamz
+Implementation-Version: 0.10.1
+Specification-Vendor: org.http4s
+Specification-Title: jawn-streamz
+Implementation-Vendor-Id: org.http4s
+Specification-Version: 0.10.1
+Implementation-Vendor: org.http4s
+

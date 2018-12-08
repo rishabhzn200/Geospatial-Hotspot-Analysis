@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sparklint-spark220
+Implementation-Version: 1.0.12
+Specification-Vendor: com.groupon.sparklint
+Specification-Title: sparklint-spark220
+Implementation-Vendor-Id: com.groupon.sparklint
+Specification-Version: 1.0.12
+Implementation-URL: https://github.com/groupon/sparklint
+Implementation-Vendor: com.groupon.sparklint
+Main-Class: com.groupon.sparklint.SparklintServer
+

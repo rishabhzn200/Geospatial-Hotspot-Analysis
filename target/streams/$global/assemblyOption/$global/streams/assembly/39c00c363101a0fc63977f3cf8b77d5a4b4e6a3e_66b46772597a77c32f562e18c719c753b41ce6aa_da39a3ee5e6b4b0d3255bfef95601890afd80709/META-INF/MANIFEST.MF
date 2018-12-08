@@ -1,0 +1,103 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Bundle-Description: Janino is a super-small, super-fast Java compiler.
+Bundle-License: http://dist.codehaus.org/janino/new_bsd_license.txt
+Bundle-SymbolicName: org.codehaus.janino.commons-compiler;singleton:=t
+ rue
+Export-Package: org.codehaus.commons.compiler, org.codehaus.commons.co
+ mpiler.samples
+Bundle-Name: Commons-Compiler
+Bundle-Version: 3.0.0
+Bundle-ManifestVersion: 2
+Created-By: 1.8.0_45-b15 (Oracle Corporation)
+Specification-Version: 3.0.0
+
+Name: org/codehaus/commons/compiler/package-info.class
+SHA-256-Digest: 3XYptDyXMTFe+t37kLPNQp2yQWTSa3lK/67W/y8NWGM=
+
+Name: org/codehaus/commons/compiler/ICookable.class
+SHA-256-Digest: hbDpbFQyjE9wtZZO3HE6BrmzLPqNJxxsa0mCqP7SPHo=
+
+Name: org/codehaus/commons/compiler/samples/ScriptDemo.class
+SHA-256-Digest: 5owexhA+yL7oHY+FSEgFvWioDaM4ojGPL/73hTnpugs=
+
+Name: org/codehaus/commons/compiler/CompileException.class
+SHA-256-Digest: z4eGMN4CaL4nlyw1sD1BkZV22iFVEUlryyJYMUo/wMA=
+
+Name: org/codehaus/commons/compiler/WarningHandler.class
+SHA-256-Digest: +r7GQRDP+hqNjGKht9FfzrkaZHo4Nf+c3qpg/PEviR0=
+
+Name: org/codehaus/commons/compiler/CompilerFactoryFactory.class
+SHA-256-Digest: 4uX93wdj+RVW7g2PZVD8NUKofXiHvb3R0PHoQYEwvvw=
+
+Name: org/codehaus/commons/compiler/AbstractCompilerFactory.class
+SHA-256-Digest: h8yclcMBQD+GmAopPTAg3InRYq6mon6SJHiRSZ1PtnI=
+
+Name: org/codehaus/commons/compiler/Cookable.class
+SHA-256-Digest: mNVw2jZxUEIZ2CLNvKEJAznU3CoWzy/WVofT8eW00Tk=
+
+Name: org/codehaus/commons/nullanalysis/NotNull.class
+SHA-256-Digest: mEJu6//sdv9hL415HZhTzQVWdppBW6MBGnI+8rsadWw=
+
+Name: org/codehaus/commons/compiler/AbstractJavaSourceClassLoader$Prot
+ ectionDomainFactory.class
+SHA-256-Digest: 2O86F4SrEK5RcWsmMhoF8q6NkZKEVn1Ocxoj1PT1Y0M=
+
+Name: org/codehaus/commons/compiler/samples/package-info.class
+SHA-256-Digest: K9gaN4vCwPZCD0QPaSvxmwVKsSjQ/dPrH54W5CTMMPk=
+
+Name: org/codehaus/commons/compiler/ISimpleCompiler.class
+SHA-256-Digest: 7s/etIb9EBLMgaYlMLJVHuH/6zD8evRH6kjLFscamVw=
+
+Name: org/codehaus/commons/nullanalysis/package-info.class
+SHA-256-Digest: BIrjT48U09DkIFMm36uAcCsIxaoHyeIDwn8amKfrsy0=
+
+Name: org/codehaus/commons/compiler/IScriptEvaluator.class
+SHA-256-Digest: XcyS3MYroVvPOgNdmK61Q0feeMRMzdgvROoF08kH1+M=
+
+Name: org/codehaus/commons/compiler/IClassBodyEvaluator.class
+SHA-256-Digest: 0xQXRwwom98QCYKOi5SDtaPsu+htkUBfJ/awmGzihio=
+
+Name: org/codehaus/commons/nullanalysis/NotNullByDefault.class
+SHA-256-Digest: K2BuoJdtpqc/jVsq3zx+ShsSN/5ERxj3VzYx/h+xXeU=
+
+Name: org/codehaus/commons/compiler/LocatedException.class
+SHA-256-Digest: fc6VnmpRYrFj7cnVJ1410bGE1dY7w97CJ6C4R/DUlIo=
+
+Name: org/codehaus/commons/compiler/PrimitiveWrapper.class
+SHA-256-Digest: Cbb7O8J8ycFU1pPDUWdAi1FnU1ctl04KEh+PlDYiPGk=
+
+Name: org/codehaus/commons/compiler/Jsh.class
+SHA-256-Digest: 7vnd3gpIuZrhv+13KHSrzJLd+Tam/3GFnAp4ks9AgOg=
+
+Name: org/codehaus/commons/compiler/samples/ClassBodyDemo.class
+SHA-256-Digest: agauj6b8SPkaB/Hx2otVAudmdrCVvCVHgYEOdGfAmjk=
+
+Name: org/codehaus/commons/compiler/samples/DemoBase.class
+SHA-256-Digest: sdk2OLKx5nx8zrOuZWoP3PaYOlYhxbXQK6iyrelkNXk=
+
+Name: org/codehaus/commons/compiler/ICompilerFactory.class
+SHA-256-Digest: MUiC0ZIVmAHceEUww4T+ji+EHSM/o8QESsdFnQwNr9Q=
+
+Name: org/codehaus/commons/compiler/IExpressionEvaluator.class
+SHA-256-Digest: +ccKp4ijyx0Pwasij295SBtEBB3TLtpgVkaCcPk2xYk=
+
+Name: org/codehaus/commons/compiler/Location.class
+SHA-256-Digest: ZXCIjw+HHOOQpMmID2RkclYIbfxwPtzWN25BASm69D8=
+
+Name: org/codehaus/commons/nullanalysis/Nullable.class
+SHA-256-Digest: aHA9OXTb6JOhxblBUr0eFrk4G2fsAOfdCbYKwxJN6j4=
+
+Name: org/codehaus/commons/compiler/AbstractJavaSourceClassLoader.clas
+ s
+SHA-256-Digest: v92GL5d1NhNHOjobloMjM8B0UiaG9mn/Uwl4aKZr55Q=
+
+Name: org/codehaus/commons/compiler/samples/ExpressionDemo.class
+SHA-256-Digest: I8VCi3dXpsb+CauQnJ+dBjgfP6lfamgqo+lJZmq8WYs=
+
+Name: org/codehaus/commons/compiler/samples/ShippingCost.class
+SHA-256-Digest: mrNXcQpnvwDfoosJWF+dDs7WB/chGsAb9njmEWAVj28=
+
+Name: org/codehaus/commons/compiler/ErrorHandler.class
+SHA-256-Digest: jYJHiMwwZsDSc/3klBMNllC/EBI81zN685pTiS1qBs4=
+
