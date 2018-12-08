@@ -1,9 +1,9 @@
 # Geospatial Hotspot Analysis
 
 
-## Requirement
+## About
 
-In this phase, you are required to do spatial hot spot analysis. In particular, you need to complete two different hot spot analysis tasks 
+Geospatial Hotspot Analysis is about two different hot spot analysis tasks:
 
 
 ### Hot zone analysis
